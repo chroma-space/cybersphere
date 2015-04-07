@@ -17,3 +17,5 @@ coverage
 tmp/*
 .jekyll-metadata
 /vendor
+node_modules
+bower_components

@@ -1,6 +1,21 @@
 {
   "name": "chroma.space",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "chroma.space website",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulhayes/potential-happiness.git"
+  },
+  "author": "Paul Hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulhayes/potential-happiness/issues"
+  },
+  "homepage": "https://github.com/paulhayes/potential-happiness",
   "dependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-less": "*",
@@ -8,7 +23,5 @@
     "grunt-contrib-copy": "*",
     "bower": "*",
     "grunt-exec": "*"
-  },
-  "engines": {
-    "npm": "1.2.x"
+  }
 }
