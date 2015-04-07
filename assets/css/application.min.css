@@ -5954,3 +5954,7 @@ td.visible-print {
     display: none !important;
   }
 }
+.navbar-inverse {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+/*# sourceMappingURL=application.min.css.map */

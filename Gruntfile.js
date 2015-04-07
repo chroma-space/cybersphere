@@ -5,7 +5,10 @@ grunt.initConfig({
     production: {
       options: {
         paths: ["bower_components/bootstrap/less"],
-        yuicompress: true
+        yuicompress: true,
+        sourceMap: true,
+        sourceMapURL: "application.min.css.map"
+
       },
       files: {
         "assets/css/application.min.css": "assets/_less/application.less"
