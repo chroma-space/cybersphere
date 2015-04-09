@@ -3,3 +3,112 @@
 .navbar-inverse {
   background-color:rgba(0,0,0,0.1);
 }
+
+@font-family-sans-serif:  'Josefin Sans', sans-serif, Helvetica, Arial, sans-serif;
+//@font-family-sans-serif: 'Raleway', sans-serif;
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
+.line-icon {
+  width:auto;
+  height:1em;
+}
+
+.chroma {
+  letter-spacing:1.2em;
+  margin-right:-0.4em;
+}
+
+.splash {
+  display:table;
+  position:relative;
+  width:100vw;
+  height: 100vh;
+
+
+  h1 {
+    display:table-cell;
+    margin:0;
+    padding:0;
+    vertical-align:middle; /*middle centred*/
+    display:table-cell;
+    text-align:center;
+    letter-spacing: 10vw;
+    text-indent: 5vw;
+    font-size: 4vw;
+  }
+}
+
+.navbar
+{
+  position: absolute;
+  left: 0;
+  right: 0;
+  @media (min-width: 768px){
+    .nav {
+
+      float: none;
+      display: table;
+      width: 100%;
+
+      li {
+        float: none;
+        position: relative;
+        display: table-cell;
+        text-align: center;
+        text-transform: uppercase;
+        font-size:18px;
+      }
+
+    }
+
+  }
+}
+
+.project-desc {
+  width:100%;
+
+  > div {
+    position:absolute;
+    lefT:0;
+    right:0;
+    top:0;
+    bottom:0;
+  }
+
+  h2 {
+    text-align:center;
+  }
+
+  img {
+      width: 100%;
+      position: absolute;
+      top: 10%;
+    }
+}
+
+.project-desc:before{
+  content: "";
+  display: block;
+  padding-top: 120%;
+}
+
+.o-in-chroma {
+
+}
+
+.about {
+  padding: 250px 0 250px 0;
+  font-size:1.618034em;
+  h1 {
+    display:none;
+  }
+}
+
+.projects {
+  h1 {
+    display:none;
+  }
+}

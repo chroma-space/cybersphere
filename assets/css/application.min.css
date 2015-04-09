@@ -255,7 +255,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Josefin Sans', sans-serif, Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -337,7 +337,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Josefin Sans', sans-serif, Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -5956,5 +5956,91 @@ td.visible-print {
 }
 .navbar-inverse {
   background-color: rgba(0, 0, 0, 0.1);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+}
+.line-icon {
+  width: auto;
+  height: 1em;
+}
+.chroma {
+  letter-spacing: 1.2em;
+  margin-right: -0.4em;
+}
+.splash {
+  display: table;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+.splash h1 {
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  /*middle centred*/
+  display: table-cell;
+  text-align: center;
+  letter-spacing: 10vw;
+  text-indent: 5vw;
+  font-size: 4vw;
+}
+.navbar {
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+@media (min-width: 768px) {
+  .navbar .nav {
+    float: none;
+    display: table;
+    width: 100%;
+  }
+  .navbar .nav li {
+    float: none;
+    position: relative;
+    display: table-cell;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+  }
+}
+.project-desc {
+  width: 100%;
+}
+.project-desc > div {
+  position: absolute;
+  lefT: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.project-desc h2 {
+  text-align: center;
+}
+.project-desc img {
+  width: 100%;
+  position: absolute;
+  top: 10%;
+}
+.project-desc:before {
+  content: "";
+  display: block;
+  padding-top: 120%;
+}
+.about {
+  padding: 250px 0 250px 0;
+  font-size: 1.618034em;
+}
+.about h1 {
+  display: none;
+}
+.projects h1 {
+  display: none;
 }
 /*# sourceMappingURL=application.min.css.map */
