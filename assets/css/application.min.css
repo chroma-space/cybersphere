@@ -6026,8 +6026,12 @@ h6 {
   left: 0;
   right: 0;
   text-transform: uppercase;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 @media (min-width: 768px) {
+  .navbar {
+    background-color: rgba(255, 255, 255, 0);
+  }
   .navbar .nav {
     float: none;
     display: table;
