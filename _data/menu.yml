@@ -1,6 +1,6 @@
 - text: About
-  url: "#about"
+  url: "/about"
 - text: Projects
-  url: "#projects"
+  url: "/#projects"
 - text: Blog
   url: "/blog"

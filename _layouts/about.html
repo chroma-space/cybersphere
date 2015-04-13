@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+  <body class="page about">
+    {% include nav.html %}
+    {% for post in site.categories.about %}
+    <div id="{{post.slug}}">
+    <div class="half-splash">
+      {% if post.video %}
+      <video autoplay loop preload="auto" class="{{post.video}}" poster="/assets/images/{{post.video}}.png">
+        <source src="/assets/video/{{post.video}}.mp4" type="video/mp4"/>
+        <source src="/assets/video/{{post.video}}.mkv" type="video/x-matroska"/>
+      </video>
+      {% endif %}
+    </div>
+    <div class="container {{post.slug}}">
+    <article>
+      <h1>{{ post.title }}</h1>
+      <div class="text">{{post.content}}</div>
+    </article>
+    </div>
+    </div>
+    {% endfor %}
+  <div class="half-splash">
+
+  </div>
+  </body>
+  {% include footer.html %}
+</html>

@@ -3,5 +3,6 @@ layout: post
 title:  "Gather"
 date:   2015-04-01 14:36:11
 categories: projects
+description: virtual reality, embodiment, haptic
 ---
 Gather post
