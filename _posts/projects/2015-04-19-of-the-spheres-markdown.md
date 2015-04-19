@@ -3,12 +3,13 @@ published: true
 title: Of the Spheres
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-"invert-nav": false
+"invert-nav": true
 description: null
 layout: post
 date: "2015-01-01"
 categories: projects
 video: heliosphere_projbanner
+"splash-description": "<a href=\\\"http://vimeo.com/65454918\\\">Heliosphere trailer</a> from <a href=\\\"http://vimeo.com/chromaspace\\\">C H R Θ M A</a> on Vimeo."
 ---
 
 > _“…there is no inner man, man is in the world, and only in the world does he know himself.” Maurice Merleau-Ponty, Phenomenology of Perception (Preface, 1945)_
@@ -21,7 +22,9 @@ Heliosphere, the first phase of the Of The Spheres project, is a 360º Sound & V
 
 The second project is an Oculus Rift project called Conjunction made for the UK’s solar eclipse of March 2015 - this project has a separate project post here > 
 
-Exploring using new technologies to record human life on this planet and drawing on the growing field of Acoustic Ecology we are interested in using 360º Photo Spheres and sound recordings as a way of using media to explore the relationship between human beings and their environment. We have a call out for panoramas from around the world exploring places that people identify as “home” > http://ofthespheres.com/share-your-sphere/
+Exploring using new technologies to record human life on this planet and drawing on the growing field of Acoustic Ecology we are interested in using 360º Photo Spheres and sound recordings as a way of using media to explore the relationship between human beings and their environment. We have a call out for panoramas from around the world exploring places that people identify as “home” > 
+
+[http://ofthespheres.com/share-your-sphere/](http://ofthespheres.com/share-your-sphere/ "#cc1010")
 
 Through exploring listening beyond our own spheres of existence and looking beyond our bubbles of personal experience can immersive media experiences put us in contact with how the globe is experienced by different people?  Using techniques of re-mixing the the micro and the macro - life on earth and the sounds and visions NASA is collecting of the cosmos - we’re exploring making visible alternative perspectives of earth and different ways of relating to the ecosphere.
 
