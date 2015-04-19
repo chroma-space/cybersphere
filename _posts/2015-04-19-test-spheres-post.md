@@ -4,7 +4,7 @@ title: Test Spheres Post
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "invert-nav": false
-date: CURRENT_DATETIME
+date: ""
 description: null
 category: of_the_spheres
 ---
