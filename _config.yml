@@ -71,3 +71,6 @@ prose:
         field:
           element: text
           label: "index image"
+      - name: date
+        field:
+          element: "hidden"
