@@ -9,6 +9,7 @@ layout: post
 date: "2015-01-01"
 categories: projects
 video: heliosphere_projbanner
+"splash-description": "<a href=\\\"http://vimeo.com/65454918\\\">Heliosphere trailer</a> from <a href=\\\"http://vimeo.com/chromaspace\\\">C H R Θ M A</a> on Vimeo."
 ---
 
 > _“…there is no inner man, man is in the world, and only in the world does he know himself.” Maurice Merleau-Ponty, Phenomenology of Perception (Preface, 1945)_
