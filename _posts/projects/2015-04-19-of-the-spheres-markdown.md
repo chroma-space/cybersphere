@@ -24,7 +24,7 @@ The second project is an Oculus Rift project called Conjunction made for the UK�
 
 Exploring using new technologies to record human life on this planet and drawing on the growing field of Acoustic Ecology we are interested in using 360º Photo Spheres and sound recordings as a way of using media to explore the relationship between human beings and their environment. We have a call out for panoramas from around the world exploring places that people identify as “home” > 
 
-[http://ofthespheres.com/share-your-sphere/](http://ofthespheres.com/share-your-sphere/)
+[http://ofthespheres.com/share-your-sphere/](http://ofthespheres.com/share-your-sphere/ "blue")
 
 Through exploring listening beyond our own spheres of existence and looking beyond our bubbles of personal experience can immersive media experiences put us in contact with how the globe is experienced by different people?  Using techniques of re-mixing the the micro and the macro - life on earth and the sounds and visions NASA is collecting of the cosmos - we’re exploring making visible alternative perspectives of earth and different ways of relating to the ecosphere.
 
