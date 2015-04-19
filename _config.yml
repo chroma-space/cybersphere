@@ -20,32 +20,42 @@ prose:
       - name : title
         field:
           element: text
+          label: title
       - name : slug
         field:
           element: text
+          label: slug
       - name: description
         field:
-          element: text
+          element: textarea
+          label: description
       - name : panorama
         field:
           element: text
+          label: "panorama image"
       - name: panorama-poster
         field:
           element: text
+          label: "panorama poster image"
       - name: panorama-longitude-speed
         field:
           element: number
+          label: "panorama rotation speed"
       - name: panorama-user-control
         field:
           element: checkbox
           value: false
+          label: "can user control panorama"
       - name: invert-nav
         field:
           element: checkbox
           value: false
+          label: "invert navigation menu colours for this page"
       - name: splash-description
         field:
           element: text
+          label: "splash description"
       - name: index-image
         field:
           element: text
+          label: "index image"
