@@ -8,6 +8,7 @@ description: null
 layout: post
 date: {}
 categories: projects
+video: heliosphere_projbanner
 ---
 
 > _“…there is no inner man, man is in the world, and only in the world does he know himself.” Maurice Merleau-Ponty, Phenomenology of Perception (Preface, 1945)_
