@@ -10,7 +10,6 @@ url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 permalink: none
 twitter_username: chroma_
 github_username:  paul_hayes
-
 # Build settings
 markdown: kramdown
 prose:
@@ -29,6 +28,18 @@ prose:
         field:
           element: textarea
           label: description
+      - name: jpg
+        field:
+          element: text
+          label: jpg image
+      -  name: png
+          field:
+            element: text
+            label: png image
+      - name: video
+        field:
+          element: text
+          label: video image ( exclude file extension )
       - name : panorama
         field:
           element: text
