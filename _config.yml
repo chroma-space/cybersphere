@@ -32,8 +32,8 @@ prose:
         field:
           element: text
           label: jpg image
-      -  name: png
-          field:
+      - name: png
+        field:
             element: text
             label: png image
       - name: video
