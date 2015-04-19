@@ -6,7 +6,7 @@ title: Test Spheres Post
 "invert-nav": false
 date: CURRENT_DATETIME
 description: null
-category: "of-the-spheres"
+category: of_the_spheres
 ---
 
 ## A New Post
