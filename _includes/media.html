@@ -1,7 +1,7 @@
 {% if include.post.video %}
 <video autoplay loop preload="auto" class="{{include.post.video}}" poster="/assets/images/{{include.post.video}}.png">
-  <source src="/assets/video/{{post.video}}.mp4" type="video/mp4"/>
-  <source src="/assets/video/{{post.video}}.mkv" type="video/x-matroska"/>
+  <source src="/assets/video/{{include.post.video}}.mp4" type="video/mp4"/>
+  <source src="/assets/video/{{include.post.video}}.mkv" type="video/x-matroska"/>
 </video>
 {% endif %}
 {% if include.post.jpg %}

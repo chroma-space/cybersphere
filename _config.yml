@@ -39,7 +39,7 @@ prose:
       - name: video
         field:
           element: text
-          label: video image ( exclude file extension )
+          label: video ( exclude file extension )
       - name : panorama
         field:
           element: text
