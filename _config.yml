@@ -82,7 +82,68 @@ prose:
           label: category
           value: ""
     _posts/projects:
+      - name : title
+        field:
+          element: text
+          label: title
+      - name : slug
+        field:
+          element: text
+          label: slug
+      - name: description
+        field:
+          element: textarea
+          label: description
+      - name: jpg
+        field:
+          element: text
+          label: jpg image
+      - name: png
+        field:
+            element: text
+            label: png image
+      - name: video
+        field:
+          element: text
+          label: video ( exclude file extension )
+      - name : panorama
+        field:
+          element: text
+          label: "panorama image"
+      - name: panorama-poster
+        field:
+          element: text
+          label: "panorama poster image"
+      - name: panorama-longitude-speed
+        field:
+          element: number
+          value: 0.01
+          label: "panorama rotation speed"
+      - name: panorama-user-control
+        field:
+          element: checkbox
+          value: false
+          label: "can user control panorama"
+      - name: invert-nav
+        field:
+          element: checkbox
+          value: false
+          label: "invert menu colours"
+      - name: splash-description
+        field:
+          element: text
+          label: "splash description"
+      - name: index-image
+        field:
+          element: text
+          label: "index image"
+      - name: date
+        field:
+          element: text
+          label: "Date {yyyy-mm-dd}"
+          value: "CURRENT_DATETIME"
       - name: category
         field:
           element: hidden
-          value: project
+          label: category
+          value: "projects"
