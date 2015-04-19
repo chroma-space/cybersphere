@@ -81,3 +81,8 @@ prose:
           element: text
           label: category
           value: ""
+    _posts/projects:
+      - name: category
+        field:
+          element: hidden
+          value: project
