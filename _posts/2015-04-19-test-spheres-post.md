@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Test Spheres Post
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
