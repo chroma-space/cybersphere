@@ -40,6 +40,7 @@ prose:
       - name: panorama-longitude-speed
         field:
           element: number
+          value: 0.01
           label: "panorama rotation speed"
       - name: panorama-user-control
         field:
