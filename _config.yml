@@ -51,7 +51,7 @@ prose:
         field:
           element: checkbox
           value: false
-          label: "invert navigation menu colours for this page"
+          label: "invert navigation menu colours"
       - name: splash-description
         field:
           element: text
