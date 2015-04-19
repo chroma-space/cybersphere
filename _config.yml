@@ -14,5 +14,38 @@ github_username:  paul_hayes
 # Build settings
 markdown: kramdown
 prose:
-	media: "/assets/images"
-    
+  media: 'assets/images'
+  metadata:
+    _posts:
+      - name : title
+        field:
+          element: text
+      - name : slug
+        field:
+          element: text
+      - name: description
+        field:
+          element: text
+      - name : panorama
+        field:
+          element: text
+      - name: panorama-poster
+        field:
+          element: text
+      - name: panorama-longitude-speed
+        field:
+          element: number
+      - name: panorama-user-control
+        field:
+          element: checkbox
+          value: false
+      - name: invert-nav
+        field:
+          element: checkbox
+          value: false
+      - name: splash-description
+        field:
+          element: text
+      - name: index-image
+        field:
+          element: text
