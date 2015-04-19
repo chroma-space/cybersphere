@@ -3,6 +3,14 @@ layout: post
 title:  "Gather"
 date:   2015-04-01 14:36:11
 categories: projects
+slug: gather
 description: virtual reality, embodiment, haptic
+panorama: pano1.jpg
+panorama-longitude-speed: -0.01
+panorama-user-control: false
+invert-nav: true
+panorama-poster: pano1.jpg
+splash-description: "EEG data, gathered from Kate Genevieve's mind while whistling theme Rainbow"
+index-image: pano1.jpg
 ---
 Gather post

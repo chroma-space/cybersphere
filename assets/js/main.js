@@ -108,17 +108,17 @@ $(function(){
     if( isPage("about") ){
         var video = $("video.kate-rainbow");
         video.css("-webkit-filter","saturate(0)");
-        var lastP;
+        var lastScroll;
 
         if( video ){
           setInterval(function(){
-            var p = $(document).scrollTop();
-            p=Math.max(0,1-p/50);
-
-            if( lastP != p ){
-              video.css("-webkit-filter","saturate("+p+")");
+            var scroll = $(document).scrollTop();
+            var p = Math.max(0,1-scroll/50);
+            var b = 1+(scroll/50);
+            if( lastScroll != scroll ){
+              video.css("-webkit-filter","saturate("+p+") brightness("+b+")");
               video.css("filter","saturate("+p+")");
-              lastP = p;
+              lastScroll = scroll;
             }
           },100);
           /*
@@ -134,6 +134,182 @@ $(function(){
 
     }
 });
+
+$(function(){
+  var panoramas = $("canvas.panorama");
+  panoramas.each(function(i,pano){
+
+      var userControl = ($(pano).attr("user-control")=="true") || false;
+      var manualControl = false;
+			var longitude = 0;
+			var latitude = 0;
+			var savedX;
+			var savedY;
+			var savedLongitude;
+			var savedLatitude;
+      var longitudeSpeed = Number( $(pano).attr("longitude-speed") || 0.1 );
+
+			// panoramas background
+      var baseUrl = $(pano).attr("base-url");
+			var panoramasArray = $(pano).attr("panorama-images").split(",").map(function(e){ return baseUrl+e });
+      console.log(panoramasArray);
+      var panoramaNumber = Math.floor(Math.random()*panoramasArray.length);
+
+      console.log(pano);
+
+      console.log($(pano).width(),$(pano).height());
+			// setting up the renderer
+			var renderer = new THREE.WebGLRenderer({ canvas : pano });
+			renderer.setSize($(pano).width(),$(pano).height());
+
+			// creating a new scene
+			var scene = new THREE.Scene();
+
+			// adding a camera
+			var camera = new THREE.PerspectiveCamera(30, $(pano).width() / $(pano).height(), 1, 1000);
+			camera.target = new THREE.Vector3(0, 0, 0);
+
+			// creation of a big sphere geometry
+			var sphere = new THREE.SphereGeometry(100, 100, 40);
+			sphere.applyMatrix(new THREE.Matrix4().makeScale(-1, 1, 1));
+
+			// creation of the sphere material
+			var sphereMaterial = new THREE.MeshBasicMaterial();
+			sphereMaterial.map = THREE.ImageUtils.loadTexture(panoramasArray[panoramaNumber])
+
+			// geometry + material = mesh (actual object)
+			var sphereMesh = new THREE.Mesh(sphere, sphereMaterial);
+			scene.add(sphereMesh);
+
+
+
+
+        var render = function(){
+
+  				requestAnimationFrame(render);
+
+  				if(!manualControl){
+  					longitude += longitudeSpeed;
+  				}
+
+  				// limiting latitude from -85 to 85 (cannot point to the sky or under your feet)
+          latitude = Math.max(-85, Math.min(85, latitude));
+
+  				// moving the camera according to current latitude (vertical movement) and longitude (horizontal movement)
+  				camera.target.x = 500 * Math.sin(THREE.Math.degToRad(90 - latitude)) * Math.cos(THREE.Math.degToRad(longitude));
+  				camera.target.y = 500 * Math.cos(THREE.Math.degToRad(90 - latitude));
+  				camera.target.z = 500 * Math.sin(THREE.Math.degToRad(90 - latitude)) * Math.sin(THREE.Math.degToRad(longitude));
+  				camera.lookAt(camera.target);
+
+  				// calling again render function
+  				renderer.render(scene, camera);
+
+			}
+
+			// when the mouse is pressed, we switch to manual control and save current coordinates
+			var onDocumentMouseDown = function(event){
+
+				event.preventDefault();
+
+				manualControl = true;
+
+				savedX = event.clientX;
+				savedY = event.clientY;
+
+				savedLongitude = longitude;
+				savedLatitude = latitude;
+
+			}
+
+			// when the mouse moves, if in manual contro we adjust coordinates
+			var onDocumentMouseMove = function(event){
+
+				if(manualControl){
+					longitude = (savedX - event.clientX) * 0.1 + savedLongitude;
+					latitude = (event.clientY - savedY) * 0.1 + savedLatitude;
+				}
+
+			}
+
+			// when the mouse is released, we turn manual control off
+			var onDocumentMouseUp = function(event){
+
+				manualControl = false;
+
+			}
+
+			// pressing a key (actually releasing it) changes the texture map
+			document.onkeyup = function(event){
+
+				panoramaNumber = (panoramaNumber + 1) % panoramasArray.length
+				sphereMaterial.map = THREE.ImageUtils.loadTexture(panoramasArray[panoramaNumber])
+
+			}
+
+      var onWindowResize = function(){
+
+          camera.aspect = $(pano).parent().width() / $(pano).parent().height();
+          camera.updateProjectionMatrix();
+
+          renderer.setSize( $(pano).parent().width(), $(pano).parent().height() );
+
+      }
+
+      window.addEventListener( 'resize', onWindowResize, false );
+
+
+      // listeners
+      if( userControl ){
+        document.addEventListener("mousedown", onDocumentMouseDown, false);
+        document.addEventListener("mousemove", onDocumentMouseMove, false);
+        document.addEventListener("mouseup", onDocumentMouseUp, false);
+      }
+      render();
+
+
+  });
+
+});
+
+$('.splash-bottom').each(function(i,element){
+  var splash = $(element).prev();
+  var isOver = false;
+  var visible = false;
+  var overTime = 0;
+  var delay = 50;
+  var timeOut = 2000;
+  var intervalId;
+  var update = function(){
+    if( isOver ){
+      overTime += delay;
+    }
+    else {
+      overTime = 0;
+      if( visible ){
+        visible = false;
+        $(element).slideUp(450);
+      }
+      return;
+    }
+    if( overTime >= timeOut && !visible ){
+      $(element).slideDown(900);
+      visible = true;
+    }
+  };
+
+  $(element).hide();
+  $(splash).mouseover(function(){
+    isOver = true;
+    intervalId = setInterval(update,delay);
+    });
+  $(splash).mouseout(function(){
+    isOver = false;
+    clearInterval(intervalId);
+    update();
+  });
+
+});
+
 
 $(function(){
 
