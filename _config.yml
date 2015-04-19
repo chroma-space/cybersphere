@@ -73,4 +73,6 @@ prose:
           label: "index image"
       - name: date
         field:
-          element: "hidden"
+          element: "text"
+          label: "Date {yyyy-mm-dd}"
+          value: "CURRENT_DATETIME"
