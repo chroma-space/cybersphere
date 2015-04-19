@@ -6034,9 +6034,9 @@ h6 {
 }
 .info {
   position: absolute;
+  text-align: left;
   left: 0;
   right: 0;
-  text-align: center;
   bottom: 0;
 }
 .splash-bottom {

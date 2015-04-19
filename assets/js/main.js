@@ -277,7 +277,7 @@ $('.splash-bottom').each(function(i,element){
   var visible = false;
   var overTime = 0;
   var delay = 50;
-  var timeOut = 2000;
+  var timeOut = 1000;
   var intervalId;
   var update = function(){
     if( isOver ){
@@ -287,12 +287,12 @@ $('.splash-bottom').each(function(i,element){
       overTime = 0;
       if( visible ){
         visible = false;
-        $(element).slideUp(450);
+        $(element).fadeOut(450);
       }
       return;
     }
     if( overTime >= timeOut && !visible ){
-      $(element).slideDown(900);
+      $(element).fadeIn(450);
       visible = true;
     }
   };
