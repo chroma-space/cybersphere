@@ -3,7 +3,7 @@ published: true
 title: Of the Spheres
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-"invert-nav": false
+"invert-nav": true
 description: null
 layout: post
 date: "2015-01-01"
