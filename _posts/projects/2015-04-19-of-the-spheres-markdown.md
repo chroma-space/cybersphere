@@ -5,6 +5,9 @@ title: Of the Spheres
 "panorama-user-control": false
 "invert-nav": false
 description: null
+layout: post
+date: {}
+categories: projects
 ---
 
 > _“…there is no inner man, man is in the world, and only in the world does he know himself.” Maurice Merleau-Ponty, Phenomenology of Perception (Preface, 1945)_
