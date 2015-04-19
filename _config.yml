@@ -13,4 +13,6 @@ github_username:  paul_hayes
 
 # Build settings
 markdown: kramdown
-media: "/assets/images"
+prose:
+	media: "/assets/images"
+    
