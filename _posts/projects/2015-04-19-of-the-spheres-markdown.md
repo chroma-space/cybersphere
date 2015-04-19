@@ -6,7 +6,7 @@ title: Of the Spheres
 "invert-nav": false
 description: null
 layout: post
-date: {}
+date: "2015-01-01"
 categories: projects
 video: heliosphere_projbanner
 ---
