@@ -6,7 +6,9 @@ title: Artist Talk Brighton Digital Festival 2013
 "panorama-user-control": false
 "invert-nav": false
 date: CURRENT_DATETIME
-category: blog
+category: of_the_spheres
+"splash-description": "<a href=\\\"http://vimeo.com/65454918\\\">Heliosphere trailer</a> from <a href=\\\"http://vimeo.com/chromaspace\\\">C H R Θ M A</a> on Vimeo."
+video: heliosphere_projbanner
 ---
 
 Kate Genevieve and Paul Hayes talk about the questions and research behind Of the Spheres and the open call out for publicly created content during Brighton’s Digital Festival 2013.
