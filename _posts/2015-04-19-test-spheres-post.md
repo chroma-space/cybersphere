@@ -6,7 +6,7 @@ title: Test Spheres Post
 "panorama-user-control": false
 "invert-nav": false
 date: "2015-01-01"
-description: null
+description: "Test Spheres description, blah blah, blah."
 category: of_the_spheres
 ---
 
