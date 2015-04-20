@@ -102,7 +102,7 @@ prose:
           label: slug
       - name: description
         field:
-          element: textarea
+          element: text
           label: description
       - name: jpg
         field:
