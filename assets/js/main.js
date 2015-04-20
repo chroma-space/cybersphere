@@ -459,7 +459,7 @@ $(function(){
     var rect2=context.getImageData(p2[0],p2[1],d[0],d[1]);
     context.putImageData(rect1,p2[0],p2[1]);
     context.putImageData(rect2,p1[0],p1[1]);
-
+    requestAnimationFrame(mixup);
   }
 
   backgroundImg.onload = function() {
@@ -471,7 +471,7 @@ $(function(){
     var scale = ( scaleX > scaleY ) ? scaleX : scaleY ;
     $(container).css('background-image','none');
     context.drawImage(this, 0, 0, backgroundImg.width, backgroundImg.height, 0, 0, scale*backgroundImg.width, scale*backgroundImg.width*context.canvas.height/context.canvas.width);
-    setInterval(mixup,40);
+    mixup();
   };
 
   var onWindowResize = function(){
