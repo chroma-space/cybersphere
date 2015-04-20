@@ -1,5 +1,4 @@
 ---
-category: project
 layout: post
 published: true
 title: Of the Spheres
