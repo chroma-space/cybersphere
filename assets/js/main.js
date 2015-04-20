@@ -381,3 +381,19 @@ $(function(){
 
   log("type chroma to list commands");
 });
+
+$(function(){
+  var cols = ['red','yellow','green','sea-green','blue', 'purple', 'magenta'];
+  var index = 0;
+  $('a').each(function(i,e){
+    var firstWord = ( $(e).attr('title') || "" ).split(" ")[0] ;
+    var colClass = firstWord;
+    if( cols.indexOf(colClass) == -1 ){
+      colClass = cols[index];
+      index++;
+      if( index == cols.length ) index = 0;
+    }
+    $(e).addClass( colClass );
+  });
+
+});

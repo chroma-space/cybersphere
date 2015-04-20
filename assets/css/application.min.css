@@ -6033,11 +6033,7 @@ h6 {
   -moz-transition: -moz-filter 500ms linear;
 }
 .info {
-  position: absolute;
   text-align: left;
-  left: 0;
-  right: 0;
-  bottom: 0;
 }
 .splash-bottom {
   position: relative;
@@ -6166,5 +6162,33 @@ body.page article {
   height: 100%;
   z-index: 2;
   content: "";
+}
+a.red:link,
+a.red:active {
+  color: #c81b15;
+}
+a.yellow:link,
+a.yellow:active {
+  color: #daa52c;
+}
+a.green:link,
+a.green:active {
+  color: #47a425;
+}
+a.sea-green:link,
+a.sea-green:active {
+  color: #0e7567;
+}
+a.blue:link,
+a.blue:active {
+  color: #0e338b;
+}
+a.purple:link,
+a.purple:active {
+  color: #873073;
+}
+a.magenta:link,
+a.magenta:active {
+  color: #ca2f6e;
 }
 /*# sourceMappingURL=application.min.css.map */
