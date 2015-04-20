@@ -6164,31 +6164,39 @@ body.page article {
   content: "";
 }
 a.red:link,
-a.red:active {
+a.red:active,
+a.red:visited {
   color: #c81b15;
 }
 a.yellow:link,
-a.yellow:active {
+a.yellow:active,
+a.yellow:visited {
   color: #daa52c;
 }
 a.green:link,
-a.green:active {
+a.green:active,
+a.green:visited {
   color: #47a425;
 }
 a.sea-green:link,
-a.sea-green:active {
+:visited:link,
+a.sea-green:active,
+:visited:active {
   color: #0e7567;
 }
 a.blue:link,
-a.blue:active {
+a.blue:active,
+a.blue:visited {
   color: #0e338b;
 }
 a.purple:link,
-a.purple:active {
+a.purple:active,
+a.purple:visited {
   color: #873073;
 }
 a.magenta:link,
-a.magenta:active {
+a.magenta:active,
+a.magenta:visited {
   color: #ca2f6e;
 }
 /*# sourceMappingURL=application.min.css.map */
