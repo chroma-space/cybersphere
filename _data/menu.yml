@@ -6,3 +6,5 @@
   url: "/#projects"
 - text: Now
   url: "/now"
+- text: Contact
+  url: "/contact"
