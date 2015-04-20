@@ -8,6 +8,8 @@ published: true
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "invert-nav": false
+"video-pause": false
+video_mute: false
 ---
 
 NO PLACE is a digital film experience that explores real and virtual spaces, commissioned by Brighton's White Night Festival.
