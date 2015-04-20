@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Impulse"
-date:   2015-04-01 14:36:11
+date:   2015-04-01
 categories: projects
 ---
 Impulse post

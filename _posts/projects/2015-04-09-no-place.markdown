@@ -1,10 +1,8 @@
 ---
-category: projects
+category: project
 layout: project
 title: No Place
-date: 
-  - 2015-04-01T14:36:11.000Z
-  - "Wed Apr 01 2015 15:36:11 GMT+0100 (BST)"
+date: 2015-04-01
 categories: projects
 description: null
 published: true
@@ -13,7 +11,7 @@ published: true
 "invert-nav": false
 ---
 
-NO PLACE is a digital film experience that explores real and virtual spaces, commissioned by Brighton's White Night Festival. 
+NO PLACE is a digital film experience that explores real and virtual spaces, commissioned by Brighton's White Night Festival.
 
 https://vimeo.com/39438558
 NO PLACE @ Embassy Court from Chroma Collective on Vimeo.

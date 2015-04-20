@@ -2,9 +2,7 @@
 category: project
 layout: post
 title: co̥njunctio̊n
-date:
-  - 2015-04-01T14:36:11.000Z
-  - "Wed Apr 01 2015 15:36:11 GMT+0100 (BST)"
+date: 2015-04-01
 categories: projects
 published: true
 "panorama-longitude-speed": 0.01
