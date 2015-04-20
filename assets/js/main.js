@@ -412,4 +412,12 @@ $(function(){
     unmuteButton.hide();
     muteButton.show();
   });
+
+  $('video.pauseable-video').each(function(i,e){
+    $(e).click(function(){
+      if( e.paused ) e.play();
+      else e.pause();
+    });
+  });
+
 });

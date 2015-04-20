@@ -116,7 +116,11 @@ prose:
         field:
           element: text
           label: video ( exclude file extension )
-      - name : panorama
+      - name: video-pause
+        field:
+          element: checkbox
+          label: video pausable
+      - name: panorama
         field:
           element: text
           label: "panorama image"

@@ -1,5 +1,5 @@
 {% if include.post.video %}
-<video autoplay loop preload="auto" class="{{include.post.video}}" poster="/assets/images/{{include.post.video}}.png">
+<video autoplay loop preload="auto" class="{{include.post.video}}{% if include.post.video-pause=="true" %} pauseable-video{% endif %}" poster="/assets/images/{{include.post.video}}.png">
   <source src="/assets/video/{{include.post.video}}.mp4" type="video/mp4"/>
   <source src="/assets/video/{{include.post.video}}.mkv" type="video/x-matroska"/>
 </video>
