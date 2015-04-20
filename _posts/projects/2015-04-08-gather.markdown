@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Gather"
 date:   2015-04-01 14:36:11
 categories: projects
