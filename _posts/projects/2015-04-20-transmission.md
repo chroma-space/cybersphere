@@ -1,17 +1,15 @@
 ---
 category: projects
 layout: post
-published: false
+published: true
 title: Transmission
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "invert-nav": false
 date: "2015-01-01"
-description: null
+description: "live art, choreography, somatics "
 slug: transmission
 ---
-
-## Alive-art, choreography, somatics 
 
 ‘An ancient Chinese proverb says an invisible red thread connects all those destined to meet whatever the time, whatever the place and whatever the circumstances...
 Can you feel its tug?’ 
