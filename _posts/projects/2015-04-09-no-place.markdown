@@ -1,9 +1,11 @@
 ---
-category: project
-layout: project
-title: No Place
-date: 2015-04-01
 categories: projects
+layout: project
+category: project
+title: No Place
+date: 
+  - 2015-04-01T00:00:00.000Z
+  - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
 description: null
 published: true
 "panorama-longitude-speed": 0.01
