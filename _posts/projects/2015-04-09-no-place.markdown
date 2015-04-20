@@ -1,7 +1,6 @@
 ---
 categories: projects
 layout: project
-category: project
 title: No Place
 date: "2015-01-01"
 description: null
