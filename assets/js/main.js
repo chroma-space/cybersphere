@@ -380,7 +380,9 @@ $(function(){
 
 $(function(){
   var cols = ['red','yellow','green','sea-green','blue', 'purple', 'magenta'];
-  var index = 0;
+  var index = Math.floor( Math.random() * cols.length );
+
+
 
   $('a').each(function(i,e){
     if( $.grep( ($(e).attr('class') || "").split(/\s+/),function(n){ return cols.indexOf(n) != -1 }).length > 0 ){
@@ -390,7 +392,7 @@ $(function(){
     var colClass = firstWord;
     if( cols.indexOf(colClass) == -1 ){
       colClass = cols[index];
-      index++;
+      //index++;
       if( index == cols.length ) index = 0;
     }
     $(e).addClass( colClass );
@@ -427,3 +429,62 @@ $(function(){
   });
 
 });
+
+$(function(){
+
+  var randRange = function(min,max){
+      return min+Math.floor( Math.random()*(max-min) );
+  }
+
+  var container=$('.about-container')[0];
+  var canvas = $('.about-background')[0];
+  if( !container || !canvas ) return;
+  var context = canvas.getContext('2d');
+  var url = $(container).css('background-image').replace('url(','').replace(')','');
+  var backgroundImg = new Image();
+  var mixup = function(){
+    var d = [
+      randRange(1,5),
+      randRange(1,100)
+    ];
+    var p1 = [
+      randRange(0,context.canvas.width-d[0]),
+      randRange(0,backgroundImg.height-d[1]),
+    ]
+    var p2 = [
+      randRange(0,context.canvas.width-d[0]),
+      randRange(0,context.canvas.height-d[1]),
+    ]
+    var rect1=context.getImageData(p1[0],p1[1],d[0],d[1]);
+    var rect2=context.getImageData(p2[0],p2[1],d[0],d[1]);
+    context.putImageData(rect1,p2[0],p2[1]);
+    context.putImageData(rect2,p1[0],p1[1]);
+
+  }
+
+  backgroundImg.onload = function() {
+    context.canvas.width = $(container).width();
+    context.canvas.height = $(container).height();
+
+    var scaleX = context.canvas.width / backgroundImg.width ;
+    var scaleY = context.canvas.height / backgroundImg.height ;
+    var scale = ( scaleX > scaleY ) ? scaleX : scaleY ;
+    $(container).css('background-image','none');
+    context.drawImage(this, 0, 0, backgroundImg.width, backgroundImg.height, 0, 0, scale*backgroundImg.width, scale*backgroundImg.width*context.canvas.height/context.canvas.width);
+    setInterval(mixup,40);
+  };
+
+  var onWindowResize = function(){
+
+    //canvas.width = $(canvas).parent().width();
+    //canvas.height = $(canvas).parent().height();
+  }
+
+  window.addEventListener( 'resize', onWindowResize, false );
+
+
+  backgroundImg.src = url;
+
+
+
+})
