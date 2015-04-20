@@ -284,29 +284,42 @@ $('.splash-bottom').each(function(i,element){
       overTime += delay;
     }
     else {
-      overTime = 0;
-      if( visible ){
+      overTime -= delay;
+      if( overTime < 0 ) overTime = 0;
+      if( overTime <= 0 ){
         visible = false;
         $(element).fadeOut(450);
+        clearInterval(intervalId);
       }
       return;
     }
-    if( overTime >= timeOut && !visible ){
+    if( overTime >= timeOut ){
+
       $(element).fadeIn(450);
       visible = true;
+      clearInterval(intervalId);
     }
   };
 
-  $(element).hide();
-  $(splash).mouseover(function(){
-    isOver = true;
-    intervalId = setInterval(update,delay);
-    });
-  $(splash).mouseout(function(){
+  var mouseout = function(){
     isOver = false;
     clearInterval(intervalId);
-    update();
-  });
+    intervalId = setInterval(update,delay);
+    overTime = timeOut;
+  };
+
+  var mouseover = function(){
+    isOver = true;
+    clearInterval(intervalId);
+    intervalId = setInterval(update,delay);
+    overTime = 0;
+  };
+
+  $(element).hide();
+  $(splash).mouseover(mouseover);
+  $(splash).mouseout(mouseout);
+  $(element).mouseover(mouseover);
+  $(element).mouseout(mouseout);
 
 });
 
