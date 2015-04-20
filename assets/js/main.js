@@ -397,3 +397,19 @@ $(function(){
   });
 
 });
+
+$(function(){
+  var controls = $('.video-controls');
+  var muteButton = $('.mute',controls);
+  var unmuteButton = $('.unmute',controls);
+  muteButton.click(function(){
+    (controls.prev()).prop('muted', true);
+    muteButton.hide();
+    unmuteButton.show();
+  });
+  unmuteButton.click(function(){
+    (controls.prev()).prop('muted', false);
+    unmuteButton.hide();
+    muteButton.show();
+  });
+});
