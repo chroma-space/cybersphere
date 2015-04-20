@@ -11,7 +11,7 @@ description: "live art, choreography, somatics "
 slug: transmission
 ---
 
-‘An ancient Chinese proverb says an invisible red thread connects all those destined to meet whatever the time, whatever the place and whatever the circumstances...
+> ‘An ancient Chinese proverb says an invisible red thread connects all those destined to meet whatever the time, whatever the place and whatever the circumstances...
 Can you feel its tug?’ 
 text from scratch performance, Transmission 2014
 
