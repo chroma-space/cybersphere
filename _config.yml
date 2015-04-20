@@ -86,7 +86,7 @@ prose:
         field:
           element: text
           label: category
-          value: ""
+          value: "blog"
     _posts/projects:
       - name: layout
         field:
