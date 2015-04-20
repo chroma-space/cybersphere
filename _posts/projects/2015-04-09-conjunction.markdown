@@ -1,5 +1,4 @@
 ---
-category: project
 layout: post
 title: co̥njunctio̊n
 date: 2015-04-01
