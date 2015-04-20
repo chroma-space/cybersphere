@@ -406,15 +406,21 @@ $(function(){
     (controls.prev()).prop('muted', true);
     muteButton.hide();
     unmuteButton.show();
+    event.preventDefault();
+    return false;
   });
   unmuteButton.click(function(){
     (controls.prev()).prop('muted', false);
     unmuteButton.hide();
     muteButton.show();
+    event.preventDefault();
+    return false;
   });
 
   $('video.pauseable-video').each(function(i,e){
-    $(e).click(function(){
+    console.log(e);
+    $(e).parent().click(function(){
+      console.log(e);
       if( e.paused ) e.play();
       else e.pause();
     });

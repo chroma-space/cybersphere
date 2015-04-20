@@ -120,6 +120,10 @@ prose:
         field:
           element: checkbox
           label: video pausable
+      - name: video_mute
+        field:
+          element: checkbox
+          label: video mutable
       - name: panorama
         field:
           element: text
