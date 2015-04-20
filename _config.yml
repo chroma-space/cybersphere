@@ -13,6 +13,7 @@ github_username:  paul_hayes
 # Build settings
 markdown: kramdown
 prose:
+  siteurl: http://chroma.space
   media: 'assets/images'
   metadata:
     _posts:
@@ -28,9 +29,9 @@ prose:
         field:
           element: text
           label: slug
-      - name: description
+      - name: "description"
         field:
-          element: textarea
+          element: text
           help: appears on post summary on index page
           label: description
       - name: jpg
