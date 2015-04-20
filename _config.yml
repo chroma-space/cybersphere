@@ -82,10 +82,10 @@ prose:
           element: text
           label: "Date {yyyy-mm-dd}"
           value: "2015-01-01"
-      - name: category
+      - name: categories
         field:
           element: text
-          label: category
+          label: categories
           value: "blog"
     _posts/projects:
       - name: layout
@@ -152,8 +152,8 @@ prose:
           element: text
           label: "Date {yyyy-mm-dd}"
           value: "2015-01-01"
-      - name: category
+      - name: categories
         field:
           element: hidden
-          label: category
-          value: "project"
+          label: categories
+          value: "projects"
