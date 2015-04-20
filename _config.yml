@@ -81,7 +81,7 @@ prose:
         field:
           element: text
           label: "Date {yyyy-mm-dd}"
-          value: "CURRENT_DATETIME"
+          value: "2015-01-01"
       - name: category
         field:
           element: text
