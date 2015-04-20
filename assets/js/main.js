@@ -385,6 +385,9 @@ $(function(){
 $(function(){
   var cols = ['red','yellow','green','sea-green','blue', 'purple', 'magenta'];
   var index = 0;
+  if( $(e).attr('class').split(/\s+/).grep(function(n){ return cols.indexOf(n) != -1 }).length > 0 ){
+      return;
+  }
   $('a').each(function(i,e){
     var firstWord = ( $(e).attr('title') || "" ).split(" ")[0] ;
     var colClass = firstWord;
