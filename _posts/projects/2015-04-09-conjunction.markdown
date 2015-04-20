@@ -1,8 +1,8 @@
 ---
-category: projects
+category: project
 layout: post
 title: co̥njunctio̊n
-date: 
+date:
   - 2015-04-01T14:36:11.000Z
   - "Wed Apr 01 2015 15:36:11 GMT+0100 (BST)"
 categories: projects
@@ -13,7 +13,7 @@ published: true
 description: null
 ---
 
-On March 20th 2015 England witnessed a partial solar eclipse. Intrigued by the spectacle of the black sun that can not be looked at with the naked eye, we built a virtual reality performance as a way of marking and witnessing the event. 
+On March 20th 2015 England witnessed a partial solar eclipse. Intrigued by the spectacle of the black sun that can not be looked at with the naked eye, we built a virtual reality performance as a way of marking and witnessing the event.
 
 Research into how ancient cultures understood this specific cosmological conjunction inspired us to create a virtual experience that explored the moon and the eclipse symbolically and mathematically. Made for outside viewing, we incorporated a live web cam into the virtual experience so that the viewer can see the eclipse occur in the sky above them.
 

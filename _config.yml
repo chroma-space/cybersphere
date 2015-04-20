@@ -156,4 +156,4 @@ prose:
         field:
           element: hidden
           label: category
-          value: "projects"
+          value: "project"
