@@ -6098,8 +6098,15 @@ h6 {
   display: block;
   padding-top: 140%;
 }
+div.about-container {
+  background-image: url(/assets/images/about4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
 div.about {
-  padding: 250px 0 250px 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 100px 10px 100px 10px;
   font-size: 1.618034em;
 }
 div.about h1 {

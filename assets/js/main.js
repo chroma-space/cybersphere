@@ -152,12 +152,8 @@ $(function(){
 			// panoramas background
       var baseUrl = $(pano).attr("base-url");
 			var panoramasArray = $(pano).attr("panorama-images").split(",").map(function(e){ return baseUrl+e });
-      console.log(panoramasArray);
       var panoramaNumber = Math.floor(Math.random()*panoramasArray.length);
 
-      console.log(pano);
-
-      console.log($(pano).width(),$(pano).height());
 			// setting up the renderer
 			var renderer = new THREE.WebGLRenderer({ canvas : pano });
 			renderer.setSize($(pano).width(),$(pano).height());
@@ -385,10 +381,11 @@ $(function(){
 $(function(){
   var cols = ['red','yellow','green','sea-green','blue', 'purple', 'magenta'];
   var index = 0;
-  if( $(e).attr('class').split(/\s+/).grep(function(n){ return cols.indexOf(n) != -1 }).length > 0 ){
-      return;
-  }
+
   $('a').each(function(i,e){
+    if( $.grep( ($(e).attr('class') || "").split(/\s+/),function(n){ return cols.indexOf(n) != -1 }).length > 0 ){
+        return;
+    };
     var firstWord = ( $(e).attr('title') || "" ).split(" ")[0] ;
     var colClass = firstWord;
     if( cols.indexOf(colClass) == -1 ){
