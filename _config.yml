@@ -34,6 +34,10 @@ prose:
           element: text
           help: appears on post summary on index page
           label: description
+      - name : thumbnail
+        field:
+          element: text
+          label: "thumbnail image ( 512x512 )"
       - name: jpg
         field:
           element: text
