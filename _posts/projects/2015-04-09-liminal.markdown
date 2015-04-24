@@ -6,6 +6,7 @@ date:
   - 2015-04-01T00:00:00.000Z
   - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
   - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
+  - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
 published: true
 "video-pause": true
 video_mute: true
