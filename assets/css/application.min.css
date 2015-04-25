@@ -6089,6 +6089,7 @@ h6 {
     */
 }
 .project-desc img {
+  padding: 40px;
   width: 100%;
   position: absolute;
   top: 10%;
