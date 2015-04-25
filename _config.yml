@@ -124,6 +124,10 @@ prose:
         field:
           element: checkbox
           label: video pausable
+      - name: play-once
+        field:
+          element: checkbox
+          label: play video once
       - name: video_mute
         field:
           element: checkbox

@@ -1,7 +1,7 @@
 {% if include.post.video %}
 {% capture play-once %}{{include.post.play-once}}{% endcapture %}
 {% capture video_pause %}{{include.post.video_pause}}{% endcapture %}
-<video autoplay loop preload="auto" class="{{include.post.video}}{% if video_pause == "true" %} pauseable-video{% endif %}" poster="/assets/images/{{include.post.video}}.png">
+<video autoplay loop preload="auto" class="{{include.post.video}}{% if video_pause == "true" %} pauseable-video{% endif %}{% if play-once == "true" %} play-once{% endif %}" poster="/assets/images/{{include.post.video}}.jpg">
   <source src="/assets/video/{{include.post.video}}.mp4" type="video/mp4"/>
   <source src="/assets/video/{{include.post.video}}.mkv" type="video/x-matroska"/>
 </video>
