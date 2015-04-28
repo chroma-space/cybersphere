@@ -12,6 +12,9 @@ o     o   O  O     o   O  o  O  O o   O  oO     O o   O o   O  o     O      \n\
                                                   o'                        \n\
 ";
 
+var asciiBlockCodes =[9608, 9619, 9618, 9617];
+var asciiBlocks = ["█", "▓", "▒", "░"];
+
 $.easing.easeInOutCirc = function (x, t, b, c, d) {
   if ((t/=d/2) < 1) return -c/2 * (Math.sqrt(1 - t*t) - 1) + b;
   return c/2 * (Math.sqrt(1 - (t-=2)*t) + 1) + b;

@@ -23,10 +23,15 @@ grunt.initConfig({
     },
     bootstrap: {
       files: {
-        'assets/js/bootstrap.min.js': ['bower_components/bootstrap/js/bootstrap-collapse.js',
-                                       'bower_components/bootstrap/js/bootstrap-scrollspy.js',
-                                       'bower_components/bootstrap/js/bootstrap-button.js',
-                                       'bower_components/bootstrap/js/bootstrap-affix.js']
+        'assets/js/bootstrap.min.js': ['bower_components/bootstrap/js/collapse.js',
+                                       'bower_components/bootstrap/js/scrollspy.js',
+                                       'bower_components/bootstrap/js/button.js',
+                                       'bower_components/bootstrap/js/affix.js']
+      }
+    },
+    main: {
+      files: {
+        'assets/js/main.min.js': 'assets/js/main.js'
       }
     }
   },
