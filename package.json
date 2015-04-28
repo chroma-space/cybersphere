@@ -17,11 +17,13 @@
   },
   "homepage": "https://github.com/paulhayes/potential-happiness",
   "dependencies": {
-    "grunt": "~0.4.1",
+    "bower": "*",
+    "grunt": "*",
+    "grunt-contrib-copy": "*",
     "grunt-contrib-less": "*",
     "grunt-contrib-uglify": "*",
-    "grunt-contrib-copy": "*",
-    "bower": "*",
-    "grunt-exec": "*"
+    "grunt-contrib-watch": "*",
+    "grunt-exec": "*",
+    "grunt-express-server": "*"
   }
 }

@@ -52,12 +52,23 @@ grunt.initConfig({
     deploy: {
       cmd: 'rsync --progress -a --delete -e "ssh -q" _site/ myuser@host:mydir/'
     }
+  },
+  watch: {
+    jekyll: {
+      files: ['**/*.yml','**/*.html','**/*.csv','**/*.md','**/*.markdown','**/*.json','**/*.js'],
+      tasks: ['default'],
+      options: {
+        spawn: false        
+      }
+    }
   }
+
 });
 
 grunt.loadNpmTasks('grunt-contrib-uglify');
 grunt.loadNpmTasks('grunt-contrib-less');
 grunt.loadNpmTasks('grunt-contrib-copy');
+grunt.loadNpmTasks('grunt-contrib-watch');
 grunt.loadNpmTasks('grunt-exec');
 
 grunt.registerTask('default', [ 'less', 'uglify', 'copy', 'exec:build' ]);
