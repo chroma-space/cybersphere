@@ -1,10 +1,14 @@
 ---
 layout: page
 title: Contact
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<a href="http://twitter.com/CHROMA_" target="_blank">@CHROMA_</a>
+<a href="https://vimeo.com/chromacollective" target="_blank">Vimeo</a>
+<a href="https://www.facebook.com/chromacollective" target="_blank">FB</a>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Contact >>
+hello@chroma.space
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
