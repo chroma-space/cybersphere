@@ -1,7 +1,7 @@
 ---
 categories: projects
 layout: post
-published: false
+published: true
 title: Born on a Train
 "video-pause": false
 "play-once": false
