@@ -9,11 +9,14 @@ title: Transmission
 date: "2015-01-01"
 description: "live art, choreography, somatics "
 slug: transmission
+"video-pause": false
+"play-once": false
+video_mute: false
 ---
 
-> ‘An ancient Chinese proverb says an invisible red thread connects all those destined to meet whatever the time, whatever the place and whatever the circumstances...
-Can you feel its tug?’
-text from scratch performance, Transmission 2014
+<i> <i style="color:#c01616"> > ‘An ancient Chinese proverb says an invisible red thread connects all those destined to meet whatever the time, whatever the place and whatever the circumstances...
+Can you feel its tug?’</i>
+<i>text from scratch performance, Transmission 2014 </i>
 
 Transmission is an installation that invites two strangers into a communication across a large 2-way mirror structure. Participants listen via headphones to a ten minute instruction based narrative that draws them into a relationship via gesture, mirroring and eye contact. The relationship is not gender, age or language dependent and is never exactly the same between any two people.
 

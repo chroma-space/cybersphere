@@ -7,14 +7,16 @@ date:
   - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
   - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
   - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
+  - "Tue Mar 31 2015 17:00:00 GMT-0700 (PDT),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
 published: true
 "video-pause": true
 video_mute: true
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-"invert-nav": false
+"invert-nav": true
 thumbnail: "thumbnail-liminal.jpg"
 video: "splash-liminal"
+"play-once": false
 ---
 
 The Liminal Live Show is an Audio Visual art show for The Acid: a collaboration between Kate Genevieve, show designer Giani Fabricio and the band.
