@@ -55,10 +55,19 @@ grunt.initConfig({
   },
   watch: {
     jekyll: {
-      files: ['**/*.yml','**/*.html','**/*.csv','**/*.md','**/*.markdown','**/*.json','**/*.js'],
+      files: ['**/*.yml','**/*.html','**/*.csv','**/*.md','**/*.markdown','**/*.json','**/*.js','!**/node_modules/**'],
       tasks: ['default'],
       options: {
-        spawn: false        
+        spawn: false
+      }
+    }
+  },
+  connect: {
+    server: {
+      options: {
+        livereload: true,
+        base: '_site/',
+        port: 4000
       }
     }
   }
@@ -70,8 +79,9 @@ grunt.loadNpmTasks('grunt-contrib-less');
 grunt.loadNpmTasks('grunt-contrib-copy');
 grunt.loadNpmTasks('grunt-contrib-watch');
 grunt.loadNpmTasks('grunt-exec');
+grunt.loadNpmTasks('grunt-contrib-connect');
 
 grunt.registerTask('default', [ 'less', 'uglify', 'copy', 'exec:build' ]);
 grunt.registerTask('deploy', [ 'default', 'exec:deploy' ]);
-
+grunt.registerTask('serve', [ 'connect:server', 'watch' ]);
 };
