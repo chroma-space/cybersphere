@@ -11,7 +11,7 @@ description: null
 "video-pause": true
 "play-once": false
 video_mute: true
-thumbnail: "thumbnail-conjunction.jpg"
+thumbnail: "conjunction/thumbnail-conjunction.jpg"
 slug: "thumbnail-conjunction"
 video: conjunction
 ---
