@@ -8,7 +8,7 @@ title: Born on a Train
 video_mute: false
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-"invert-nav": false
+"invert-nav": true
 date: "2015-01-01"
 thumbnail: born_on_a_train/thumbnail_bornonatrain.jpg
 video: "splash-bornonatrain"
