@@ -10,7 +10,7 @@ video_mute: false
 "panorama-user-control": false
 "invert-nav": false
 date: "2015-01-01"
-thumbnail: "thumbnail-bornonatrain"
+thumbnail: "born-on-a-train/thumbnail-bornonatrain.jpg"
 ---
 
 ## A New Post
