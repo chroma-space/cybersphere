@@ -9,7 +9,7 @@ video_mute: false
 "panorama-user-control": false
 "invert-nav": false
 date: "2015-01-01"
-thumbnail: "thumbnail-croatia.jpg"
+thumbnail: "thumbnail-whatdowedonow.jpg"
 ---
 
 A film experience for video head goggles made as part of Video Vortex and installed in the town centre of Komiza, Croatia on the 30th August 2011.

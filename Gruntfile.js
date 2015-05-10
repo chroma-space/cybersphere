@@ -65,7 +65,7 @@ grunt.initConfig({
   connect: {
     server: {
       options: {
-        livereload: true,
+        livereload: false,
         base: '_site/',
         port: 4000
       }
