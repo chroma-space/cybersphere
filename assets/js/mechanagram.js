@@ -1,4 +1,16 @@
-window.mechanagram = (function(elementId){
+window.mechanagram = (function(elementId,width,height){
+
+	var mainElement = document.getElementById(elementId);
+
+	var initalData = (function(){
+		
+		var o;
+		o.set2D = function(){
+
+		}
+
+		return o;
+	});
 
 	var colUp=0, colDown=2, rowLeft=1,rowRight=3,
 		moveCol = function(i){ return (i&1)===0; },
@@ -13,12 +25,14 @@ window.mechanagram = (function(elementId){
 				m.push( move(colDown,i) );
 				m.push( move(rowLeft,j) );
 				m.push( move(rowRight,j) );
+				var element = document.createElement('div');
+				element.innerHTML = '';
 			}
 
 		}
 
 		return m;
-	});
+	})(width,height);
 
 	var shuffle = function(array)
 	{

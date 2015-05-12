@@ -12,6 +12,14 @@ o     o   O  O     o   O  o  O  O o   O  oO     O o   O o   O  o     O      \n\
                                                   o'                        \n\
 ";
 
+var quotes = [
+  {
+    q:"“Forget trying to pass for normal. Follow your geekdom. Embrace nerditude. In the immortal words of Lafcadio Hearn, a geek of incredible obscurity whose work is still in print after a hundred years, “Woo the muse of the odd.” You may be a geek. You may have geek written all over you. You should aim to be one geek they'll never forget. Don't aim to be civilized. Don’t hope that straight people will keep you on as some sort of pet. To hell with them. You should fully realize what society has made of you and take a terrible revenge. Get weird. Get way weird. Get dangerously weird. Get sophisticatedly, thoroughly weird, and don't do it halfway. Put every ounce of horsepower you have behind it. Don't become a well-rounded person. Well-rounded people are smooth and dull. Become a thoroughly spiky person. Grow spikes from every angle. Stick in their throats like a pufferfish.”",
+    a:"Bruce Sterling"
+  }
+];
+
+
 var asciiBlockCodes =[9608, 9619, 9618, 9617];
 var asciiBlocks = ["█", "▓", "▒", "░"];
 
@@ -340,7 +348,6 @@ $(function(){
   var lines = [
     "chroma - this help message ",
     "contact - contact details",
-    ""
   ];
 
   var log=function(s){
@@ -367,6 +374,12 @@ $(function(){
   window.__defineGetter__("contact",function(){
     log("paul@chroma.space - Paul Hayes\nkate@chroma.space - Kate Genevieve \n");
   });
+
+  window.__defineGetter__("quote",function(){
+    var i = Math.floor( quotes.length * Math.random() );
+    log( quotes[i].q + "\n\t\t\t - "+quotes[i].a );
+  });
+
 
   var s="";
   for(var i=0;i<360;i++){
