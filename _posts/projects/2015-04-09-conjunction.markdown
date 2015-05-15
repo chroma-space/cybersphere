@@ -7,7 +7,7 @@ published: true
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "invert-nav": false
-description: null
+description: "virtual reality, solar eclipse"
 "video-pause": true
 "play-once": false
 video_mute: true

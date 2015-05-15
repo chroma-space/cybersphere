@@ -4,5 +4,6 @@ title:  "Impulse"
 date:   2015-04-01
 categories: projects
 thumbnail: "thumbnail-impulse.jpg"
+description: "sensing, movement, the heart"
 ---
 Impulse post

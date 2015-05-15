@@ -9,6 +9,7 @@ date:
   - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
   - "Tue Mar 31 2015 17:00:00 GMT-0700 (PDT),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
 published: true
+description: "The Acid, audio visual"
 "video-pause": true
 video_mute: true
 "panorama-longitude-speed": 0.01

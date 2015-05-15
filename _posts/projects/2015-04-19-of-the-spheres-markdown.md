@@ -6,7 +6,7 @@ title: Of the Spheres
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "invert-nav": "true"
-description: null
+description: "360º projection, performance, space"
 date: "2015-01-01"
 video: heliosphere_projbanner
 "splash-description": "<a href=\\\"http://vimeo.com/65454918\\\">Heliosphere trailer</a> from <a href=\\\"http://vimeo.com/chromaspace\\\">C H R Θ M A</a> on Vimeo."

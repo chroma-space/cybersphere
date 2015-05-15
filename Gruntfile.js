@@ -55,10 +55,9 @@ grunt.initConfig({
   },
   watch: {
     jekyll: {
-      files: ['**/*.yml','**/*.html','**/*.csv','**/*.md','**/*.markdown','**/*.json','**/*.js','!**/node_modules/**'],
+      files: ['**/*.yml','**/*.html','**/*.csv','**/*.md','**/*.markdown','**/*.json','**/*.js','!**/node_modules/**','**/*.less'],
       tasks: ['default'],
       options: {
-        spawn: false
       }
     }
   },

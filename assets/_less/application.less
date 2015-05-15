@@ -145,15 +145,20 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   h2 {
+    margin-top:0;
     text-align:center;
-    /*
-    -webkit-filter: drop-shadow(1px 2px 1px rgba(0,0,0,0.33)) blur(0.33px);
-    filter:drop-shadow(1px 2px 1px rgba(0,0,0,0.33)) blur(0.33px);
-    */
+    font-size:36px;
+  }
+
+  @media (min-width: @screen-md-min) {
+    h2 {
+      text-align:center;
+      font-size:24px;
+    }
   }
 
   img {
-      padding:40px;
+      padding:30px;
       width: 100%;
       position: absolute;
       top: 10%;
@@ -198,6 +203,8 @@ div.about {
 }
 
 div.projects {
+  padding-top:50px;
+
   h1 {
     display:none;
   }

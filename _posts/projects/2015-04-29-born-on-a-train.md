@@ -12,6 +12,7 @@ video_mute: false
 date: "2015-01-01"
 thumbnail: thumbnail_bornonatrain.jpg
 video: "splash-bornonatrain.jpg"
+description: "projection performance"
 ---
 
 A projection performance about living in transit and a repeated journey home. **Born on a Train** combines an interactive performance journey for individuals with large-scale video mapping. Designed for train stations and urban spaces, it brings together live performance, animation and toy trains as it explores the agency of crowds and decision making.

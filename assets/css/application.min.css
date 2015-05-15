@@ -6082,14 +6082,18 @@ h6 {
   bottom: 0;
 }
 .project-desc h2 {
+  margin-top: 0;
   text-align: center;
-  /*
-    -webkit-filter: drop-shadow(1px 2px 1px rgba(0,0,0,0.33)) blur(0.33px);
-    filter:drop-shadow(1px 2px 1px rgba(0,0,0,0.33)) blur(0.33px);
-    */
+  font-size: 36px;
+}
+@media (min-width: 992px) {
+  .project-desc h2 {
+    text-align: center;
+    font-size: 24px;
+  }
 }
 .project-desc img {
-  padding: 40px;
+  padding: 30px;
   width: 100%;
   position: absolute;
   top: 10%;
@@ -6122,6 +6126,9 @@ div.about {
 }
 div.about h1 {
   display: none;
+}
+div.projects {
+  padding-top: 50px;
 }
 div.projects h1 {
   display: none;
