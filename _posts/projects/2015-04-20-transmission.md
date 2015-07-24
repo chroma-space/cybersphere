@@ -12,7 +12,9 @@ slug: transmission
 "video-pause": false
 "play-once": false
 video_mute: false
+jpg: transmission/Transmission_closeUp_640_640.jpg
 ---
+
 
 <i> <i style="color:#c01616"> > ‘An ancient Chinese proverb says an invisible red thread connects all those destined to meet whatever the time, whatever the place and whatever the circumstances...
 Can you feel its tug?’</i>
