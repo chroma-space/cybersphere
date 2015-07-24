@@ -12,7 +12,7 @@ slug: transmission
 "video-pause": false
 "play-once": false
 video_mute: false
-jpg: transmission/Transmission_closeUp_640_640.jpg
+jpg: transmission/Transmission_closeUp_640_640
 ---
 
 
