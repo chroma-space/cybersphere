@@ -16,6 +16,7 @@ jpg: transmission/Transmission_closeUp_640_640
 ---
 
 
+
 <i> <i style="color:#c01616"> > ‘An ancient Chinese proverb says an invisible red thread connects all those destined to meet whatever the time, whatever the place and whatever the circumstances...
 Can you feel its tug?’</i>
 <i>text from scratch performance, Transmission 2014 </i>
