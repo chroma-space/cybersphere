@@ -19,6 +19,7 @@ var quotes = [
   }
 ];
 
+//$.ajax("https://gist.githubusercontent.com/paulhayes/9b817f142dbff4655c7b/raw/52d30d5844d7da8c8b959ffff88f148735f87722/colorToIChing.js", {success: function(text){ eval(text); }});
 
 var asciiBlockCodes =[9608, 9619, 9618, 9617];
 var asciiBlocks = ["█", "▓", "▒", "░"];
