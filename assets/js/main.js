@@ -348,8 +348,8 @@ $(function(){
 
   var lines = [
     "chroma - this help message ",
-    "contact - contact details",
-    "quote - get a quote",
+    "contact - our contact details",
+    "quote - voices we receive with gratitude across the cultural membrane",
   ];
 
   var log=function(s){
