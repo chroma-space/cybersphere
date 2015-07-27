@@ -1,0 +1,20 @@
+---
+title: CHROMA
+layout: page
+---
+
+<script>
+
+window.addEventListener('load',function(){
+	console.log("meep");
+	$.ajax("/assets/js/dictionary.json",{
+		success: function(data){
+			console.log("meep2");
+			console.log(data);
+		}
+	});
+
+
+})
+
+</script>
