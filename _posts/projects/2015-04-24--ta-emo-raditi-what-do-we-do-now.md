@@ -2,7 +2,7 @@
 categories: projects
 layout: post
 published: true
-title: "šta ćemo raditi // What do we do now? "
+title: šta ćemo raditi
 "video-pause": false
 video_mute: false
 "panorama-longitude-speed": 0.01
@@ -10,7 +10,9 @@ video_mute: false
 "invert-nav": false
 date: "2015-01-01"
 thumbnail: "thumbnail-whatdowedonow.jpg"
+"play-once": false
 ---
+
 
 A film experience for video head goggles made as part of Video Vortex and installed in the town centre of Komiza, Croatia on the 30th August 2011.
 
