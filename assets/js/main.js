@@ -349,6 +349,7 @@ $(function(){
   var lines = [
     "chroma - this help message ",
     "contact - contact details",
+    "quote - get a quote",
   ];
 
   var log=function(s){

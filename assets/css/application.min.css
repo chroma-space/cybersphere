@@ -6016,7 +6016,7 @@ h6 {
   letter-spacing: 10vw;
   text-indent: 5vw;
   font-size: 4vw;
-  background-image: url(/assets/images/chroma.png);
+  background-image: url(/assets/images/00homepage/chroma.png);
   background-size: 80%;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -6105,7 +6105,7 @@ h6 {
 }
 div.about-container {
   position: relative;
-  background-image: url(/assets/images/about2.png);
+  background-image: url(/assets/images/00homepage/about2.png);
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
