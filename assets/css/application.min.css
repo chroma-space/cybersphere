@@ -5977,6 +5977,9 @@ h6 {
   font-size: 0.8em;
   vertical-align: text-top;
 }
+.chroma-inline {
+  font-family: 'Open Sans', sans-serif;
+}
 .navbar-default {
   background-color: rgba(1, 1, 1, 0);
   border: none;
@@ -5998,6 +6001,10 @@ h6 {
 .navbar-nav.invert > li > a:hover,
 .navbar-nav.invert > li > a:focus {
   color: #fff;
+}
+div.post-content {
+  max-width: 640px;
+  font-size: 1.15em;
 }
 .splash {
   display: table;

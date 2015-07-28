@@ -12,6 +12,7 @@ video_mute: false
 date: "2015-01-01"
 thumbnail: thumbnail_bornonatrain.jpg
 video: "splash-bornonatrain"
+poster: 009born_on_a_train/splash-bornonatrain.jpg
 description: projection performance
 ---
 

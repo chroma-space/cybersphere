@@ -9,6 +9,7 @@ title: Of the Spheres
 description: "360º projection, performance, space"
 date: "2015-01-01"
 video: heliosphere_projbanner
+poster: 011of_the_spheres/heliosphere_projbanner.jpg
 "splash-description": "<a href=\\\"http://vimeo.com/65454918\\\">Heliosphere trailer</a> from <a href=\\\"http://vimeo.com/chromaspace\\\">C H R Θ M A</a> on Vimeo."
 slug: of_the_spheres
 "video_pause": true
