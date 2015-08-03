@@ -5,7 +5,7 @@ published: true
 title: Dream Machine
 "invert-nav": false
 date: "2015-04-01"
-description: ""
+description: "Animation, Collaboration, Comics"
 slug: dream_machine
 "video-pause": false
 "play-once": false
@@ -23,6 +23,6 @@ Dream Machine is an experiment in group storytelling and featured the work of ov
 
 Here's a 3 minute on the project given at FOTB by KG:
 
-<iframe src="https://player.vimeo.com/video/15766207?color=ffffff&byline=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/15766207">Kate Genevieve - FOTB2010 - Elevator Pitch</a> from <a href="https://vimeo.com/reasonsto">Reasons to be Creative</a> on <a href="https://vimeo.com">Vimeo</a>.</p> <p>The Flash on the Beach Elevator Pitch has become one of the most popular sessions in recent years. It is exactly what the title suggests - 20 &#039;newbies&#039; / &#039;oldies&#039; / whatever you want to call them, get 3 minutes to show their best work, a new idea, live coding, live drawing, whatever. The Elevator Pitch is a mish-mash of designers, developers and creatives throwing down their stuff in 3 minutes!<br /> <br /> It is a great chance for new speakers to get some exposure, and a first look for many of us to see new talent. Attendees get to vote for their favourite 3 spots. The 3 top voted pitchers get invited to do a full session at the next #FOTB.<br /> <br /> http://www.flashonthebeach.com<br /> http://www.geekybynature.com<br /> http://twitter.com/FOTB<br /> http://twitter.com/geekybynature</p>
+<iframe src="https://player.vimeo.com/video/15766207?color=ffffff&byline=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 [The Dream Machine website](http://www.bangdreammachine.com/?page_id=355) has more information, full credits and a link to the comic newspapers online.
