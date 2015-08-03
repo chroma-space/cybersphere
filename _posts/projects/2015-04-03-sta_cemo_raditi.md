@@ -11,6 +11,7 @@ video_mute: false
 date: "2015-01-01"
 thumbnail: "thumbnail-whatdowedonow.jpg"
 "play-once": false
+index: 3
 ---
 
 

@@ -5,15 +5,15 @@
 {% if include.post.poster %}
 {% capture poster %}{{include.post.poster | prepend: "/assets/images/" | prepend: site.baseurl}}{% endcapture %}
 {% endif %}
-<video autoplay loop preload="auto" class="{{include.post.video}}{% if video_pause == "true" %} pauseable-video{% endif %}{% if play-once == "true" %} play-once{% endif %}" poster="{{poster}}">
+<video autoplay loop muted preload="auto" class="{{include.post.video}}{% if video_pause == "true" %} pauseable-video{% endif %}{% if play-once == "true" %} play-once{% endif %}" poster="{{poster}}">
   <source src="/assets/video/{{include.post.video}}.mp4" type="video/mp4"/>
   <source src="/assets/video/{{include.post.video}}.mkv" type="video/x-matroska"/>
 </video>
 {% capture video_mute %}{{include.post.video_mute}}{% endcapture %}
 {% if video_mute == 'true' %}
 <div class="video-controls">
-  <span class="glyphicon glyphicon-volume-off unmute" style="display:none"></span>
-  <span class="glyphicon glyphicon-volume-up mute"></span>
+  <span class="glyphicon glyphicon-volume-off unmute"></span>
+  <span class="glyphicon glyphicon-volume-up mute" style="display:none"></span>
 </div>
 {% endif %}
 {% endif %}
