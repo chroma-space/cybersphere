@@ -2,7 +2,7 @@
 categories: projects
 layout: project
 title: No Place
-date: "2015-01-01"
+date: "2015-04-01"
 published: true
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
@@ -11,6 +11,7 @@ published: true
 video_mute: false
 thumbnail: "thumbnail-noplace.jpg"
 description: "Art, Science, Architecture"
+index: 4
 ---
 
 NO PLACE is a digital film experience that explores real and virtual spaces, commissioned by Brighton's White Night Festival.

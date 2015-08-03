@@ -14,6 +14,7 @@ video_mute: true
 thumbnail: "thumbnail-conjunction.jpg"
 slug: "thumbnail-conjunction"
 video: conjunction
+index: 14
 ---
 
 On March 20th 2015 England witnessed a partial solar eclipse. Intrigued by the spectacle of the black sun that can not be looked at with the naked eye, we built a virtual reality performance as a way of marking and witnessing the event.

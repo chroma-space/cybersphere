@@ -15,6 +15,7 @@ slug: of_the_spheres
 "video_pause": true
 "video_mute": true
 thumbnail: "thumbnail-ofthespheres.jpg"
+index: 8
 ---
 
 > _“…there is no inner man, man is in the world, and only in the world does he know himself.” Maurice Merleau-Ponty, Phenomenology of Perception (Preface, 1945)_

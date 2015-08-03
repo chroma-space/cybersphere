@@ -46,7 +46,8 @@
         <h1 class="page-heading">Projects</h1>
 
         <div class="project-list row">
-          {% for post in site.categories.projects %}
+          {% assign sorted_projects = site.categories.projects | sort:"index" | reverse %}
+          {% for post in sorted_projects %}
             <div class="col-md-3">
               <div class="project-desc">
                 <div>
