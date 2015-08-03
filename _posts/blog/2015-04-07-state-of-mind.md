@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Talk @ State of Mind Expo
+title: Panel @ State of Mind Expo
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "invert-nav": false
