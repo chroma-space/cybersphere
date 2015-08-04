@@ -13,7 +13,7 @@ description: "virtual reality, embodiment, haptic"
 "index-image": pano1.jpg
 published: true
 "video-pause": false
-video_mute: false
+video_mute: true
 thumbnail: "circle-gather.jpg"
 video: "splash-gather"
 poster: "splash-black.jpg"
