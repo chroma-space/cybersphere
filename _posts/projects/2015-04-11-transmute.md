@@ -12,4 +12,5 @@ slug: transmute
 video_mute: false
 jpg: 
 index: 11
+thumbnail: "thumbnail-transmute.jpg"
 ---
