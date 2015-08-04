@@ -12,12 +12,13 @@ panorama: pano1.jpg
 "panorama-user-control": false
 "invert-nav": true
 "panorama-poster": pano1.jpg
-"splash-description": "EEG data, gathered from Kate Genevieve's mind while whistling theme Rainbow"
+"splash-description": ""
 "index-image": pano1.jpg
 published: true
 "video-pause": false
 video_mute: false
 thumbnail: "circle-gather.jpg"
+video: "splash-gather"
 index: 7
 ---
 
