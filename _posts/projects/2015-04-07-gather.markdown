@@ -19,6 +19,7 @@ published: true
 video_mute: false
 thumbnail: "circle-gather.jpg"
 video: "splash-gather"
+poster: "splash-black.jpg"
 index: 7
 ---
 
