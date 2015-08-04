@@ -10,6 +10,7 @@ slug: byzantium
 "video-pause": false
 "play-once": false
 video_mute: false
+thumbnail: "thumbnail-byzantium.jpg"
 jpg: 
 index: 15
 ---
