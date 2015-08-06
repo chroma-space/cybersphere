@@ -33,6 +33,10 @@ function isHome(){
   return $('body.home').length>0;
 }
 
+function fadeInOnLoad(selector,duration){
+  $(selector).ready(function() {$(selector).fadeIn(duration);}).hide();
+}
+
 function isPage(name){
   return $('body.'+name).length>0;
 }
@@ -102,6 +106,9 @@ $(function(){
           $(video).css( "filter",val);
           if(turnOn) setTimeout(videoFX,duration);
       }
+
+      fadeInOnLoad('.splash h1',300);
+
 
 
       var randomInterval = function(s,min,max,f){
