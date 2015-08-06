@@ -33,6 +33,10 @@ function isHome(){
   return $('body.home').length>0;
 }
 
+function elapsed(time){
+  return Date.now() - time;
+}
+
 function fadeInOnLoad(selector,duration){
   $(selector).hide().ready(function() {
     $(selector).hide().fadeIn(duration);
@@ -102,11 +106,13 @@ $(function(){
     if( isHome() ){
       var video = document.getElementsByTagName("video")[0];
       var turnOn = false;
+      var lastTime = Date.now();
       var videoFX = function(on){
           if( typeof(on) != "undefined" ) turnOn = on;
           else turnOn = !turnOn;
           var val = !turnOn ? "none" : "saturate(100) hue-rotate(-127deg)" ;
           var duration = 2400 ;
+          lastTime = Date.now();
           $(video).css( "-webkit-filter",val);
           $(video).css( "filter",val);
           if(turnOn) setTimeout(videoFX,duration);
@@ -120,7 +126,9 @@ $(function(){
       //randomInterval(videoFX.bind(null,true),5000,20000);
 
       $(".splash-title").mouseover(function(){
-        videoFX(true);
+        if( elapsed(lastTime) > 5000 ){
+          videoFX(true);
+        }
       }).mouseout(function(){
         //videoFX(false);
       });

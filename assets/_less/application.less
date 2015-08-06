@@ -184,31 +184,51 @@ div.post-content {
 
 }
 
-div.about-container {
-  position:relative;
-  background-image:url(/assets/images/00homepage/about2.png);
-  background-size: cover;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  overflow:hidden;
-}
+body.home {
 
-canvas.about-background {
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index:-1;
-}
-
-div.about {
-  background-color: rgba(255,255,255,0.8);
-  padding: 100px 10px 100px 10px;
-  font-size:1.618034em;
-  h1 {
-    display:none;
+  div.about-container {
+    position:relative;
+    background-image:url(/assets/images/00homepage/about2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    overflow:hidden;
   }
-  z-index:1;
+
+  canvas.about-background {
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index:-1;
+  }
+
+  div.about {
+    background-color: rgba(255,255,255,0.8);
+    padding: 100px 10px 100px 10px;
+    font-size:1.618034em;
+    h1 {
+      display:none;
+    }
+    z-index:1;
+  }
+
+}
+
+body.about {
+
+  div.about,
+  div.group,
+  div.who-we-are {
+    background-color: rgba(255,255,255,0.8);
+    padding: 40px 10px 40px 10px;
+    font-size:1.618034em;
+    h1 {
+      display:none;
+    }
+    z-index:1;
+  }
+
 }
 
 div.projects {

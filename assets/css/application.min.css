@@ -6110,7 +6110,7 @@ div.post-content {
   display: block;
   padding-top: 140%;
 }
-div.about-container {
+body.home div.about-container {
   position: relative;
   background-image: url(/assets/images/00homepage/about2.png);
   background-size: cover;
@@ -6118,20 +6118,33 @@ div.about-container {
   background-repeat: no-repeat;
   overflow: hidden;
 }
-canvas.about-background {
+body.home canvas.about-background {
   display: block;
   position: absolute;
   width: 100%;
   height: 100%;
   z-index: -1;
 }
-div.about {
+body.home div.about {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 100px 10px 100px 10px;
   font-size: 1.618034em;
   z-index: 1;
 }
-div.about h1 {
+body.home div.about h1 {
+  display: none;
+}
+body.about div.about,
+body.about div.group,
+body.about div.who-we-are {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 40px 10px 40px 10px;
+  font-size: 1.618034em;
+  z-index: 1;
+}
+body.about div.about h1,
+body.about div.group h1,
+body.about div.who-we-are h1 {
   display: none;
 }
 div.projects {
