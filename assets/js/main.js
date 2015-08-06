@@ -35,7 +35,6 @@ function isHome(){
 
 function fadeInOnLoad(selector,duration){
   $(selector).hide().ready(function() {
-    console.log("meep3");    
     $(selector).hide().fadeIn(duration);
   });
 }
