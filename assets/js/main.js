@@ -34,7 +34,10 @@ function isHome(){
 }
 
 function fadeInOnLoad(selector,duration){
-  $(selector).ready(function() {$(selector).fadeIn(duration);}).hide();
+  $(selector).hide().ready(function() {
+    console.log("meep3");    
+    $(selector).hide().fadeIn(duration);
+  });
 }
 
 function isPage(name){
@@ -92,6 +95,9 @@ $(function() {
   }
 });
 
+fadeInOnLoad('.splash h1',1800);
+
+
 $(function(){
 
     if( isHome() ){
@@ -106,10 +112,6 @@ $(function(){
           $(video).css( "filter",val);
           if(turnOn) setTimeout(videoFX,duration);
       }
-
-      fadeInOnLoad('.splash h1',300);
-
-
 
       var randomInterval = function(s,min,max,f){
           if(f)f(true);
