@@ -169,7 +169,7 @@ $(function(){
 
       var userControl = ($(pano).attr("user-control")=="true") || false;
       var manualControl = false;
-			var longitude = 0;
+			var longitude = $(pano).attr("start-angle") || 180;
 			var latitude = 0;
 			var savedX;
 			var savedY;
