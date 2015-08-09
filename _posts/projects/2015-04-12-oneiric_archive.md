@@ -2,7 +2,7 @@
 categories: projects
 layout: post
 published: true
-title: The Oneiric Archive
+title: Oneiric Archives
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "invert-nav": false
