@@ -6179,6 +6179,9 @@ body.page article {
   -webkit-transition: -webkit-filter 500ms linear;
   -moz-transition: -moz-filter 500ms linear;
 }
+.half-splash banner-top {
+  object-position: unset 0%;
+}
 .half-splash img {
   position: absolute;
   object-fit: cover;

@@ -11,9 +11,11 @@ description: "virtual reality, solar eclipse"
 "video-pause": true
 "play-once": false
 video_mute: true
+banner-valign: top
 thumbnail: "thumbnail-conjunction.jpg"
 slug: "thumbnail-conjunction"
 video: conjunction
+poster: 014conjunction/conjunction.jpg
 index: 14
 ---
 

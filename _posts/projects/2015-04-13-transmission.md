@@ -12,7 +12,7 @@ slug: transmission
 "video-pause": false
 "play-once": false
 video_mute: false
-jpg: transmission/Transmission_closeUp_640_640
+jpg: 013transmission/transmission_closeup
 index: 13
 thumbnail: "thumbnail-transmission.jpg"
 ---
@@ -27,5 +27,5 @@ Transmission is an installation that invites two strangers into a communication 
 
 After a successful SCRATCH event at [Transmute](http://brightondigitalfestival.co.uk/event/transmute-at-phoenix-artsTransmute), Phoenix Gallery, we are beginning to develop this project with the [Nightingale Brighton](http://www.nightingaletheatre.co.uk/) with the aim of creating a trans-lingual, touring artwork that draws audiences into intimate and creative interactions with each other and spaces that lie beyond the margins of consciousness. This interdisciplinary project is being developed with collaborators from dance and sound art, including Rosemary Lee, Ian Winters and Matt Robertson. Drawing on cutting-edge neuroscience around empathy responses and the physiological effects of sound with Dr Ana Tajadura-Jimenez, this responsive digital installation has human connection at its axis point. An exploration of infectious micro-expression, contagious affect and shared presence, that shifts perceptions and playfully explores new ways to meet each other and our environment. 
 
-C H R Θ M A &amp; Stillpoint is the collaboration of Rachel Blackman and Kate Genevieve. We create cross platform works that employ performance, digital technologies and non-verbal vocabularies, to engage a “playing audience” in the potential of their own creative agency.
+<span class="chroma">CHRΘMA<span> &amp; Stillpoint is the collaboration of Rachel Blackman and Kate Genevieve. We create cross platform works that employ performance, digital technologies and non-verbal vocabularies, to engage a “playing audience” in the potential of their own creative agency.
 

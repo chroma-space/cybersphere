@@ -14,7 +14,6 @@ published: true
 <span class="chroma">CHRϴMA</span> are opening the doors on the development of their latest Virtual Reality project. You are invited to explore work in progress &amp; imagine new forms of being-together.
 </h4>
 
-
 <span class="chroma">CHRϴMA</span> are opening the doors on the development of their latest Virtual Reality project. We are asking how virtual reality and network technology can bring our domestic spaces into new communications with other living beings and the ecosystem. You are invited to visit and explore work in progress, creatively input and radically speculate about collective territories and future uses for Virtual Reality.
 
 
