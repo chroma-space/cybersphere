@@ -6179,8 +6179,23 @@ body.page article {
   -webkit-transition: -webkit-filter 500ms linear;
   -moz-transition: -moz-filter 500ms linear;
 }
-.half-splash banner-top {
-  object-position: unset 0%;
+.half-splash .banner-top {
+  object-position: 50% 0%;
+}
+.half-splash .banner-bottom {
+  object-position: 50% 100%;
+}
+.half-splash .banner-top-right {
+  object-position: 100% 0%;
+}
+.half-splash .banner-bottom-left {
+  object-position: 0% 100%;
+}
+.half-splash .banner-bottom-right {
+  object-position: 100% 100%;
+}
+.half-splash .banner-top-left {
+  object-position: 0% 0%;
 }
 .half-splash img {
   position: absolute;
