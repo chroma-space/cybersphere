@@ -14,6 +14,7 @@ slug: transmission
 video_mute: false
 jpg: transmission/Transmission_closeUp_640_640
 index: 13
+thumbnail: "thumbnail-transmission.jpg"
 ---
 
 

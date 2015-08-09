@@ -12,5 +12,5 @@ slug: transmute
 video_mute: false
 jpg: 
 index: 11
-thumbnail-ignore: "thumbnail-transmute.jpg"
+thumbnail: "thumbnail-transmute.jpg"
 ---
