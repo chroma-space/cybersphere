@@ -142,8 +142,7 @@ We are collaborating with researchers from Liverpool University who have specifi
 
 ###There are 5 phases of work:
  			
-1. Set up and initial testing phase involving sandpit with all the partners including Creative R&D & 
-Prototyping
+1. Set up and initial testing phase involving sandpit with all the partners including Creative R&D & Prototyping
 2. Field Work, Live Shoot, Asset Capture followed by technical and aesthetic development and testing phase with various staged tests to gather data from audience members, which influence our user experience.
 3. Artistic, Technical & Physical Construction
 Complete creation of the virtual and physical elements. Construction of the set for the participants and the projection set-up that projects the multi-sensory interactive performance to the wider audiences.
