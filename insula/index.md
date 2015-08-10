@@ -108,7 +108,7 @@ ur feeling as a company is that VR has powerfully embodied effects and that alth
 The robe covers all of the body like a dressing gown on top of clothes. Touch will focus on neutral areas: shins / knees, shoulders, arms, hands, the top of the head and the navel. The touch will be non invasive and created by brush strokes and designed with a body practitioner. Audience members who are not comfortable with this experience can simply watch the projection.
 System for experiencing 
 
-We have worked with the one on one performance culture in the UK for five years so have gained lots of experience of working with different galleries to put in place the most simple system for organising how participants try the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive. During private views and special events in which lots of people arrive at the gallery it is best done through bookable slots.
+We have worked with one-on-one performance culture in the UK for five years and gained lots of experience of working with different galleries to schedule how participants book a place in the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive to try, watching the projections whilst they wait their turn. During private views and special events in which lots of people arrive at the gallery it is best to pre-arrange bookable slots: this allows interested people to sign up and return at a set time.
 
 
 Questions of mental, social and environmental ecology do not 
