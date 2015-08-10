@@ -4,8 +4,9 @@ title: "INSULA application // “Imaginary Circle, Asia – Plastic Myths”"
 published: true
 jpg: 016insula/insula_body
 private: "true"
-"splash-description": "image created by Christian Krupa"
+"splash-description": image created by Christian Krupa
 ---
+
 
 > "Love the world as your own self; then you can truly care for all things." - Lao Tzu, Tao Te Ching: Chapter 13
 
@@ -90,6 +91,39 @@ Short throw projector, to render a projection mapping of the island on the body 
 Pepper's Ghost Illusion. Using a lightweight mylar mirror angled at 45 degrees downward, and by 
 having the audience ground level approximately 1.75m above the participants, it’s possible to create a virtual projection of participant (a) seemingly hovering just above the ground and directly facing the audience. This allows the audience to witness the projected island from an aerial view like a human data visualisation.
 
+![](/assets/images/016insula/island_sunset20201.jpg)
+
+> "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." 
+Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Press, 2000. 
+
+![](/assets/images/016insula/santorini_is_the_sky.jpg)
+
+Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the global climate situation from around the globe.
+
+We believe that questions of mental, social and environmental ecology do not simply inform each other, but depend on each other. As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we can understand ourselves, communicate and act as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies - like VR - to explore creative forms of remote relationship around a planetary perspective.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we design our “live” VR installations to give participants a means of encountering climate information through touch, immersion and narrative. The work draws on ecological research and scientific research into sensory modalities, empathy and subjectivity. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense and receive information about the globe and new potentials for communication, action and participation that they open up.		
+
+###The Team 
+
+Lead by Kate and Paul, the production work will involve remote collaboration with:
+
+*  [Christian Krupa](christiankrupa.net), Animator (UK) 
+*  [Vjeran Salamon](http://www.imdb.com/name/nm1362388/), Sound artist  (Croatia)   
+
+We are collaborating with researchers from Liverpool University who have specific research expertise in media, visual culture and music in Asian culture:
+
+* [Dr Haekyung Um](http://www.liv.ac.uk/music/staff/haekyung-um/)
+* [Dr Stephanie Donald](http://www.stephaniedonald.info/researchinterests.php) 
+
+###There are 5 phases of work:
+ 			
+1. Set up and initial testing phase involving sandpit with all the partners including Creative R&D & Prototyping
+2. Field Work, Live Shoot, Asset Capture followed by technical and aesthetic development and testing phase with various staged tests to gather data from audience members, which influence our user experience.
+3. Artistic, Technical & Physical Construction
+Complete creation of the virtual and physical elements. Construction of the set for the participants and the projection set-up that projects the multi-sensory interactive performance to the wider audiences.
+4. Installation and Exhibition. Specific immersive performances and workshops can be run by the artists during the opening events.
+
+Throughout all stages we will test prototypes on volunteers. The project focuses on the visceral experience of the audience member it demands a user centred approach with live audiences exploring multiple prototypes. Various prototypes will explore an array of alternatives for how participants experience their body avatar melding with and transforming into the landscape using real climate data.
+
 ###Additional comments
 
 ####Accessibility 						
@@ -109,43 +143,3 @@ The robe covers all of the body like a dressing gown on top of clothes. Touch wi
 System for experiencing 
 
 We have worked with one-on-one performance culture in the UK for five years and gained lots of experience of working with different galleries to schedule how participants book a place in the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive to try, watching the projections whilst they wait their turn. During private views and special events in which lots of people arrive at the gallery it is best to pre-arrange bookable slots: this allows interested people to sign up and return at a set time.
-
-
-Questions of mental, social and environmental ecology do not 
-simply inform each other, but depend on each other: as anthropologist Gregory Bateson argues 
-
-> "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." - Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Press, 2000. 
-
-
-###Look & Feel 
-
-![](/assets/images/016insula/island_sunset20201.jpg)
-
-![](/assets/images/016insula/santorini_is_the_sky.jpg)
-
-Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the global climate situation from around the globe.
-
-As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we understand ourselves as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies like VR to explore new forms of relationship around a planetary perspective.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we want our “live” VR installations to give participants a means of encountering climate information through touch, immersion and narrative. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense and receive information about the globe and the potentials for communication, action and participation. 
-
-
-###The Team 
-
-Lead by Kate and Paul, the production work will involve remote collaboration with:
-
-*  [Christian Krupa](christiankrupa.net), Animator (UK) 
-*  [Vjeran Salamon](http://www.imdb.com/name/nm1362388/), Sound artist  (Croatia)   
-
-We are collaborating with researchers from Liverpool University who have specific research expertise in media, visual culture and music in Asian culture:
-
-* [Dr Haekyung Um](http://www.liv.ac.uk/music/staff/haekyung-um/)
-* [Dr Stephanie Donald](http://www.stephaniedonald.info/researchinterests.php). 
-
-###There are 5 phases of work:
- 			
-1. Set up and initial testing phase involving sandpit with all the partners including Creative R&D & Prototyping
-2. Field Work, Live Shoot, Asset Capture followed by technical and aesthetic development and testing phase with various staged tests to gather data from audience members, which influence our user experience.
-3. Artistic, Technical & Physical Construction
-Complete creation of the virtual and physical elements. Construction of the set for the participants and the projection set-up that projects the multi-sensory interactive performance to the wider audiences.
-4. Installation and Exhibition. Specific immersive performances and workshops can be run by the artists during the opening events.
-
-Throughout all stages we will test prototypes on volunteers. The project focuses on the visceral experience of the audience member it demands a user centred approach with live audiences exploring multiple prototypes. Various prototypes will explore an array of alternatives for how participants experience their body avatar melding with and transforming into the landscape using real climate data.
