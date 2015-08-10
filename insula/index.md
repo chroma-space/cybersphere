@@ -46,7 +46,6 @@ Immersed in the Oculus Rift: all visuals created from natural imagery and climat
 P’an Ku story through Virtual Reality: a proto-being whose body became the earth and cosmos. Centuries after P’an Ku’s death, the earth and heavens fall out of harmony. The participant is asked to step into the character of the female Nüwa, said to have healed the hole in the sky and restored harmony.
 
 ###P’an Ku sequence:
-
 The participant's body becomes an ecosystem and all imagery and sound is accompanied by touch.
 
 The installation begins playing a runtime rendered 3d scene in the oculus rift involving the cosmos starting as an egg and participant (a) being the giant within the egg. They participant then has to break the egg open and separate the earth and the sky using their arms, which is detected by the kinect or leap motion. While this is happening participant (b) is witnessing prerendered animation projected on participant (a).
@@ -56,15 +55,14 @@ The next sequence involves participant (a) lying back, with their head slightly 
 Within the virtual experience participant (a) feels a mountain grow out of their navel, as they feel a paint brush circle their tummy. Through the Rift a wild Tempest roars; the participant feels syncopated drumming up and down her legs. 
 
 
-###The Nüwa sequence:
-
+###Nüwa sequence:
 Integrating simple chi gong movements, participants step into Nüwa's story
 
 The final sequence involves participant (a) sitting up as Nüwa to repair the cracks in the sky. The myth of Nüwa is told in the Chu Ci 楚辭 "Songs of Chu": when the pillars of heaven were broken, Nüwa melts rocks of five colours to mend the heavens.  
 
 The participant is invited to sit up and and use their hands to repair the cosmic destruction that they are seeing in the virtual reality. Participants are guided by 3D visualisations of colourful spheres to move their arms around the outline of these spheres and so that, like Nüwa, they enact healing the split between earth and heaven. These movements are modelled on simple qigong exercises. The participant performs movements that paint the sky various colours, these are read using the leap motion to produce a rich visual experience. 
 
-To end:
+###To end:
 The participant is asked to embark on the journey back to the real world by stepping into the present. They are asked to take a a step in the dark and continue their mythic journey into the unknown future remembering always that they mediate the harmony of heaven and earth through their body.
 
 Once this is done, participant (b) is instructed to remove participant (a) Oculus Rift and both of their headsets.
