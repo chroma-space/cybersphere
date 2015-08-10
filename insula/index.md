@@ -111,11 +111,8 @@ System for experiencing
 
 We have worked with one-on-one performance culture in the UK for five years and gained lots of experience of working with different galleries to schedule how participants book a place in the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive to try, watching the projections whilst they wait their turn. During private views and special events in which lots of people arrive at the gallery it is best to pre-arrange bookable slots: this allows interested people to sign up and return at a set time.
 
-
-Questions of mental, social and environmental ecology do not 
-simply inform each other, but depend on each other: as anthropologist Gregory Bateson argues 
-
-> "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." - Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Press, 2000. 
+> "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." 
+Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Press, 2000. 
 
 
 ###Look & Feel 
