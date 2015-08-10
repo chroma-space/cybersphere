@@ -28,7 +28,9 @@ The installation performs the counterpoised energies of the active and receptive
 
 ![](/assets/images/016insula/island_top.jpg)
 
-All the natural imagery and sound used in the installation transforms information from real living systems: we use acoustic ecology, 3D photo techniques and data sets from coral ecosystems, glacial change, sea level rise and global temperature change to virtually represent the contemporary climate picture. A wider audience can witness the installation through a unique projection: a virtual projection of a birds-eye-view of the supine participant in the Rift and the projections on her body. For the visitors to the gallery the VR installation becomes a unique climate visualisation: a mappa mundi for contemporary times. Insula questions what role creative technology can play in transmitting a myth for a global culture.
+All the natural imagery and sound used in the installation transforms information from real living systems: we use acoustic ecology, 3D photo techniques and data sets from coral ecosystems, glacial change, sea level rise and global temperature change to virtually represent the contemporary climate picture. 
+
+A wider audience can witness the installation through a unique projection: a virtual projection of a birds-eye-view of the supine participant in the Rift and the projections on her body. For the visitors to the gallery the VR installation becomes a unique climate visualisation: a mappa mundi for contemporary times. Insula questions what role creative technology can play in transmitting a myth for a global culture.
 
 
 ###Experience In Detail
