@@ -1,6 +1,6 @@
 ---
 categories: projects
-layout: post
+layout: project
 published: true
 title: Camp Bestival 
 "invert-nav": false
