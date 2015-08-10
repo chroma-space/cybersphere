@@ -91,22 +91,16 @@ Short throw projector, to render a projection mapping of the island on the body 
 Pepper's Ghost Illusion. Using a lightweight mylar mirror angled at 45 degrees downward, and by 
 having the audience ground level approximately 1.75m above the participants, it’s possible to create a virtual projection of participant (a) seemingly hovering just above the ground and directly facing the audience. This allows the audience to witness the projected island from an aerial view like a human data visualisation.
 
-
+![](/assets/images/016insula/island_sunset20201.jpg)
 
 > "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." 
 Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Press, 2000. 
-
-
-###Look & Feel 
-
-![](/assets/images/016insula/island_sunset20201.jpg)
 
 ![](/assets/images/016insula/santorini_is_the_sky.jpg)
 
 Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the global climate situation from around the globe.
 
 As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we understand ourselves as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies like VR to explore new forms of relationship around a planetary perspective.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we want our “live” VR installations to give participants a means of encountering climate information through touch, immersion and narrative. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense and receive information about the globe and the potentials for communication, action and participation. 
-
 
 ###The Team 
 
