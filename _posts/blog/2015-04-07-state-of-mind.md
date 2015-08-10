@@ -9,7 +9,7 @@ date: 2015-04-07
 categories: falling_through_myself
 "splash-description": ""
 video: 
-thumbnail: ""
+thumbnail: "thumbnail-falling-through-myself.jpg"
 
 ---
 
