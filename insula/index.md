@@ -70,11 +70,11 @@ Once this is done, participant (b) is instructed to remove participant (a) Oculu
 
 ###Active participant: description of the experience
 
-Playful tactile experience: 
+A playful tactile experience: participant b improvises to a visual score projected on the body of participant a
 
-The participant sees environmental projections on participant a ’s body: through headphones receives audio prompts about how to create tactile responses to these visualisations. The participant responds to environmental projections, painting on the canvas of the reclining participants body. Active and playful they improvise to this visual score projected on the body. 
+The participant sees environmental projections on participant a ’s body: through headphones receives audio prompts about how to create tactile responses to these visualisations. The participant responds to environmental projections, painting on the canvas of the reclining participants body. 
 
-The two participants switch roles at the end to experience the opposite experience.
+_The two participants can switch roles at the end to experience the opposite experience._
 
 ###Technical Equipment
 
