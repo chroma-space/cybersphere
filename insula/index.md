@@ -1,21 +1,15 @@
 ---
 layout: post
-title: INSULA application // “Imaginary Circle, Asia – Plastic Myths”
+title: "INSULA application // “Imaginary Circle, Asia – Plastic Myths”"
 published: true
-jpg: "016insula/insula_body"
+jpg: 016insula/insula_body
 private: "true"
 "splash-description": "image created by Christian Krupa"
 ---
 
-
-
 > "Love the world as your own self; then you can truly care for all things." - Lao Tzu, Tao Te Ching: Chapter 13
 
 > "In a wider sense, humans and nature share the same body. This allows humans to free themselves from the constraints of individuality and meditatively fuse with the greater body of the universe. Honing the relationship between human vitality and the pulse of the cosmos is a Daoist contemplative practice. " - Chen Xia and Martin Schönfeld, “A Daoist response to climate change,” in the Journal of Global Ethics, August 2011, 202
-
-![](/assets/images/016insula/insula_body.jpg)
-
-<span class="chroma">CHRΘMA</span> - Kate Genevieve and Paul Hayes - have developed performances using haptic exploration in Virtual Reality since 2010. Initially, our work used immersive video headsets. Today we use the Oculus Rift to explore how audience members integrate information from the visual and touch modalities. Drawing on research and art residencies at the Sackler Centre for Consciousness Science we are working to make large-scale data visceral and embodied through storytelling and immersive audio-visual experience.
 
 ###The Project
 
@@ -34,23 +28,25 @@ The installation performs the counterpoised energies of the active and receptive
 
 ![](/assets/images/016insula/island_top.jpg)
 
-All the natural imagery and sound used in the installation transforms information from real living systems: we use acoustic ecology, 3D photo techniques and data sets from coral ecosystems, glacial change, sea level rise and global temperature change to virtually represent the contemporary climate picture. A wider audience can witness the installation through a unique projection: a virtual projection of a birds-eye-view of the supine participant in the Rift and the projections on her body. For the visitors to the gallery the VR installation becomes a unique climate visualisation: a mappa mundi for contemporary times. Insula questions what role creative technology can play in transmitting a myth for a global culture.
+All the natural imagery and sound used in the installation transforms information from real living systems: we use acoustic ecology, 3D photo techniques and data sets from coral ecosystems, glacial change, sea level rise and global temperature change to virtually represent the contemporary climate picture. 
+
+A wider audience can witness the installation through a unique projection: a virtual projection of a birds-eye-view of the supine participant in the Rift and the projections on her body. For the visitors to the gallery the VR installation becomes a unique climate visualisation: a mappa mundi for contemporary times. Insula questions what role creative technology can play in transmitting a myth for a global culture.
 
 
 ###Experience In Detail
 
 The installation requires two participants ( a and b ) who are familiar with each other. Both participants put on wireless headphones, which initially guides them through setting up. They both wear a robe, participant (a) has a smock with a white front and is loose fitting, this functions as both a projection screen, and makes the topology of their body more terrain like. Participant (b) has a black smock to help distinguish them in the kinect data so they can be masked out. Participant (a) wears the Oculus Rift and assumes a sitting position in the center of the installation floor, and participant (b) sits to participant (a) right facing them. Once the kinect has identified they are in the right position the installation begins.
 
-###Description of the experience: receptive participant
+###Receptive participant: description of the experience
 
-Immersed in the Oculus Rift: all visuals created from natural imagery and climate data. Heart beat sensor effects the projections.
+Immersed in the Oculus Rift, the participant encounters visuals, sound, touch and narrative. All visuals are created from natural imagery and climate data and a heart beat sensor allows the participant's pulse to effect these projections.
 
 ###The narrative:
 
-P’an Ku story through Virtual Reality: a proto-being whose body became the earth and cosmos.
-Centuries after P’an Ku’s death, the earth and heavens fall out of harmony. The participant is asked to step into the character of the female Nüwa, said to have healed the hole in the sky and restored harmony.
+P’an Ku story through Virtual Reality: a proto-being whose body became the earth and cosmos. Centuries after P’an Ku’s death, the earth and heavens fall out of harmony. The participant is asked to step into the character of the female Nüwa, said to have healed the hole in the sky and restored harmony.
 
-P’an Ku section: the body becomes an ecosystem as imagery is accompanied by touch.
+###P’an Ku sequence:
+The participant's body becomes an ecosystem and all imagery and sound is accompanied by touch.
 
 The installation begins playing a runtime rendered 3d scene in the oculus rift involving the cosmos starting as an egg and participant (a) being the giant within the egg. They participant then has to break the egg open and separate the earth and the sky using their arms, which is detected by the kinect or leap motion. While this is happening participant (b) is witnessing prerendered animation projected on participant (a).
 
@@ -59,25 +55,26 @@ The next sequence involves participant (a) lying back, with their head slightly 
 Within the virtual experience participant (a) feels a mountain grow out of their navel, as they feel a paint brush circle their tummy. Through the Rift a wild Tempest roars; the participant feels syncopated drumming up and down her legs. 
 
 
-###The Nüwa sequence:
+###Nüwa sequence:
+Integrating simple chi gong movements, participants step into Nüwa's story
 
-The final sequence involves participant (a) choosing to sit up and use their hands to repair the cosmic destruction that they are seeing in the virtual reality. 
+The final sequence involves participant (a) sitting up as Nüwa to repair the cracks in the sky. The myth of Nüwa is told in the Chu Ci 楚辭 "Songs of Chu": when the pillars of heaven were broken, Nüwa melts rocks of five colours to mend the heavens.  
 
-The participant is asked to sit up and perform actions that paint the sky various colours. Integrating simple chi gong movements, participants are guided by 3D visualisations of colourful spheres to move their arms around the outline of these spheres. They perform a series of qigong exercises with their hands, which are read using the leap motion to produce a rich visual experience.
+The participant is invited to sit up and and use their hands to repair the cosmic destruction that they are seeing in the virtual reality. Participants are guided by 3D visualisations of colourful spheres to move their arms around the outline of these spheres and so that, like Nüwa, they enact healing the split between earth and heaven. These movements are modelled on simple qigong exercises. The participant performs movements that paint the sky various colours, these are read using the leap motion to produce a rich visual experience. 
 
-To end:
+###To end:
 The participant is asked to embark on the journey back to the real world by stepping into the present. They are asked to take a a step in the dark and continue their mythic journey into the unknown future remembering always that they mediate the harmony of heaven and earth through their body.
 
 Once this is done, participant (b) is instructed to remove participant (a) Oculus Rift and both of their headsets.
 
 
-Description of the experience: active participant 
+###Active participant: description of the experience
 
-Playful tactile experience: 
+A playful tactile experience: participant b improvises to a visual score projected on the body of participant a
 
-The participant sees environmental projections on participant a ’s body: through headphones receives audio prompts about how to create tactile responses to these visualisations. The participant responds to environmental projections, painting on the canvas of the reclining participants body. Active and playful they improvise to this visual score projected on the body. 
+The participant sees environmental projections on participant a ’s body: through headphones receives audio prompts about how to create tactile responses to these visualisations. The participant responds to environmental projections, painting on the canvas of the reclining participants body. 
 
-The two participants switch roles at the end to experience the opposite experience.
+_The two participants can switch roles at the end to experience the opposite experience._
 
 ###Technical Equipment
 
@@ -111,7 +108,7 @@ ur feeling as a company is that VR has powerfully embodied effects and that alth
 The robe covers all of the body like a dressing gown on top of clothes. Touch will focus on neutral areas: shins / knees, shoulders, arms, hands, the top of the head and the navel. The touch will be non invasive and created by brush strokes and designed with a body practitioner. Audience members who are not comfortable with this experience can simply watch the projection.
 System for experiencing 
 
-We have worked with the one on one performance culture in the UK for five years so have gained lots of experience of working with different galleries to put in place the most simple system for organising how participants try the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive. During private views and special events in which lots of people arrive at the gallery it is best done through bookable slots.
+We have worked with one-on-one performance culture in the UK for five years and gained lots of experience of working with different galleries to schedule how participants book a place in the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive to try, watching the projections whilst they wait their turn. During private views and special events in which lots of people arrive at the gallery it is best to pre-arrange bookable slots: this allows interested people to sign up and return at a set time.
 
 
 Questions of mental, social and environmental ecology do not 
@@ -126,31 +123,26 @@ simply inform each other, but depend on each other: as anthropologist Gregory Ba
 
 ![](/assets/images/016insula/santorini_is_the_sky.jpg)
 
-##C H R Θ M A 
+Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the global climate situation from around the globe.
 
-<span class="chroma">CHRΘMA</span> is a media art group that creates public and participatory events that challenge assumptions about the interface between the physical and the virtual, real and imagined worlds. Our projects use performance together with immersive and interactive technologies, so that the audience’s perception, bodies and movement become a vital part of the action.
-						
-Recent projects have shown at the Brighton Dome, London’s Science Museum, Brighton Digital Festival, SCANZ 2013, Oxford’s Light Night, and FACT Liverpool. Our work collaborates across disciplines and brings in diverse perspectives from dance to architecture, magic to neuroscience. We have a strong track record in creating Virtual Reality (VR) performances (see additional information). 
-				
-As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we understand ourselves as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies like VR: exploring new forms of relationship, participation and performance.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we are excited for our VR “live art” installations to give participants a means of encountering climate information through touch, immersion and narrative. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense, communicate and receive information about the globe. 
-Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the climate question from around the globe.
+As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we understand ourselves as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies like VR to explore new forms of relationship around a planetary perspective.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we want our “live” VR installations to give participants a means of encountering climate information through touch, immersion and narrative. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense and receive information about the globe and the potentials for communication, action and participation. 
+
 
 ###The Team 
 
-The work involves remote collaboration with:
+Lead by Kate and Paul, the production work will involve remote collaboration with:
 
-* Animator Christian Krupa (UK) 
-* Sound artist Vjeran Salamon (Croatia)   
+*  [Christian Krupa](christiankrupa.net), Animator (UK) 
+*  [Vjeran Salamon](http://www.imdb.com/name/nm1362388/), Sound artist  (Croatia)   
 
-We are working with advisors from Liverpool University:
+We are collaborating with researchers from Liverpool University who have specific research expertise in media, visual culture and music in Asian culture:
 
 * [Dr Haekyung Um](http://www.liv.ac.uk/music/staff/haekyung-um/)
 * [Dr Stephanie Donald](http://www.stephaniedonald.info/researchinterests.php). 
 
 ###There are 5 phases of work:
  			
-1. Set up and initial testing phase involving sandpit with all the partners including Creative R&D & 
-Prototyping
+1. Set up and initial testing phase involving sandpit with all the partners including Creative R&D & Prototyping
 2. Field Work, Live Shoot, Asset Capture followed by technical and aesthetic development and testing phase with various staged tests to gather data from audience members, which influence our user experience.
 3. Artistic, Technical & Physical Construction
 Complete creation of the virtual and physical elements. Construction of the set for the participants and the projection set-up that projects the multi-sensory interactive performance to the wider audiences.
