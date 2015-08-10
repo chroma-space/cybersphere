@@ -77,6 +77,8 @@ The participant sees environmental projections on participant a ’s body: throu
 
 _The two participants can switch roles at the end to experience the opposite experience._
 
+TECHNICAL DIAGRAM
+
 ###Technical Equipment
 
 The installation will be built using the Unity3d ( version 5.1 pro ) game engine.
