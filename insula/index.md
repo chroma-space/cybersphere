@@ -37,9 +37,9 @@ A wider audience can witness the installation through a unique projection: a vir
 
 The installation requires two participants ( a and b ) who are familiar with each other. Both participants put on wireless headphones, which initially guides them through setting up. They both wear a robe, participant (a) has a smock with a white front and is loose fitting, this functions as both a projection screen, and makes the topology of their body more terrain like. Participant (b) has a black smock to help distinguish them in the kinect data so they can be masked out. Participant (a) wears the Oculus Rift and assumes a sitting position in the center of the installation floor, and participant (b) sits to participant (a) right facing them. Once the kinect has identified they are in the right position the installation begins.
 
-###Description of the experience: receptive participant
+###Receptive participant: description of the experience
 
-Immersed in the Oculus Rift: all visuals created from natural imagery and climate data. Heart beat sensor effects the projections.
+Immersed in the Oculus Rift, the participant encounters visuals, sound, touch and narrative. All visuals are created from natural imagery and climate data and a heart beat sensor allows the participant's pulse to effect these projections.
 
 ###The narrative:
 
@@ -68,7 +68,7 @@ The participant is asked to embark on the journey back to the real world by step
 Once this is done, participant (b) is instructed to remove participant (a) Oculus Rift and both of their headsets.
 
 
-Description of the experience: active participant 
+###Active participant: description of the experience
 
 Playful tactile experience: 
 
