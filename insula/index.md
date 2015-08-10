@@ -132,10 +132,10 @@ As a company <span class="chroma">CHRΘMA</span> explores the implications creat
 
 Lead by Kate and Paul, the production work will involve remote collaboration with:
 
-*  Christian Krupa, Animator (UK) 
-*  Vjeran Salamon, Sound artist  (Croatia)   
+*  [Christian Krupa](christiankrupa.net), Animator (UK) 
+*  [Vjeran Salamon](http://www.imdb.com/name/nm1362388/), Sound artist  (Croatia)   
 
-We are working with advisors from Liverpool University:
+We are collaborating with researchers from Liverpool University who have specific research expertise in media, visual culture and music in Asian culture:
 
 * [Dr Haekyung Um](http://www.liv.ac.uk/music/staff/haekyung-um/)
 * [Dr Stephanie Donald](http://www.stephaniedonald.info/researchinterests.php). 
