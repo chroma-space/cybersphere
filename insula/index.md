@@ -8,6 +8,7 @@ private: "true"
 ---
 
 
+
 > "Love the world as your own self; then you can truly care for all things." - Lao Tzu, Tao Te Ching: Chapter 13
 
 > "In a wider sense, humans and nature share the same body. This allows humans to free themselves from the constraints of individuality and meditatively fuse with the greater body of the universe. Honing the relationship between human vitality and the pulse of the cosmos is a Daoist contemplative practice. " - Chen Xia and Martin Schönfeld, “A Daoist response to climate change,” in the Journal of Global Ethics, August 2011, 202
@@ -77,6 +78,8 @@ The participant sees environmental projections on participant a ’s body: throu
 
 _The two participants can switch roles at the end to experience the opposite experience._
 
+TECHNICAL DIAGRAM
+
 ###Technical Equipment
 
 The installation will be built using the Unity3d ( version 5.1 pro ) game engine.
@@ -100,7 +103,19 @@ Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Pre
 
 Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the global climate situation from around the globe.
 
-We believe that questions of mental, social and environmental ecology do not simply inform each other, but depend on each other. As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we can understand ourselves, communicate and act as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies - like VR - to explore creative forms of remote relationship around a planetary perspective.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we design our “live” VR installations to give participants a means of encountering climate information through touch, immersion and narrative. The work draws on ecological research and scientific research into sensory modalities, empathy and subjectivity. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense and receive information about the globe and new potentials for communication, action and participation that they open up.		
+We believe that questions of mental, social and environmental ecology do not simply inform each other, but depend on each other. As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we can understand ourselves, communicate and act as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies - like VR - to explore creative forms of remote relationship around a planetary perspective.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we design our “live” VR installations to give participants a means of encountering climate information through touch, immersion and narrative. The work draws on ecological research and scientific research into sensory modalities, empathy and subjectivity. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense and receive information about the globe and new potentials for communication, action and participation that they open up.	
+
+Kate Genevieve and Paul Hayes have developed performances using haptic exploration in Virtual Reality since 2010. Initially, our work used immersive video headsets. Today we use the Oculus Rift to explore how audience members integrate information from the visual and touch modalities. Drawing on research and art residencies at the Sackler Centre for Consciousness Science we are working to make large-scale data visceral and embodied through storytelling and immersive audio-visual experience. We are excited by this  opportunity to combine our passion for Chinese philosophy and the emphasis on body and mind in Chinese movement practices like Chi Gong with the sensing techniques we have devised through our creative practice with Virtual Reality. 
+
+###Examples of our VR projects
+
+GATHER VIDEO
+
+[https://vimeo.com/81739219]( Of The Spheres)
+
+[https://vimeo.com/39438558](No Place)
+
+[https://vimeo.com/28681030](šta ćemo raditi)
 
 ###The Team 
 
