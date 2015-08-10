@@ -6,6 +6,7 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="">
   <title>{{ site.title }}</title>
+  {% if page.private == 'true' %} <meta name="robots" content="noindex"> {% endif %}
   <link rel="shortcut icon" href="/favicon.gif" type="image/gif" />
   <link rel="shortcut icon" href="/favicon.gif" type="image/x-icon" />
   <!-- Bootstrap core CSS -->
