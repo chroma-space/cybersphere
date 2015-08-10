@@ -111,11 +111,11 @@ Kate Genevieve and Paul Hayes have developed performances using haptic explorati
 
 GATHER VIDEO
 
-https://vimeo.com/81739219
+[https://vimeo.com/81739219]( Of The Spheres)
 
-https://vimeo.com/39438558
+[https://vimeo.com/39438558](No Place)
 
-https://vimeo.com/28681030
+[https://vimeo.com/28681030](šta ćemo raditi)
 
 ###The Team 
 
