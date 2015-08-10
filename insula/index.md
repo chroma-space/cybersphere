@@ -4,8 +4,9 @@ title: "INSULA application // “Imaginary Circle, Asia – Plastic Myths”"
 published: true
 jpg: 016insula/insula_body
 private: "true"
-"splash-description": "image created by Christian Krupa"
+"splash-description": image created by Christian Krupa
 ---
+
 
 > "Love the world as your own self; then you can truly care for all things." - Lao Tzu, Tao Te Ching: Chapter 13
 
@@ -138,7 +139,7 @@ Lead by Kate and Paul, the production work will involve remote collaboration wit
 We are collaborating with researchers from Liverpool University who have specific research expertise in media, visual culture and music in Asian culture:
 
 * [Dr Haekyung Um](http://www.liv.ac.uk/music/staff/haekyung-um/)
-* [Dr Stephanie Donald](http://www.stephaniedonald.info/researchinterests.php). 
+* [Dr Stephanie Donald](http://www.stephaniedonald.info/researchinterests.php) 
 
 ###There are 5 phases of work:
  			
