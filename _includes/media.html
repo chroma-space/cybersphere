@@ -5,7 +5,7 @@
 {% if include.post.poster %}
 {% capture poster %}{{include.post.poster | prepend: "/assets/images/" | prepend: site.baseurl}}{% endcapture %}
 {% endif %}
-<video autoplay loop muted preload="auto" class="{{include.post.video}}{% if video_pause == "true" %} pauseable-video{% endif %}{% if play-once == "true" %} play-once{% endif %}{% if include.post.banner-valign %} banner-{{include.post.banner-valign}}{% endif %}" poster="{{poster}}">
+<video autoplay loop muted preload="auto" class="{{include.post.video}}{% if video_pause == "true" %} pauseable-video{% endif %}{% if play-once == "true" %} play-once{% endif %}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" poster="{{poster}}">
   <source src="/assets/video/{{include.post.video}}.mp4" type="video/mp4"/>
   <source src="/assets/video/{{include.post.video}}.mkv" type="video/x-matroska"/>
 </video>
@@ -18,10 +18,10 @@
 {% endif %}
 {% endif %}
 {% if include.post.jpg %}
-<img class="{{include.post.jpg}}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg">
+<img class="{{include.post.jpg}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg">
 {% endif %}
 {% if include.post.png %}
-<img class="{{include.post.png}}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png">
+<img class="{{include.post.png}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png">
 {% endif %}
 
 {% if include.post.panorama %}
