@@ -99,8 +99,6 @@ having the audience ground level approximately 1.75m above the participants, it�
 > "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." 
 Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Press, 2000. 
 
-![](/assets/images/016insula/santorini_is_the_sky.jpg)
-
 Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the global climate situation from around the globe.
 
 We believe that questions of mental, social and environmental ecology do not simply inform each other, but depend on each other. As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we can understand ourselves, communicate and act as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies - like VR - to explore creative forms of remote relationship around a planetary perspective.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we design our “live” VR installations to give participants a means of encountering climate information through touch, immersion and narrative. The work draws on ecological research and scientific research into sensory modalities, empathy and subjectivity. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense and receive information about the globe and new potentials for communication, action and participation that they open up.	
@@ -158,3 +156,5 @@ The robe covers all of the body like a dressing gown on top of clothes. Touch wi
 System for experiencing 
 
 We have worked with one-on-one performance culture in the UK for five years and gained lots of experience of working with different galleries to schedule how participants book a place in the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive to try, watching the projections whilst they wait their turn. During private views and special events in which lots of people arrive at the gallery it is best to pre-arrange bookable slots: this allows interested people to sign up and return at a set time.
+
+![](/assets/images/016insula/santorini_is_the_sky.jpg)
