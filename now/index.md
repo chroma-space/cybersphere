@@ -20,4 +20,4 @@ We are opening the doors on the development of our latest Virtual Reality projec
 
 We believe that questions of mental, social and environmental ecology do not simply inform each other, but depend on each other. Anthropologist Gregory Bateson writes that “the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself.” Over the last year we’ve been spending time focussing on how creative technology might be able to viscerally connect us with the threatened ecosystem out beyond the city.  Our work with altered and transformed sensing looks at the potentials of Virtual Reality for shifting perception, activating imaginations and revealing connections between our sense of the environment and our understanding of human subjectivity.
 
-Details on (Brighton Digital Festival)[http://brightondigitalfestival.co.uk/event/open-system/]
+Details on [Brighton Digital Festival](http://brightondigitalfestival.co.uk/event/open-system/)
