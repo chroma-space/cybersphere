@@ -123,21 +123,17 @@ simply inform each other, but depend on each other: as anthropologist Gregory Ba
 
 ![](/assets/images/016insula/santorini_is_the_sky.jpg)
 
-##C H R Θ M A 
+Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the global climate situation from around the globe.
 
-<span class="chroma">CHRΘMA</span> is a media art group that creates public and participatory events that challenge assumptions about the interface between the physical and the virtual, real and imagined worlds. Our projects use performance together with immersive and interactive technologies, so that the audience’s perception, bodies and movement become a vital part of the action.
-						
-Recent projects have shown at the Brighton Dome, London’s Science Museum, Brighton Digital Festival, SCANZ 2013, Oxford’s Light Night, and FACT Liverpool. Our work collaborates across disciplines and brings in diverse perspectives from dance to architecture, magic to neuroscience. We have a strong track record in creating Virtual Reality (VR) performances (see additional information). 
-				
-As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we understand ourselves as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies like VR: exploring new forms of relationship, participation and performance.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we are excited for our VR “live art” installations to give participants a means of encountering climate information through touch, immersion and narrative. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense, communicate and receive information about the globe. 
-Insula uses unique digital technology to communicate the state of our ecosystems in 2015. In December the COP21 runs in Paris, this key climate meeting will mean that there will be attention on the climate question from around the globe.
+As a company <span class="chroma">CHRΘMA</span> explores the implications creative technology and science have on how we understand ourselves as humans in our environment. In 2015 the focus of our creative practice is to work with the artistic potentials of games technologies like VR to explore new forms of relationship around a planetary perspective.  Working with large-scale data sets that communicate a rich picture of the diverse habitats on earth, we want our “live” VR installations to give participants a means of encountering climate information through touch, immersion and narrative. As well as innovating artistic work with VR, our open labs, public events, workshops and research aim to increase public awareness of the potentials creative technologies have for transforming how we sense and receive information about the globe and the potentials for communication, action and participation. 
+
 
 ###The Team 
 
-The work involves remote collaboration with:
+Lead by Kate and Paul, the production work will involve remote collaboration with:
 
-* Animator Christian Krupa (UK) 
-* Sound artist Vjeran Salamon (Croatia)   
+*  Christian Krupa, Animator (UK) 
+*  Vjeran Salamon, Sound artist  (Croatia)   
 
 We are working with advisors from Liverpool University:
 
