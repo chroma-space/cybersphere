@@ -43,8 +43,7 @@ Immersed in the Oculus Rift: all visuals created from natural imagery and climat
 
 ###The narrative:
 
-P’an Ku story through Virtual Reality: a proto-being whose body became the earth and cosmos.
-Centuries after P’an Ku’s death, the earth and heavens fall out of harmony. The participant is asked to step into the character of the female Nüwa, said to have healed the hole in the sky and restored harmony.
+P’an Ku story through Virtual Reality: a proto-being whose body became the earth and cosmos. Centuries after P’an Ku’s death, the earth and heavens fall out of harmony. The participant is asked to step into the character of the female Nüwa, said to have healed the hole in the sky and restored harmony.
 
 P’an Ku section: the body becomes an ecosystem as imagery is accompanied by touch.
 
