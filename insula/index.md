@@ -1,13 +1,11 @@
 ---
 layout: post
-title: INSULA application // “Imaginary Circle, Asia – Plastic Myths”
+title: "INSULA application // “Imaginary Circle, Asia – Plastic Myths”"
 published: true
-jpg: "016insula/insula_body"
+jpg: 016insula/insula_body
 private: "true"
-"splash-description": "IMAGE of green man island in sea"
+"splash-description": IMAGE of green man island in sea
 ---
-
-
 
 > "Love the world as your own self; then you can truly care for all things." - Lao Tzu, Tao Te Ching: Chapter 13
 
