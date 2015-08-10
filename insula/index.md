@@ -78,7 +78,7 @@ The participant sees environmental projections on participant a ’s body: throu
 
 _The two participants can switch roles at the end to experience the opposite experience._
 
-TECHNICAL DIAGRAM
+![](/assets/images/016insula/insula_diagram.png)
 
 ###Technical Equipment
 
