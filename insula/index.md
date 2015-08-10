@@ -4,7 +4,7 @@ title: INSULA application // “Imaginary Circle, Asia – Plastic Myths”
 published: true
 jpg: "016insula/insula_body"
 private: "true"
-"splash-description": "IMAGE of green man island in sea"
+"splash-description": "image created by Christian Krupa"
 ---
 
 
