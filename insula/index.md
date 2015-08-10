@@ -91,25 +91,7 @@ Short throw projector, to render a projection mapping of the island on the body 
 Pepper's Ghost Illusion. Using a lightweight mylar mirror angled at 45 degrees downward, and by 
 having the audience ground level approximately 1.75m above the participants, it’s possible to create a virtual projection of participant (a) seemingly hovering just above the ground and directly facing the audience. This allows the audience to witness the projected island from an aerial view like a human data visualisation.
 
-###Additional comments
 
-####Accessibility 						
-						
-Part of the aim of data transmogrification is that the audience is able to experience it in various forms. For example, a participant who is visually impaired could examine a tangible or auditory representation of the output.
-
-####Touch:
-Our system for ensuring that the touch is consensual is built around creating the performance for two people at a time. Participants come with someone they trust and the performance is an exploration of friendship. 
-
-####Age Limit
-
-Age limits to be defined with the gallery and researchers. O
-ur feeling as a company is that VR has powerfully embodied effects and that although the content is suitable, we are not looking to exhibit this to anyone under 13.
-
-####Costume
-The robe covers all of the body like a dressing gown on top of clothes. Touch will focus on neutral areas: shins / knees, shoulders, arms, hands, the top of the head and the navel. The touch will be non invasive and created by brush strokes and designed with a body practitioner. Audience members who are not comfortable with this experience can simply watch the projection.
-System for experiencing 
-
-We have worked with one-on-one performance culture in the UK for five years and gained lots of experience of working with different galleries to schedule how participants book a place in the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive to try, watching the projections whilst they wait their turn. During private views and special events in which lots of people arrive at the gallery it is best to pre-arrange bookable slots: this allows interested people to sign up and return at a set time.
 
 > "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." 
 Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Press, 2000. 
@@ -147,3 +129,23 @@ Complete creation of the virtual and physical elements. Construction of the set 
 4. Installation and Exhibition. Specific immersive performances and workshops can be run by the artists during the opening events.
 
 Throughout all stages we will test prototypes on volunteers. The project focuses on the visceral experience of the audience member it demands a user centred approach with live audiences exploring multiple prototypes. Various prototypes will explore an array of alternatives for how participants experience their body avatar melding with and transforming into the landscape using real climate data.
+
+###Additional comments
+
+####Accessibility 						
+						
+Part of the aim of data transmogrification is that the audience is able to experience it in various forms. For example, a participant who is visually impaired could examine a tangible or auditory representation of the output.
+
+####Touch:
+Our system for ensuring that the touch is consensual is built around creating the performance for two people at a time. Participants come with someone they trust and the performance is an exploration of friendship. 
+
+####Age Limit
+
+Age limits to be defined with the gallery and researchers. O
+ur feeling as a company is that VR has powerfully embodied effects and that although the content is suitable, we are not looking to exhibit this to anyone under 13.
+
+####Costume
+The robe covers all of the body like a dressing gown on top of clothes. Touch will focus on neutral areas: shins / knees, shoulders, arms, hands, the top of the head and the navel. The touch will be non invasive and created by brush strokes and designed with a body practitioner. Audience members who are not comfortable with this experience can simply watch the projection.
+System for experiencing 
+
+We have worked with one-on-one performance culture in the UK for five years and gained lots of experience of working with different galleries to schedule how participants book a place in the experience. From our experience of exhibition, in general it works through invigilation: open to gallery visitors who arrive to try, watching the projections whilst they wait their turn. During private views and special events in which lots of people arrive at the gallery it is best to pre-arrange bookable slots: this allows interested people to sign up and return at a set time.
