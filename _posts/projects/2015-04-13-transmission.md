@@ -5,7 +5,7 @@ published: true
 title: Transmission
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-"invert-nav": false
+"invert-nav": true
 date: "2015-01-01"
 description: "live art, choreography, somatics "
 slug: transmission

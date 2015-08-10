@@ -12,12 +12,11 @@ slug: transmission
 "video-pause": false
 "play-once": false
 video_mute: false
-jpg: transmission/Transmission_closeUp_640_640
 index: 12
 thumbnail: "thumbnail-theoneiricarchive.jpg"
 ---
 
-#Of the Cosmic Trigger Experience
+##Of the Cosmic Trigger Experience
 
 After the cosmic trigger is pulled, what happens when we exhale from group reality? Here are a few fragments drawn up into waking consciousness from our dreamers on the 23rd October 2014. Unreliably collected and recorded by hand by Kate Genevieve, drawn by Will Scobie. 
 

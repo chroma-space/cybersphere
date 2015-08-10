@@ -6006,6 +6006,9 @@ div.post-content {
   max-width: 640px;
   font-size: 1.15em;
 }
+div.post-content img {
+  max-width: 100%;
+}
 .splash {
   display: table;
   position: relative;
