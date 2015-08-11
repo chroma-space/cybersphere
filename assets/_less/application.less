@@ -18,11 +18,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .chroma {
   letter-spacing:1.2em;
-  margin-right:-0.4em;
+  margin-right:-1em;
+  margin-left: 0.3em;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 100;
   font-size: 0.8em;
   vertical-align: text-top;
+  line-height: 1.1em;
 }
 
 .chroma-inline {
@@ -56,6 +58,10 @@ h1, h2, h3, h4, h5, h6 {
 div.post-content {
  max-width: 640px;
  font-size:1.15em;
+
+ img {
+  max-width:100%
+ }
 }
 
 .splash {
@@ -269,6 +275,30 @@ body.page {
     -webkit-transition : -webkit-filter 500ms linear;
     -moz-transition : -moz-filter 500ms linear;
 
+  }
+
+  .banner-top {
+    object-position: 50% 0%;
+  }
+
+  .banner-bottom {
+    object-position: 50% 100%;
+  }
+
+  .banner-top-right {
+    object-position: 100% 0%;
+  }
+
+  .banner-bottom-left {
+    object-position: 0% 100%;
+  }
+
+  .banner-bottom-right {
+    object-position: 100% 100%;
+  }
+
+  .banner-top-left {
+    object-position: 0% 0%;
   }
 
   img {
