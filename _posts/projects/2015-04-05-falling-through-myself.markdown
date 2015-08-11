@@ -26,6 +26,8 @@ The workshop was funded by a bursary from PAL’s [Movement and Meaning Lab](htt
 ##IMPULSE
 Impulse is a live art installation exploring the connection between conscious presence and embodiment by artist Kate Genevieve and creative technologist Alex Peckham with performance by Rachel Blackman.   
 
+![](/assets/images/005falling_through_myself/insula.jpg)
+	
 Impulse, for the ASSC16 conference at the Brighton Dome, uses theatrical illusion techniques in combination with contemporary bio-sensing technology.  The installation, installed on the Mezzanine level in the Dome Foyer throughout the conference, reacts to the pulse of individual participants, and creates for the audience an unusual encounter with their own heart. 
 
 This project was created during Kate Genevieve’s residency at the Sackler Centre for Consciousness Science in collaboration with Dr Anil Seth and Dr Keisuke Suzuki.  Over her residency Kate is creating projects that explore the Sackler’s new model of conscious presence that links the feeling of presence with interoceptive awareness. 

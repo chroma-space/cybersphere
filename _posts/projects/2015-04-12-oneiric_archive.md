@@ -12,6 +12,8 @@ slug: transmission
 "video-pause": false
 "play-once": false
 video_mute: false
+jpg: "012oneiric_archives/banner"
+splash-description: "<a href='http://oneiricarchives.tumblr.com/' target='blank'>Visit the Oneiric Archives</a>"
 index: 12
 thumbnail: "thumbnail-theoneiricarchive.jpg"
 ---

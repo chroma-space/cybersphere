@@ -13,7 +13,8 @@ video_mute: false
 jpg: 
 index: 2
 thumbnail: "thumbnail-encephalographic.jpg"
-
+video: "kate-rainbow"
+poster: "002encephalo_graphic/kate-rainbow.jpg"
 ---
 
 An animated meditation on the different ways we experience and visualise music. The animation combines illustrations of brain cells by early 20th century Spanish neuroscientist Ramon y Cajal, with electroencephalographic (EEG) data recorded from the collaborators, when playing and listening to the specially composed music.
