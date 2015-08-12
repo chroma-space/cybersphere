@@ -17,6 +17,7 @@ video_mute: true
 "invert-nav": true
 thumbnail: "thumbnail-liminal.jpg"
 video: "splash-liminal"
+poster: "010liminal/splash-liminal.jpg"
 "play-once": false
 index: 10
 ---
