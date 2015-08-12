@@ -25,3 +25,6 @@ The project had it's first development phase during a 2 month C H R ϴ M A resid
 Showings of this development work were held during Oxford's Light Night and during Final Light, an art event curated by Chroma Collective, on the 21st December. The Brighton show, TERMINUS, was a projection performance made collaboratively by Julie Bower, Kate Genevieve and David Packer.
 
 Julie Bower and Kate Genevieve talk about their residency and the project at Blast Theory on the eve of the 13th Dec.
+
+!()[/assets/images/006born_on_a_train/bornonatrain-0024.jpg]
+!()[/assets/images/006born_on_a_train/bornonatrain-0015.jpg]
