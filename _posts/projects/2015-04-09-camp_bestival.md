@@ -5,7 +5,7 @@ published: true
 title: Camp Bestival 
 "invert-nav": true
 date: "2015-07-08"
-description: ""
+description: "Video Mapping, Pyrotechnics"
 slug: camp_bestival
 "video-pause": false
 "play-once": false

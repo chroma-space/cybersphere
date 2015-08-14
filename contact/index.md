@@ -11,5 +11,4 @@ published: true
 
 <a href="https://www.facebook.com/chromacollective" target="_blank">FB</a>
 
-Contact >>
-hello@chroma.space
+Contact >> hello@chroma.space
