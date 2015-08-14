@@ -12,13 +12,14 @@ slug: transmission
 "video-pause": false
 "play-once": false
 video_mute: false
-jpg: "012oneiric_archives/banner"
-splash-description: "<a href='http://oneiricarchives.tumblr.com/' target='blank'>Visit the Oneiric Archives</a>"
+jpg: 012oneiric_archives/banner
+"splash-description": "<a href='http://oneiricarchives.tumblr.com/' target='blank'>Visit the Oneiric Archives</a>"
 index: 12
 thumbnail: "thumbnail-theoneiricarchive.jpg"
 ---
 
-##Of the Cosmic Trigger Experience
+
+at the [Cosmic Trigger Experience](http://cosmictriggerplay.com/)
 
 After the cosmic trigger is pulled, what happens when we exhale from group reality? Here are a few fragments drawn up into waking consciousness from our dreamers on the 23rd October 2014. Unreliably collected and recorded by hand by Kate Genevieve, drawn by Will Scobie. 
 
