@@ -6110,6 +6110,9 @@ div.post-content img {
   position: absolute;
   top: 10%;
 }
+.project-desc .description {
+  text-transform: lowercase;
+}
 .project-desc:before {
   content: "";
   display: block;
