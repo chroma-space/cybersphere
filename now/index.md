@@ -4,8 +4,9 @@ title: open( system )
 published: true
 "panorama-poster": 00posts/00opensystem/embassy_court.jpg
 panorama: 00posts/00opensystem/embassy_court.jpg
-"panorama-longitude-speed": 0.01
+"panorama-longitude-speed": 0.04
 "panorama-start-angle": 90
+"panorama-user-control": true
 ---
 
 
