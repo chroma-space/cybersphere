@@ -7,8 +7,8 @@ title: Oneiric Archives
 "panorama-user-control": false
 "invert-nav": false
 date: "2015-01-01"
-description: " "
-slug: transmission
+description: " group dreaming, cosmic trigger"
+slug: oneiric_archives
 "video-pause": false
 "play-once": false
 video_mute: false
