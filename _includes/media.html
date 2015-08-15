@@ -17,14 +17,14 @@
 </div>
 {% endif %}
 {% endif %}
-{% if include.post.jpg And include.post.jpg != ""  %}
+{% if include.post.jpg and include.post.jpg!=blank  %}
 <img class="{{include.post.jpg}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg">
 {% endif %}
-{% if include.post.png And include.post.png != "" %}
+{% if include.post.png and include.post.png!=blank %}
 <img class="{{include.post.png}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png">
 {% endif %}
 
-{% if include.post.panorama And include.post.panorama != ""  %}
+{% if include.post.panorama and include.post.panorama!=blank  %}
 <canvas class="panorama" style="background-image:{{ site.baseurl }}/assets/images/{{include.post.panorama-poster}}" panorama-images="{{include.post.panorama}}" user-control="{{include.post.panorama-user-control}}" longitude-speed="{{include.post.panorama-longitude-speed}}" base-url="{{ site.baseurl }}/assets/images/">
 </canvas>
 {% endif %}
