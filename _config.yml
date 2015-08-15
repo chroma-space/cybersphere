@@ -47,6 +47,10 @@ prose:
         field:
           element: text
           label: video ( exclude file extension )
+      - name: poster
+        field:
+          element: text
+          label: video poster
       - name : panorama
         field:
           element: text
@@ -174,3 +178,20 @@ prose:
           element: hidden
           label: categories
           value: "projects"
+      - name: banner-align
+        field:
+          element: select
+          label: "Banner Alignment"
+          options:
+            - name: "Top"
+              value: "top"
+            - name: "Top Left"
+              value: "top-left"
+            - name: "Top Right"
+              value: "top-right"
+            - name: "Bottom"
+              value: "bottom"
+            - name: "Bottom Left"
+              value: "bottom-left"
+            - name: "Bottom Right"
+              value: "bottom-right"
