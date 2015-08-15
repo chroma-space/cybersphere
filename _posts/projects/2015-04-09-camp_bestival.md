@@ -15,14 +15,8 @@ index: 9
 thumbnail: "thumbnail-bestival.jpg"
 video: campbestival_banner_video_2013
 poster: 009camp_bestival/campbestival_banner_video_2013.jpg
-jpg: ""
-png: ""
-panorama: ""
-"panorama-poster": ""
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-"splash-description": ""
-"index-image": ""
 ---
 
 
