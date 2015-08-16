@@ -2,12 +2,7 @@
 categories: projects
 layout: project
 title: Liminal
-date: 
-  - 2015-04-01T00:00:00.000Z
-  - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
-  - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
-  - "Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
-  - "Tue Mar 31 2015 17:00:00 GMT-0700 (PDT),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
+date: "Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Tue Mar 31 2015 17:00:00 GMT-0700 (PDT),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST),Wed Apr 01 2015 01:00:00 GMT+0100 (BST)"
 published: true
 description: "The Acid, audio visual"
 "video-pause": true
@@ -20,7 +15,16 @@ video: "splash-liminal"
 poster: "010liminal/splash-liminal.jpg"
 "play-once": false
 index: 10
+slug: ""
+jpg: ""
+png: ""
+panorama: ""
+"panorama-poster": ""
+"splash-description": ""
+"index-image": ""
+"banner-align": top
 ---
+
 
 The **Liminal Live Show** is an Audio Visual art show for The Acid: a collaboration between Kate Genevieve, show designer Giani Fabricio and the band.
 
@@ -29,3 +33,6 @@ We wanted to explore how a live interactive show could amplify and make more vis
 _Flickering fire on ancient trees, chemical processes dissolving, fermenting and combining, the dark night, a quiet moon, distant lights of far-off constellations - these images unfold in the mind when listening to these songs._
 
 Kate worked with a group of artists and scientists inspired by natural processes and chemical reactions. Each track was designed as a composition rather than a fixed film to create a living feel, the visuals alchemically effected by the band’s performance. The audio reactive system then introduced, modulated, and effected these video clips rather than generating them digitally via algorithms. This gives the show an analogue, low fi, filmic and human feel, and yet everything that is happening is fully guided by the music or actions of the band on stage. Giani's bespoke audio reactive system makes it possible to have particular visual elements respond sensitively to particular elements of the music. Video elements fade in and out of existence depending on when and how the musicians are playing the audio part associated with them: they are morphed and effected in various ways by the incoming signals. The visual world becomes a living organism expressing the unfolding creative interactions synaesthetically.
+
+video credit: [Michael Ramsey](https://vimeo.com/mikeramsey)
+
