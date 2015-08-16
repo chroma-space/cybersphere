@@ -17,9 +17,9 @@ video: campbestival_banner_video_2013
 poster: 009camp_bestival/campbestival_banner_video_2013.jpg
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-jpg: ""
-png: ""
-panorama: ""
+jpg: "none"
+png: "none"
+panorama: "none"
 ---
 
 
