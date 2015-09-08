@@ -10,15 +10,25 @@ panorama: 00posts/00opensystem/embassy_court.jpg
 ---
 
 
+September 10th 
 
+Catalyst Club
+http://www.catalystclub.co.uk/
 
 <h4>
 September 12th-14th, 2015 
 </h4>
 
-We are opening the doors on the development of our latest Virtual Reality project. We are interested in how virtual reality and network technology can bring our domestic spaces into new communications with other living beings and the ecosystem. You are invited to visit and explore work in progress, creatively input and radically speculate about collective territories and future uses for Virtual Reality.
+C H R Θ M A are opening the doors on the development of their Virtual Reality development. We are exploring how virtual reality and network technology can dive deep into “shared experience.” Our current focus is on how creative technology might viscerally connect us with the threatened ecosystem out beyond the city. We believe that questions of mental, social and environmental ecology do not simply inform each other, but depend on each other. Anthropologist Gregory Bateson writes that “the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself.”
 
+You are invited to visit and explore work in progress, creatively input and imagine alternative collective territories and future uses for Virtual Reality. It's not a show - we're just opening the doors on where we are and welcoming you into it.
 
-We believe that questions of mental, social and environmental ecology do not simply inform each other, but depend on each other. Anthropologist Gregory Bateson writes that “the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself.” Over the last year we’ve been spending time focussing on how creative technology might be able to viscerally connect us with the threatened ecosystem out beyond the city.  Our work with altered and transformed sensing looks at the potentials of Virtual Reality for shifting perception, activating imaginations and revealing connections between our sense of the environment and our understanding of human subjectivity.
+Ring the bell for Flat 71 between 12 - 5pm.
 
 Details on [Brighton Digital Festival](http://brightondigitalfestival.co.uk/event/open-system/)
+
+September 15th
+
+Digital Spotlight, Phoenix Arts
+
+http://brightondigitalfestival.co.uk/event/phoenix-brighton-presents-digital-spotlight/
