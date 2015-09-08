@@ -10,14 +10,17 @@ panorama: 00posts/00opensystem/embassy_court.jpg
 ---
 
 
+<h4>
 September 10th 
+</h4>
 
-Catalyst Club
-http://www.catalystclub.co.uk/
+[Catalyst Club](http://www.catalystclub.co.uk/)
 
 <h4>
 September 12th-14th, 2015 
 </h4>
+
+open( system )
 
 C H R Θ M A are opening the doors on the development of their Virtual Reality development. We are exploring how virtual reality and network technology can dive deep into “shared experience.” Our current focus is on how creative technology might viscerally connect us with the threatened ecosystem out beyond the city. We believe that questions of mental, social and environmental ecology do not simply inform each other, but depend on each other. Anthropologist Gregory Bateson writes that “the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself.”
 
@@ -27,7 +30,9 @@ Ring the bell for Flat 71 between 12 - 5pm.
 
 Details on [Brighton Digital Festival](http://brightondigitalfestival.co.uk/event/open-system/)
 
+<h4>
 September 15th
+</h4>
 
 Digital Spotlight, Phoenix Arts
 
