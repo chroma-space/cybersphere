@@ -11,11 +11,11 @@ video_mute: true
 "panorama-user-control": false
 "invert-nav": true
 thumbnail: "thumbnail-liminal.jpg"
-video: conjunction
+video: "splash-liminal"
 poster: "010liminal/splash-liminal.jpg"
 "play-once": false
 index: 10
-slug: "thumbnail-conjunction"
+slug: "thumbnail-liminal"
 jpg: ""
 png: ""
 panorama: ""
