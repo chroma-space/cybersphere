@@ -10,7 +10,7 @@ slug: transmute
 "video-pause": false
 "play-once": false
 video_mute: false
-jpg: 
+jpg: 011transmute/transmute
 index: 11
 thumbnail: "thumbnail-transmute.jpg"
 ---
