@@ -3,7 +3,7 @@ categories: projects
 layout: post
 published: true
 title: Transmute
-"invert-nav": false
+"invert-nav": true
 date: "2015-04-11"
 description: "the night is a tunnel"
 slug: transmute
