@@ -3,7 +3,7 @@ categories: projects
 layout: project
 published: true
 title: Falling Through Myself
-"invert-nav": true
+"invert-nav": "true"
 date: "2015-04-02"
 description: "Performance, Dance, Research"
 slug: falling_through_myself
