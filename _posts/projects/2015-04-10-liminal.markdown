@@ -10,7 +10,7 @@ video_mute: true
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "invert-nav": true
-thumbnail: ""
+thumbnail: "thumbnail-liminal.jpg"
 video: "splash-liminal"
 poster: "010liminal/splash-liminal.jpg"
 "play-once": false
