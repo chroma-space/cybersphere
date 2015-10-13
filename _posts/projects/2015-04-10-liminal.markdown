@@ -16,8 +16,8 @@ poster: "010liminal/splash-liminal.jpg"
 "play-once": false
 index: 10
 slug: ""
-jpg: ""
-png: ""
+jpg: "splash-liminal.jpg"
+png: "splash-liminal.png"
 panorama: ""
 "panorama-poster": ""
 "splash-description": ""
