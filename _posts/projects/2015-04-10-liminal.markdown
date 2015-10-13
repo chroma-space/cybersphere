@@ -16,8 +16,8 @@ poster: "010liminal/splash-liminal.jpg"
 "play-once": false
 index: 10
 slug: "thumbnail-liminal"
-jpg: "none"
-png: "none"
+jpg: none
+png: none
 panorama: ""
 "panorama-poster": ""
 "splash-description": ""
@@ -27,9 +27,10 @@ panorama: ""
 
 
 
+
 The **Liminal Live Show** is an Audio Visual art show for The Acid: a collaboration between Kate Genevieve, show designer Giani Fabricio and the band. 
 
-TEST ID v1.3
+TEST ID v1.4
 
 We wanted to explore how a live interactive show could amplify and make more visible the responsive play and improvisation that occurs between the musicians and the audience in each unique performance. This led to a combination of experimental image-making techniques exploring living processes with bespoke audio reactive and motion tracking projection systems which allow real time responses to the band’s performance.
 
