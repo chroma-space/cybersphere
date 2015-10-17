@@ -6305,7 +6305,11 @@ a.magenta:visited {
 	/*position:fixed;*/
 	width:100%;
 }
-
+@keyframes fadeIn {
+		from {
+			opacity: 0.4;
+		}
+	}
 #arrowstext {
   opacity:1;
   animation: fadeIn 0.7s infinite alternate;
