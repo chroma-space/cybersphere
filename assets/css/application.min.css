@@ -6295,3 +6295,18 @@ a.magenta:visited {
   background-color: rgba(255, 255, 255, 0.5);
 }
 /*# sourceMappingURL=application.min.css.map */
+
+#arrows {
+	font-family: 'Raleway', sans-serif;
+	font-size: 48px;
+	font-weight: 700;
+	color:#dddfea;
+	bottom:15px;
+	position:fixed;
+	width:100%;
+}
+
+#arrowstext {
+  opacity:1;
+  animation: fadeIn 0.7s infinite alternate;
+}
