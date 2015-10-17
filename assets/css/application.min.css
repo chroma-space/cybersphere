@@ -6300,9 +6300,9 @@ a.magenta:visited {
 	font-family: 'Raleway', sans-serif;
 	font-size: 48px;
 	font-weight: 700;
-	color:#dddfea;
-	bottom:15px;
-	position:fixed;
+	color:white;
+	/*bottom:15px;*/
+	/*position:fixed;*/
 	width:100%;
 }
 
