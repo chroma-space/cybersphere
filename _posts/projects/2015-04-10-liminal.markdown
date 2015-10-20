@@ -1,5 +1,4 @@
 ---
-
 categories: projects
 layout: post
 title: Liminal
@@ -12,13 +11,20 @@ description: "The Acid, audio visual"
 "video-pause": true
 "play-once": false
 video_mute: true
-banner-align: top-right
+"banner-align": "top-right"
 thumbnail: "thumbnail-liminal.jpg"
 slug: "thumbnail-liminal"
-video: splash-liminal
-poster: 010liminal/splash-liminal.jpg
+video: "splash-liminal"
+poster: "010liminal/splash-liminal.jpg"
 index: 10
+jpg: ""
+png: ""
+panorama: ""
+"panorama-poster": ""
+"splash-description": ""
+"index-image": ""
 ---
+
 
 The **Liminal Live Show** is an Audio Visual art show for The Acid: a collaboration between Kate Genevieve, show designer Giani Fabricio and the band. 
 
