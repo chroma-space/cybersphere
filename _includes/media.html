@@ -19,9 +19,17 @@
 {% endif %}
 
 {% if include.post.jpg Or include.post.jpg!="" %}
+<script>
+  	console.log("THERE IS A JPG") ;
+</script>
+
 <img class="{{include.post.jpg}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg" />
 {% endif %}
 {% if include.post.png And include.post.png!="" %}
+<script>
+  	console.log("THERE IS A PNG") ;
+</script>
+
 <img class="{{include.post.png}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png" />
 {% endif %}
 
