@@ -37,6 +37,17 @@
   	console.log("DO IMAGE CHECK") ;
 </script>
 
+{% if include.post.jpg %}
+	<script>
+      console.log("There is some kind of image there!");
+	</script>
+{% endif %}
+{% if !include.post.jpg %}
+	<script>
+      console.log("There is not any kind of image there!");
+	</script>
+{% endif %}
+
 {% if include.post.jpg=="testo" %}
 	<script>
       console.log("IT IS TESTO!");
