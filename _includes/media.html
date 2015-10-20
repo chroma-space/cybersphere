@@ -48,6 +48,18 @@
 	</script>
 {% endif %}
 
+
+{% if include.post.jpg=="" %}
+	<script>
+      console.log("There is some kind of blank string there!");
+	</script>
+{% endif %}
+{% if include.post.jpg!="" %}
+	<script>
+      console.log("There is not any kind of blank string there!");
+	</script>
+{% endif %}
+
 {% if include.post.jpg=="testo" %}
 	<script>
       console.log("IT IS TESTO!");
