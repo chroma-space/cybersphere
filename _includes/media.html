@@ -18,6 +18,18 @@
 {% endif %}
 {% endif %}
 
+{% if include.post.jpg=="testo" %}
+	<script>
+      console.log("IT IS TESTO!");
+	</script>
+{% endif %}
+{% if include.post.jpg!="testo" %}
+	<script>
+      console.log("IT IS NOT TESTO!");
+	</script>
+{% endif %}
+
+
 
 
 {% if include.post.jpg Or include.post.jpg!="" %}
