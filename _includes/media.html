@@ -17,16 +17,22 @@
 </div>
 {% endif %}
 {% endif %}
-{% if include.post.jpg And include.post.jpg!="none" And include.post.jpg!="" %}
+{% if include.post.jpg And include.post.jpg!="" %}
 	<script>
       console.log("THERE SHOULD NOT BE AN IMAGE INCLUDED") ;
 	</script>
 {% endif %}
 
-{% if include.post.jpg And include.post.jpg!="none" And include.post.jpg!="" %}
+{% if !include.post.jpg And include.post.jpg=="none" And include.post.jpg!="" %}
+	<script>
+      console.log("THERE SHOULD NOT BE AN IMAGE INCLUDED") ;
+	</script>
+{% endif %}
+
+{% if include.post.jpg And include.post.jpg!="" %}
 <img class="{{include.post.jpg}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg">
 {% endif %}
-{% if include.post.png And include.post.png!="none" And include.post.png!="" %}
+{% if include.post.png And include.post.png!="" %}
 <img class="{{include.post.png}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png">
 {% endif %}
 
