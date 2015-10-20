@@ -18,6 +18,10 @@
 {% endif %}
 {% endif %}
 {% if include.post.jpg And include.post.jpg!="none" And include.post.jpg!="" %}
+	console.log("THERE SHOULD NOT BE AN IMAGE INCLUDED") ;
+{% endif %}
+
+{% if include.post.jpg And include.post.jpg!="none" And include.post.jpg!="" %}
 <img class="{{include.post.jpg}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg">
 {% endif %}
 {% if include.post.png And include.post.png!="none" And include.post.png!="" %}
