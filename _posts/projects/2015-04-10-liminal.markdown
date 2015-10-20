@@ -17,7 +17,7 @@ slug: "thumbnail-liminal"
 video: "splash-liminal"
 poster: "010liminal/splash-liminal.jpg"
 index: 10
-jpg: ""
+jpg: testo
 png: ""
 panorama: ""
 "panorama-poster": ""
