@@ -25,6 +25,10 @@
 <img class="{{include.post.png}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png" />
 {% endif %}
 
+<script>
+  	console.log("DO IMAGE CHECK") ;
+</script>
+
 {% if include.post.jpg=="testo" %}
 	<script>
       console.log("IT IS TESTO!");
@@ -35,6 +39,10 @@
       console.log("IT IS NOT TESTO!");
 	</script>
 {% endif %}
+
+<script>
+  	console.log("IMAGE CHECK COMPLETE") ;
+</script>
 
 
 {% if include.post.panorama And include.post.panorama!=""  %}
