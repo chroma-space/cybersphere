@@ -10,12 +10,11 @@ panorama: 00posts/00opensystem/embassy_court.jpg
 ---
 
 
-
 <h4>
-September 10th 
+September 15th
 </h4>
 
-[Catalyst Club](http://www.catalystclub.co.uk/)
+[Digital Spotlight](http://brightondigitalfestival.co.uk/event/phoenix-brighton-presents-digital-spotlight/), Phoenix Arts
 
 <h4>
 September 12th-14th, 2015 
@@ -32,9 +31,8 @@ You are invited to visit and explore work in progress, creatively input and imag
 Ring the bell for Flat 71 between 12 - 5pm.
 
 <h4>
-September 15th
+September 10th 
 </h4>
 
-[Digital Spotlight](http://brightondigitalfestival.co.uk/event/phoenix-brighton-presents-digital-spotlight/), Phoenix Arts
-
+[Catalyst Club](http://www.catalystclub.co.uk/)
 
