@@ -390,7 +390,7 @@ $(function(){
   });
 
   window.__defineGetter__("contact",function(){
-    log("paul@chroma.space - Paul Hayes\nkate@chroma.space - Kate Genevieve \n");
+    log("kate@chroma.space - Kate Genevieve \n");
   });
 
   window.__defineGetter__("quote",function(){
