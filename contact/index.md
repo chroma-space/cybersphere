@@ -17,4 +17,4 @@ published: true
 
 [Tumblr](http://kategenevieve.tumblr.com/) 
 
-Contact >> hello@chroma.space
+Contact >> kate@chroma.space
