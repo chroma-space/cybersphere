@@ -5,18 +5,27 @@ published: true
 title: Of the Spheres
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-"invert-nav": "true"
+"invert-nav": true
 description: "360º projection, performance, space"
 date: "2015-01-01"
 video: heliosphere_projbanner
 poster: 008of_the_spheres/heliosphere_projbanner.jpg
 "splash-description": "<a href=\\\"http://vimeo.com/65454918\\\">Heliosphere trailer</a> from <a href=\\\"http://vimeo.com/chromaspace\\\">C H R Θ M A</a> on Vimeo."
 slug: of_the_spheres
-"video_pause": true
-"video_mute": true
+video_pause: true
+video_mute: true
 thumbnail: "thumbnail-ofthespheres.jpg"
 index: 8
+jpg: ""
+png: ""
+"video-pause": false
+"play-once": false
+panorama: ""
+"panorama-poster": ""
+"index-image": ""
+"banner-align": top
 ---
+
 
 > _“…there is no inner man, man is in the world, and only in the world does he know himself.” Maurice Merleau-Ponty, Phenomenology of Perception (Preface, 1945)_
 
@@ -32,4 +41,4 @@ Exploring using new technologies to record human life on this planet and drawing
 
 Through looking beyond our bubbles of personal experience and listening beyond our own spheres of existence can immersive media put us in contact with the multitude of ways that the globe is experienced by different people?  Using techniques of re-mixing the the micro and the macro - life on earth and the sounds and visions NASA is collecting of the cosmos - we’re interested in making alternative perspectives of this earth more visible, audible and knowable.
 
-> Listen to CHROMA's Kate Genevieve and Paul Hayes talk about the project for a special episode of [http://www.bbc.co.uk/programmes/p01gdq15](BBC Click: Of The Spheres "sea-green")
+> Listen to CHROMA talk about the project for a special episode of [http://www.bbc.co.uk/programmes/p01gdq15](BBC Click: Of The Spheres "sea-green")
