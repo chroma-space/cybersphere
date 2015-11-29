@@ -19,60 +19,13 @@
 {% endif %}
 
 {% if include.post.jpg Or include.post.jpg!="" %}
-<script>
-  	console.log("THERE IS A JPG") ;
-</script>
 
 <img class="{{include.post.jpg}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg" />
 {% endif %}
 {% if include.post.png And include.post.png!="" %}
-<script>
-  	console.log("THERE IS A PNG") ;
-</script>
 
 <img class="{{include.post.png}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png" />
 {% endif %}
-
-<script>
-  	console.log("DO IMAGE CHECK 2") ; 
-</script>
-
-{% if include.post.jpg %}
-	<script>
-      console.log("There is some kind of image there!");
-	</script>
-{% endif %}
-{% if !include.post.jpg %}
-	<script>
-      console.log("There is not any kind of image there!");
-	</script>
-{% endif %}
-
-{% if include.post.jpg=="" %}
-	<script>
-      console.log("There is some kind of blank string there!");
-	</script>
-{% endif %}
-{% if include.post.jpg!="" %}
-	<script>
-      console.log("There is not any kind of blank string there!");
-	</script>
-{% endif %}
-
-{% if include.post.jpg=="testo" %}
-	<script>
-      console.log("IT IS TESTO!");
-	</script>
-{% endif %}
-{% if include.post.jpg!="testo" %}
-	<script>
-      console.log("IT IS NOT TESTO!");
-	</script>
-{% endif %}
-
-<script>
-  	console.log("IMAGE CHECK COMPLETE 2") ;
-</script>
 
 
 {% if include.post.panorama And include.post.panorama!=""  %}
