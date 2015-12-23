@@ -22,13 +22,13 @@
 
 <img class="{{include.post.jpg}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg" />
 {% endif %}
-{% if include.post.png Or include.post.png!="" %}
+{% if post.png %}
 
 <img class="{{include.post.png}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png" />
 {% endif %}
 
 
-{% if include.post.panorama Or include.post.panorama!=""  %}
+{% if post.panorama %}
 <canvas class="panorama" style="background-image:{{ site.baseurl }}/assets/images/{{include.post.panorama-poster}}" panorama-images="{{include.post.panorama}}" user-control="{{include.post.panorama-user-control}}" longitude-speed="{{include.post.panorama-longitude-speed}}" base-url="{{ site.baseurl }}/assets/images/">
 </canvas>
 {% endif %}
