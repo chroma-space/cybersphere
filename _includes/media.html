@@ -1,4 +1,4 @@
-{% if page.video %}
+{% if page.video And page.video != nil %}
   {% capture play-once %}{{page.play-once}}{% endcapture %}
   {% capture video_pause %}{{page.video_pause}}{% endcapture %}
   {% capture poster %}/assets/images/{{page.video}}.jpg{% endcapture %}
