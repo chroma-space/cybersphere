@@ -16,7 +16,7 @@
       <span class="glyphicon glyphicon-volume-up mute" style="display:none"></span>
     </div>
   {% endif %}
-{% elsif page.jpg and page.jpg !="" %}
+{% elsif page.jpg And page.jpg !="" And page.jpg != nil %}
   <img class="{{page.jpg}}{% if page.banner-align %} banner-{{page.banner-align}}{% endif %}" src="{{ page.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg" />
 {% elsif page.png and page.png !="" %}
   <img class="{{page.png}}{% if page.banner-align %} banner-{{page.banner-align}}{% endif %}" src="{{ page.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png" />
