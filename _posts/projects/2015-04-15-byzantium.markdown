@@ -7,16 +7,10 @@ title: Byzantium
 date: "2015-07-08"
 description: "Acoustic ecology, participatory algorithms"
 slug: byzantium
-"video-pause": false
-"play-once": false
-video_mute: false
 thumbnail: "thumbnail-byzantium.jpg"
 jpg: "015byzantium/golden-bird-banner"
 "banner-align": top
 index: 15
-
-"splash-description": ""
-"index-image": ""
 ---
 
 
