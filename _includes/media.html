@@ -16,11 +16,11 @@
       <span class="glyphicon glyphicon-volume-up mute" style="display:none"></span>
     </div>
   {% endif %}
-{% elsif page.jpg And page.jpg !="" And page.jpg != nil %}
+{% elsif page.jpg And page.jpg !="" and page.jpg != nil %}
   <img class="{{page.jpg}}{% if page.banner-align %} banner-{{page.banner-align}}{% endif %}" src="{{ page.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg" />
-{% elsif page.png and page.png !="" And page.png != nil %}
+{% elsif page.png and page.png !="" and page.png != nil %}
   <img class="{{page.png}}{% if page.banner-align %} banner-{{page.banner-align}}{% endif %}" src="{{ page.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png" />
-{% elsif page.panorama and page.panorama !="" And page.panorama != nil %}
+{% elsif page.panorama and page.panorama !="" and page.panorama != nil %}
   <canvas class="panorama" style="background-image:{{ site.baseurl }}/assets/images/{{page.panorama-poster}}" panorama-images="{{page.panorama}}" user-control="{{page.panorama-user-control}}" longitude-speed="{{page.panorama-longitude-speed}}" base-url="{{ site.baseurl }}/assets/images/"></canvas>
 {% endif %}
 
