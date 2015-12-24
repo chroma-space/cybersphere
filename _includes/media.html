@@ -1,41 +1,33 @@
-{% if include.post.video %}
-{% capture play-once %}{{include.post.play-once}}{% endcapture %}
-{% capture video_pause %}{{include.post.video_pause}}{% endcapture %}
-{% capture poster %}/assets/images/{{include.post.video}}.jpg{% endcapture %}
-{% if include.post.poster %}
-{% capture poster %}{{include.post.poster | prepend: "/assets/images/" | prepend: site.baseurl}}{% endcapture %}
-{% endif %}
-<video autoplay loop muted preload="auto" class="{{include.post.video}}{% if video_pause == "true" %} pauseable-video{% endif %}{% if play-once == "true" %} play-once{% endif %}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" poster="{{poster}}">
-  <source src="/assets/video/{{include.post.video}}.mp4" type="video/mp4"/>
-  <source src="/assets/video/{{include.post.video}}.mkv" type="video/x-matroska"/>
-</video>
-{% capture video_mute %}{{include.post.video_mute}}{% endcapture %}
-{% if video_mute == 'true' %}
-<div class="video-controls">
-  <span class="glyphicon glyphicon-volume-off unmute"></span>
-  <span class="glyphicon glyphicon-volume-up mute" style="display:none"></span>
-</div>
-{% endif %}
-{% endif %}
-
-{% if post.jpg %}
-
-<img class="{{include.post.jpg}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg" />
-{% endif %}
-{% if post.png %}
-
-<img class="{{include.post.png}}{% if include.post.banner-align %} banner-{{include.post.banner-align}}{% endif %}" src="{{ include.post.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png" />
+{% if page.video %}
+  {% capture play-once %}{{page.play-once}}{% endcapture %}
+  {% capture video_pause %}{{page.video_pause}}{% endcapture %}
+  {% capture poster %}/assets/images/{{page.video}}.jpg{% endcapture %}
+  {% if page.poster %}
+    {% capture poster %}{{page.poster | prepend: "/assets/images/" | prepend: site.baseurl}}{% endcapture %}
+  {% endif %}
+  <video autoplay loop muted preload="auto" class="{{page.video}}{% if video_pause == "true" %} pauseable-video{% endif %}{% if play-once == "true" %} play-once{% endif %}{% if page.banner-align %} banner-{{page.banner-align}}{% endif %}" poster="{{poster}}">
+    <source src="/assets/video/{{page.video}}.mp4" type="video/mp4"/>
+    <source src="/assets/video/{{page.video}}.mkv" type="video/x-matroska"/>
+  </video>
+  {% capture video_mute %}{{page.video_mute}}{% endcapture %}
+  {% if video_mute == 'true' %}
+    <div class="video-controls">
+      <span class="glyphicon glyphicon-volume-off unmute"></span>
+      <span class="glyphicon glyphicon-volume-up mute" style="display:none"></span>
+    </div>
+  {% endif %}
+{% elsif page.jpg and page.jpg !="" %}
+  <img class="{{page.jpg}}{% if page.banner-align %} banner-{{page.banner-align}}{% endif %}" src="{{ page.jpg | prepend: "/assets/images/" | prepend: site.baseurl }}.jpg" />
+{% elsif page.png and page.png !="" %}
+  <img class="{{page.png}}{% if page.banner-align %} banner-{{page.banner-align}}{% endif %}" src="{{ page.png | prepend: "/assets/images/" | prepend: site.baseurl }}.png" />
+{% elsif page.panorama and page.panorama !="" %}
+  <canvas class="panorama" style="background-image:{{ site.baseurl }}/assets/images/{{page.panorama-poster}}" panorama-images="{{page.panorama}}" user-control="{{page.panorama-user-control}}" longitude-speed="{{page.panorama-longitude-speed}}" base-url="{{ site.baseurl }}/assets/images/"></canvas>
 {% endif %}
 
-
-{% if post.panorama %}
-<canvas class="panorama" style="background-image:{{ site.baseurl }}/assets/images/{{include.post.panorama-poster}}" panorama-images="{{include.post.panorama}}" user-control="{{include.post.panorama-user-control}}" longitude-speed="{{include.post.panorama-longitude-speed}}" base-url="{{ site.baseurl }}/assets/images/">
-</canvas>
-{% endif %}
-
-</div>
-{% if include.post.splash-description %}
-<div class="splash-bottom container" style="display:none"><div class="info">
-  {{include.post.splash-description}}
-</div>
+{% if page.splash-description %}
+  <div class="splash-bottom container" style="display:none">
+    <div class="info">
+      {{page.splash-description}}
+    </div>
+  </div>
 {% endif %}
