@@ -1,6 +1,6 @@
 ---
 layout: post
-title: open( system )
+title: Now : Events / Workshops / Open Projects
 published: true
 "panorama-poster": 00posts/00opensystem/embassy_court.jpg
 panorama: 00posts/00opensystem/embassy_court.jpg
@@ -11,7 +11,7 @@ panorama: 00posts/00opensystem/embassy_court.jpg
 <h4> December 2nd-12th, 2015 
 </h4>
  
-C A S C A D E @  [Festival of Climate Ideas] (http://onca.org.uk/upcoming-events/)
+C A S C A D E @  [Festival of Climate Ideas](http://onca.org.uk/upcoming-events/)
  
 During Onca Gallery's Festival of Climate Ideas, we are initiating a new project – C A S C A D E – followed by a screening of Naomi Klein's This Changes Everything from the Brighton Radical Film Festival.
 
