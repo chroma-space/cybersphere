@@ -20,7 +20,16 @@ C A S C A D E is an experiment in creative activism & storytelling - created acr
 @artwerx_digital @chroma_space @hyperoculus @leskos @isobelanderson_ @jonrobertevans @shaunhunter @sheepfilms @simonwibberley
 
 <h4>
-September 15th
+November 8th, 2015
+</h4>
+
+Between Worlds @ [The Spire] (http://thespirearts.org/)
+Live event exploring non-verbal communication: how we perceive and receive across space without words using sound, touch, feeling, light, symbols. We - Louis D'aboville, Rachel Blackman, Kate Genevieve - are interested in the possibilities of empathy and technology for ecology, activism and playful creativity. This night includes a sound ritual from Isobel Anderson, a fibre optic installation from Maf'j Alvarez, data projections from Kate Genevieve and Simon Wibberley and a Virtual Reality experience from Dr Keisuke Suzuki. There will be Sufi dance, live drawing from scribe-of-the-unconscious Will Scobie, music from Tom Beaufoy (Evil 9) and a chance to share an intimate moment with a stranger across the dark side of a mirror in Chroma and Stillpoint's Transmission. 
+
+The evening begins with a fire ritual at 5pm where we offer you a chance to let go of something that no longer serves your life. Have something ready to burn.
+
+<h4>
+September 15th, 2015
 </h4>
 
 [Digital Spotlight](http://brightondigitalfestival.co.uk/event/phoenix-brighton-presents-digital-spotlight/), Phoenix Arts
