@@ -13,26 +13,26 @@ o     o   O  O     o   O  o  O  O o   O  oO     O o   O o   O  o     O      \n\
 ";
 
 var quotes = [
-  {
-    q:"“Forget trying to pass for normal. Follow your geekdom. Embrace nerditude. In the immortal words of Lafcadio Hearn, a geek of incredible obscurity whose work is still in print after a hundred years, “Woo the muse of the odd.” You may be a geek. You may have geek written all over you. You should aim to be one geek they'll never forget. Don't aim to be civilized. Don’t hope that straight people will keep you on as some sort of pet. To hell with them. You should fully realize what society has made of you and take a terrible revenge. Get weird. Get way weird. Get dangerously weird. Get sophisticatedly, thoroughly weird, and don't do it halfway. Put every ounce of horsepower you have behind it. Don't become a well-rounded person. Well-rounded people are smooth and dull. Become a thoroughly spiky person. Grow spikes from every angle. Stick in their throats like a pufferfish.”",
-    a:"Bruce Sterling"
+ {
+    q: ""We're going down to the bottom / All the way to the bottom / We get turned around / There is another world spinning inside of this one.",
+    a: "Laurie Anderson - Free Fall https://www.youtube.com/watch?v=mrD4aWq9Hr4"
   },
   {
-    q: "Quote 2",
-    a: "Author 2"
+    q:""Don't be your own worst enemy."",
+    a:"Bruce Sterling, Literary Freeware -- Not For Commercial Use. Computer Game Developers Conference speech, March 1991: The Wonderful Power of Storytelling https://w2.eff.org/Misc/Publications/Bruce_Sterling/comp_game_designers.article"
   },
   {
-    q: "Quote 3",
-    a: "Author 3"
+    q: ""I now see the Earth realistically as a sphere and think of it as a spaceship."",
+    a: "Buckminster Fuller, Operating Manual for Spaceship Earth http://72.52.202.216/~fenderse/OperatingManual.html"
   },
   {
-    q: "Quote 4",
-    a: "Author 4"
+    q: ""The rest of this is more like retooling for World War II, except with everyone playing on the same team.""",
+    a: "Saul Griffith on The Long Now Foundation http://library.fora.tv/2009/01/16/Saul_Griffith_Climate_Change_Recalculated/Griffith_Proposes_Massive_Increase_in_Green_Energy. Reference found via http://worrydream.com/ClimateChange/ "
   },
   {
-    q: "Quote 5",
-    a: "Author 5"
-  }
+    q: ""There are no passengers on Spaceship Earth. We are all crew.",
+    a: "Marshall McLuhan https://en.wikiquote.org/wiki/Marshall_McLuhan#/media/File:Robot_Arm_Over_Earth_with_Sunburst_-_GPN-2000-001097.jpg See also https://medium.com/poc-stories/we-are-all-crew-68b10a4b0819#.93f0vipb1 http://v2.nl/archive/articles/we-are-all-crew-blowup-reader-4"
+  },
 ];
 
 //$.ajax("https://gist.githubusercontent.com/paulhayes/9b817f142dbff4655c7b/raw/colorToIChing.js", {success: function(text){ eval(text); }});
