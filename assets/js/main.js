@@ -14,7 +14,7 @@ o     o   O  O     o   O  o  O  O o   O  oO     O o   O o   O  o     O      \n\
 
 var quotes = [
  {
-    q: ""We're going down to the bottom / All the way to the bottom / We get turned around / There is another world spinning inside of this one.",
+    q: ""We're going down to the bottom / All the way to the bottom / We get turned around / There is another world spinning inside of this one."",
     a: "Laurie Anderson - Free Fall https://www.youtube.com/watch?v=mrD4aWq9Hr4"
   },
   {
