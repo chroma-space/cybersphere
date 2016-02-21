@@ -14,12 +14,12 @@ o     o   O  O     o   O  o  O  O o   O  oO     O o   O o   O  o     O      \n\
 
 var quotes = [
  {
-    q: ""We're going down to the bottom All the way to the bottom We get turned around There is another world spinning inside of this one."",
+    q: ""We re going down to the bottom All the way to the bottom We get turned around There is another world spinning inside of this one."",
     a: "Laurie Anderson - Free Fall https://www.youtube.com/watch?v=mrD4aWq9Hr4"
   },
   {
-    q:""Don't be your own worst enemy."",
-    a:"Bruce Sterling, Literary Freeware -- Not For Commercial Use. Computer Game Developers Conference speech, March 1991: The Wonderful Power of Storytelling https://w2.eff.org/Misc/Publications/Bruce_Sterling/comp_game_designers.article"
+    q: ""Don t be your own worst enemy."",
+    a: "Bruce Sterling, Literary Freeware -- Not For Commercial Use. Computer Game Developers Conference speech, March 1991: The Wonderful Power of Storytelling https://w2.eff.org/Misc/Publications/Bruce_Sterling/comp_game_designers.article"
   },
   {
     q: ""I now see the Earth realistically as a sphere and think of it as a spaceship."",
