@@ -14,7 +14,7 @@ o     o   O  O     o   O  o  O  O o   O  oO     O o   O o   O  o     O      \n\
 
 var quotes = [
  {
-    q: ""We're going down to the bottom / All the way to the bottom / We get turned around / There is another world spinning inside of this one."",
+    q: ""We're going down to the bottom All the way to the bottom We get turned around There is another world spinning inside of this one."",
     a: "Laurie Anderson - Free Fall https://www.youtube.com/watch?v=mrD4aWq9Hr4"
   },
   {
@@ -26,11 +26,11 @@ var quotes = [
     a: "Buckminster Fuller, Operating Manual for Spaceship Earth http://72.52.202.216/~fenderse/OperatingManual.html"
   },
   {
-    q: ""The rest of this is more like retooling for World War II, except with everyone playing on the same team.""",
+    q: ""The rest of this is more like retooling for World War II, except with everyone playing on the same team."",
     a: "Saul Griffith on The Long Now Foundation http://library.fora.tv/2009/01/16/Saul_Griffith_Climate_Change_Recalculated/Griffith_Proposes_Massive_Increase_in_Green_Energy. Reference found via http://worrydream.com/ClimateChange/ "
   },
   {
-    q: ""There are no passengers on Spaceship Earth. We are all crew.",
+    q: ""There are no passengers on Spaceship Earth. We are all crew."",
     a: "Marshall McLuhan https://en.wikiquote.org/wiki/Marshall_McLuhan#/media/File:Robot_Arm_Over_Earth_with_Sunburst_-_GPN-2000-001097.jpg See also https://medium.com/poc-stories/we-are-all-crew-68b10a4b0819#.93f0vipb1 http://v2.nl/archive/articles/we-are-all-crew-blowup-reader-4"
   },
 ];
