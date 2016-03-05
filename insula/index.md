@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INSULA application // “Imaginary Circle, Asia – Plastic Myths”"
+title: INSULA
 published: true
 jpg: 016insula/insula_body
 private: "true"
@@ -11,7 +11,25 @@ private: "true"
 
 > "Love the world as your own self; then you can truly care for all things." - Lao Tzu, Tao Te Ching: Chapter 13
 
-> "In a wider sense, humans and nature share the same body. This allows humans to free themselves from the constraints of individuality and meditatively fuse with the greater body of the universe. Honing the relationship between human vitality and the pulse of the cosmos is a Daoist contemplative practice. " - Chen Xia and Martin Schönfeld, “A Daoist response to climate change,” in the Journal of Global Ethics, August 2011, 202
+—
+
+
+Aims of trip :
+
+to create someting in collaboration with the community - 
+560 videos of music and language and dialy life 
+
+exploring technique we use called photogrammatery to 
+http://www.theastronauts.com/2014/03/visual-revolution-vanishing-ethan-carter/
+
+to create material for Virtual Reality experience for Crawick Multiverse around sensing outside your bubble
+creating a vr experience 
+island with a symbolic visual language - rocks
+shoot 360 footage & record 360 audio for a virtual reality performance - the performance loosely based on the Tempest
+first installation at crawick multiverse & develop it until 
+
+interviews and documentation - chroma.space blog & featured on Furtherfield 
+
 
 ###The Project
 
