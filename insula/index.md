@@ -16,15 +16,14 @@ private: "true"
 
 Aims of trip :
 
-to create someting in collaboration with the community - 
-360 videos of ephemeral creativity - music and language and dialy life 
+- to create in collaboration with the community at the Leweton Cultural Village with a focus on 360 video for the recording of ephemeral creativity - music, language and daily life 
 
-exploring technique we use called photogrammatery to senstively record and spread awareness of objects that may be lost to the waves
-http://www.theastronauts.com/2014/03/visual-revolution-vanishing-ethan-carter/
+- interviews and documentation of our time in Vanuatu in response to our homestay in Santo
 
-More generally, in Vanuatu we will create material for a Virtual Reality experience to be performed at the Crawick Multiverse loosely based on the Tempest
+- exploring technique we use called photogrammatery to senstively record and spread awareness of objects that may be lost to the waves http://www.theastronauts.com/2014/03/visual-revolution-vanishing-ethan-carter/
 
-interviews and documentation of our time in Vanuatu 
+- More generally, in our visit to Vanuatu we will create material for a Virtual Reality experience to be performed at the Crawick Multiverse loosely based on the Tempest
+
 
 
 ###The Project
