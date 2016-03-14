@@ -38,11 +38,8 @@ The virtual reality experience uses the body as the basis of understanding how l
 
 Exploring touch with paintbrushes and wooden drumsticks - using the traditional instruments of painting and rhythm in a very contemporary context.
 
-![](/assets/images/016insula/island_audience.jpg)
 
 The creative receptivity of the participant is emphasised through amplification of her heart beat, that transforms the rhythm of her pulse as she responds to the immersive experience into the sonic and visual elements of the performance.
-
-![](/assets/images/016insula/island_top.jpg)
 
 All the natural imagery and sound used in the installation transforms information from real living systems: we use acoustic ecology, 3D photo techniques and data sets from coral ecosystems, glacial change, sea level rise and global temperature change to virtually represent the contemporary climate picture.  Insula questions what role creative technology can play in transmitting our current world story to a global culture.
 
@@ -57,8 +54,6 @@ Within the virtual experience the participant experiences a wild Tempest roaring
 ###To end:
 The participant is asked to embark on the journey back to the real world by stepping into the present. They are asked to take a a step in the dark and continue their mythic journey into the unknown future remembering always that they mediate the harmony of heaven and earth through their body.
 
-
-![](/assets/images/016insula/insula_diagram.png)
 
 ###Technical Equipment
 
