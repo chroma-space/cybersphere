@@ -22,11 +22,11 @@ Aims of trip :
 
 - exploring technique we use called photogrammatery to senstively record and spread awareness of objects that may be lost to the waves http://www.theastronauts.com/2014/03/visual-revolution-vanishing-ethan-carter/
 
-- More generally, in our visit to Vanuatu we will create material for a Virtual Reality experience to be performed at the Crawick Multiverse loosely based on the Tempest
+- More generally, in our visit to Vanuatu we will create material for a Virtual Reality experience - Insula - to be performed at the Crawick Multiverse loosely based on the Tempest
 
+Action Potential Blog in process of set up to share the working process & 360 videos.
 
-
-###The Project
+###The Virtual Reality Project
 
 Insula is a virtual reality and mixed reality performance exploring emotional and visceral responses to the climate crisis. Exploring how creative technology can viscerally connect us with the living ecosystems out beyond the city, particularly the Pacific islands, the front line of the climate crisis.
 
@@ -38,21 +38,14 @@ The virtual reality experience uses the body as the basis of understanding how l
 
 Exploring touch with paintbrushes and wooden drumsticks - using the traditional instruments of painting and rhythm in a very contemporary context.
 
-
 The creative receptivity of the participant is emphasised through amplification of her heart beat, that transforms the rhythm of her pulse as she responds to the immersive experience into the sonic and visual elements of the performance.
 
 All the natural imagery and sound used in the installation transforms information from real living systems: we use acoustic ecology, 3D photo techniques and data sets from coral ecosystems, glacial change, sea level rise and global temperature change to virtually represent the contemporary climate picture.  Insula questions what role creative technology can play in transmitting our current world story to a global culture.
 
 
-###The body becomes the island 
+###The virtual and the real 
 
-The next sequence involves participant (a) lying back, with their head slightly raised by a moulded cushion on the floor. This enables them to be at a correct angle to see their body, while still being in an almost horizontal position. We then use the depth data from the kinect to generate a mesh topology and from that a dynamic terrain of the island, including geological texturing, flora and fauna. This is kept up to date with the participants current body position, easing the heightmap of the terrain, re-texturing and adjusting the height of flora to match. While this is happening the participant is touched at various places to simulate meteorological and cosmological events, as well as the movement and changes of life on the island.
-
-Within the virtual experience the participant experiences a wild Tempest roaring; the participant feels syncopated drumming up and down her legs. 
-
-
-###To end:
-The participant is asked to embark on the journey back to the real world by stepping into the present. They are asked to take a a step in the dark and continue their mythic journey into the unknown future remembering always that they mediate the harmony of heaven and earth through their body.
+Within the virtual experience the participant experiences a wild Tempest roaring; the participant feels syncopated drumming up and down her legs. After the virtual experience, the participant is asked to embark on the journey back to the real world by stepping into the present. They are asked to take a a step in the dark and explore the real environment through their senses and continue their mythic journey into the unknown future remembering always that they mediate the harmony of heaven and earth through their body.
 
 
 ###Technical Equipment
