@@ -1,13 +1,3 @@
----
-layout: post
-title: Now : Events / Workshops / Open Projects
-published: true
-"panorama-poster": 00posts/00opensystem/embassy_court.jpg
-panorama: 00posts/00opensystem/embassy_court.jpg
-"panorama-longitude-speed": 0.04
-"panorama-start-angle": 90
-"panorama-user-control": true
----
 <h4> December 2nd-12th, 2015 
 </h4>
  
@@ -53,4 +43,4 @@ September 10th
 
 [Catalyst Club](http://www.catalystclub.co.uk/)
 
-KG talk about dream research & the creative unconscious. 
+KG talk about dream research & the creative unconscious.
