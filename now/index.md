@@ -37,9 +37,7 @@ C H R Θ M A are opening the doors on their Virtual Reality development. We are 
 
 You are invited to visit and explore work in progress, creatively input and imagine alternative collective territories and future uses for Virtual Reality. It's not a show - we're just opening the doors on where we are and welcoming you into it.
 
-<h4>
-September 10th 
-</h4>
+<h4> September 10th </h4>
 
 [Catalyst Club](http://www.catalystclub.co.uk/)
 
