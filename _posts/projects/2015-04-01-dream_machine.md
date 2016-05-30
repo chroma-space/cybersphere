@@ -15,7 +15,7 @@ thumbnail: "thumbnail-dreammachine.jpg"
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
 "banner-align": top
-jpg: dream_cyriak.jpg
+jpg: 001dreammachine/dream_cyriak
 "splash-description": "Marlborough House Dream Machine Projections, Anim by CYRIAK"
 ---
 
