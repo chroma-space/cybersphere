@@ -11,17 +11,11 @@ thumbnail: "thumbnail-byzantium.jpg"
 jpg: "015byzantium/golden-bird-banner"
 "banner-align": top
 index: 15
-png: ""
-video: ""
 "video-pause": false
 "play-once": false
 video_mute: false
-panorama: ""
-"panorama-poster": ""
 "panorama-longitude-speed": 0.01
 "panorama-user-control": false
-"splash-description": ""
-"index-image": ""
 ---
 
 
