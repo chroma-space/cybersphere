@@ -1,4 +1,6 @@
-## now
+layout: post
+jpg: 016insula/insula_body
+private: "true"
 
 <h4> December 2nd-12th, 2015 
 </h4>
