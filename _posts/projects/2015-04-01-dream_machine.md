@@ -10,10 +10,13 @@ slug: dream_machine
 "video-pause": false
 "play-once": false
 video_mute: false
-splash-description: Dr Hobson in his Dream Machine Andy P
-jpg: 
 index: 1
 thumbnail: "thumbnail-dreammachine.jpg"
+"panorama-longitude-speed": 0.01
+"panorama-user-control": false
+"banner-align": top
+jpg: dream_cyriak
+"splash-description": "Marlborough House Dream Machine Projections, Anim by CYRIAK"
 ---
 
 Commissioned for Brighton’s White Night Festival 2010 and directed by Sarah Bird, Kate Genevieve and Abbie Stanton the narrative culminated in an animation projection event that lit up the Georgian mansion, Marlborough House, in Central Brighton. This is not a C H R Θ M A project, it was created for the BANG network, but it was created at C H R Θ M A’s inception in October 2010 and so much of what we learnt with this ambitious multi-platform narrative experiment was essential to our early days.
