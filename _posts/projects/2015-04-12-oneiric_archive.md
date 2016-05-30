@@ -12,7 +12,7 @@ slug: oneiric_archives
 "video-pause": false
 "play-once": false
 video_mute: false
-jpg: 012oneiric_archives/23dreambanner
+jpg: "002encephalo_graphic/kate-rainbow.jpg"
 "splash-description": "<a href='http://oneiricarchives.tumblr.com/' target='blank'>Visit the Oneiric Archives</a>"
 index: 12
 thumbnail: "thumbnail-theoneiricarchive.jpg"
