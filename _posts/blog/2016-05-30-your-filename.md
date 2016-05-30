@@ -6,7 +6,7 @@ layout: post
 date: "2015-01-01"
 categories: "of-the-spheres"
 published: false
-title: ""
+title: Eclipse
 thumbnail: "thumbnail-falling-through-myself.jpg"
 jpg: 008of_the_spheres/2Moondance.jpg
 ---
