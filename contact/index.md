@@ -7,13 +7,13 @@ published: true
 
 
 
-<a href="http://twitter.com/CHROMA_" target="_blank">@CHROMA_</a>
+<a href="http://twitter.com/chroma_space" target="_blank">@CHROMA_</a>
 
 <a href="https://vimeo.com/chromacollective" target="_blank">Vimeo</a>
 
-<a href="https://www.facebook.com/chromacollective" target="_blank">FB</a>
+<a href="https://www.facebook.com/chroma.space/" target="_blank">FB</a>
 
-[Instagram](https://instagram.com/kategenevieve/)
+[Instagram](https://instagram.com/chroma.space/)
 
 [Tumblr](http://kategenevieve.tumblr.com/) 
 
