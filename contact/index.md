@@ -9,7 +9,7 @@ published: true
 
 <a href="http://twitter.com/chroma_space" target="_blank">@chroma_space</a>
 
-<a href="https://vimeo.com/chromacollective" target="_blank">Vimeo</a>
+<a href="https://vimeo.com/chromaspace" target="_blank">Vimeo</a>
 
 <a href="https://www.facebook.com/chroma.space/" target="_blank">FB</a>
 
