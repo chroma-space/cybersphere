@@ -1,7 +1,4 @@
-
-
-<h4> December 2nd-12th, 2015 
-</h4>
+<h4> December 2nd-12th, 2015 </h4>
  
 C A S C A D E @  [Festival of Climate Ideas](http://onca.org.uk/upcoming-events/)
  
