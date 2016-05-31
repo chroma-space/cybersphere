@@ -3,16 +3,19 @@ categories: projects
 layout: post
 published: true
 title: Transmute
-"invert-nav": "true"
+"invert-nav": true
 date: "2015-04-11"
-description: "the night is a tunnel"
+description: the night is a tunnel
 slug: transmute
 "video-pause": false
 "play-once": false
 video_mute: false
-jpg: 011transmute/transmute
+jpg: 011transmute/transmutebanner
 index: 11
 thumbnail: "thumbnail-transmute.jpg"
+"panorama-longitude-speed": 0.01
+"panorama-user-control": false
+"banner-align": top
 ---
 
 > “The night is a tunnel... a hole into tomorrow...” // Frank Herbert, Dune
