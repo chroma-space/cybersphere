@@ -4,6 +4,15 @@ title: Now
 published: true
 ---
 
+
+<h4> June 21st, 2016 </h4>
+ 
+Of the Spheres @  [Crawick Multiverse](http://www.crawickmultiverse.co.uk/)
+ 
+Solstice ritual on the land with Google Cardboard. A 360 experience in honour of the sun - involving the inner planes and the great outdoors. 
+
+
+
 <h4> December 2nd-12th, 2015 </h4>
  
 C A S C A D E @  [Festival of Climate Ideas](http://onca.org.uk/upcoming-events/)
@@ -46,4 +55,12 @@ You are invited to visit and explore work in progress, creatively input and imag
 
 [Catalyst Club](http://www.catalystclub.co.uk/)
 
-KG talk about dream research & the creative unconscious.
+KG talk about dream research & the creative unconscious. 
+
+ONEIRIC ARCHIVES
+
+Experiments in recording dreams of groups of
+people. Under the mentorship of Apela Colorado: Kate Genevieve and Will Scobie combine to document the dreams of the Cosmic Trigger experience. 
+*update* Calling all Santa Cruz contacts - the Trigger is set for the US. Get in touch if you have any links in Santa Cruz to bring this celebration of Robert Anton Wilson stateside. 
+
+
