@@ -15,13 +15,17 @@ Solstice ritual on the land with Google Cardboard. A 360 experience in honour of
 
 Media links
 
-<h4> [Arts Technologica](http://www.bbc.co.uk/programmes/b05r3ssp) </h4> 
+[Arts Technologica](http://www.bbc.co.uk/programmes/b05r3ssp) 
  
-Aired on BBC radio 2015, interview with KG about Virtual Reality practice and with artists James Bridle, Ben Vickers, Thomson and Craighead and animation visionary David OReilly.
+Aired 2015 on BBC radio. Interview with KG about Virtual Reality practice and with artists James Bridle, Ben Vickers, Thomson and Craighead and animation visionary David OReilly.
 
-<h4> [Crossing Borders at Siobhan Davies Dance](http://www.independentdance.co.uk/programmepage/media/audio) </h4> 
+[Crossing Borders at Siobhan Davies Dance](http://www.independentdance.co.uk/programmepage/media/audio) 
 
-KG speaker at Frank Bock's curated program of talks. Talk about Neuroscience, Embodiment and Sharing Interiority
+Frank Bock's curated program of talks: KG talks about Neuroscience, Embodiment and Sharing Interiority
+
+[TEDxBrighton](https://www.youtube.com/watch?v=4os_yd51dYY) 
+
+Art to Explore Consciousness
 
 
 Archive:
@@ -58,13 +62,13 @@ The evening begins with a fire ritual at 5pm where we offer you a chance to let 
 September 15th, 2015
 </h4>
 
-[Digital Spotlight](http://brightondigitalfestival.co.uk/event/phoenix-brighton-presents-digital-spotlight/), Phoenix Arts
+[Digital Spotlight](http://brightondigitalfestival.co.uk/event/phoenix-brighton-presents-digital-spotlight/)@ Phoenix Arts
 
 <h4>
 September 12th-14th, 2015 
 </h4>
 
-open( system )
+open( system ) @ Embassy Court
 
 Details on [Brighton Digital Festival](http://brightondigitalfestival.co.uk/event/open-system/)
 
@@ -78,31 +82,30 @@ You are invited to visit and explore work in progress, creatively input and imag
 
 KG talk about dream research & the creative unconscious. 
 
+May 14th, 2014
 
-Artist's Story 
+Artist's Story @ Fabrica Gallery, Brighton
 
-An illustrated talk as part of the Marcus Coates
-Dawn Chorus exhibition at Fabrica
+An illustrated talk as part of the Marcus Coates [Dawn Chorus exhibition](http://fabrica.org.uk/dawn-chorus-events/ at Fabrica Gallery) .
 
-http://fabrica.org.uk/dawn-chorus-events/
 
 <h4>
 November 23rd, 2014
 </h4>
 
-ONEIRIC ARCHIVES
+ONEIRIC ARCHIVES @ Camp and Furnace, Liverpool 
 
 Experiments in recording dreams of groups of people. Under the mentorship of Apela Colorado: Kate Genevieve and Will Scobie combine to document the dreams of the [Cosmic Trigger Experience](http://www.coscmictriggerplay.com)
 
-*update* Some documentation > [Oneiric Archives](http://oneiricarchives.tumblr.com/) & a call out to Santa Cruz contacts - the Trigger is set for the US. Get in touch if you have any links in Santa Cruz to bring this celebration of Robert Anton Wilson stateside. 
+*update* Documentation of 23 dreams > [Oneiric Archives](http://oneiricarchives.tumblr.com/) & a call out to Santa Cruz contacts - the Trigger is set for the US. Get in touch if you have any links in Santa Cruz to bring this celebration of Robert Anton Wilson stateside. 
 
-Feeling, Sensing, Perceiving
-Feeling Sensing Perceiving Workshop on
-sense-responsive technology and performance.
-Workshop led w Rachel Blackman at Phoenix Brighton
-2014 and a 6 week workshop in 2015.
+<h4> 2014 Workshops </h4>
 
-http://feelingsensing.tumblr.com/
+[Feeling, Sensing, Perceiving Workshops](http://feelingsensing.tumblr.com/)
+
+Open Workshops led by Rachel Blackman and KG on sense-responsive technology and performance.
+
+
 
 
 
