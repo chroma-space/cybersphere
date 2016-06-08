@@ -28,7 +28,7 @@ Frank Bock's curated program of talks: KG talks about Neuroscience, Embodiment a
 Art to Explore Consciousness
 
 
-Archive:
+Event Archive:
 
 <h4> June 2nd, 2016 </h4>
 
