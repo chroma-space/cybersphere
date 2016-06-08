@@ -57,10 +57,14 @@ You are invited to visit and explore work in progress, creatively input and imag
 
 KG talk about dream research & the creative unconscious. 
 
+<h4>
+November 23rd, 2014
+</h4>
+
 ONEIRIC ARCHIVES
 
-Experiments in recording dreams of groups of
-people. Under the mentorship of Apela Colorado: Kate Genevieve and Will Scobie combine to document the dreams of the Cosmic Trigger experience. 
-*update* Calling all Santa Cruz contacts - the Trigger is set for the US. Get in touch if you have any links in Santa Cruz to bring this celebration of Robert Anton Wilson stateside. 
+Experiments in recording dreams of groups of people. Under the mentorship of Apela Colorado: Kate Genevieve and Will Scobie combine to document the dreams of the [Cosmic Trigger experience] (http://cosmictriggerplay.com/). 
+
+*update* Some documentation > [Oneiric Archives] (http://oneiricarchives.tumblr.com/) & a call out to Santa Cruz contacts - the Trigger is set for the US. Get in touch if you have any links in Santa Cruz to bring this celebration of Robert Anton Wilson stateside. 
 
 
