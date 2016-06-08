@@ -12,6 +12,12 @@ Of the Spheres @  [Crawick Multiverse](http://www.crawickmultiverse.co.uk/)
 Solstice ritual on the land with Google Cardboard. A 360 experience in honour of the sun - involving the inner planes and the great outdoors. See [Of the Spheres] (http://ofthespheres.com/): a project exploring how human beings attempt to understand the vast durations and massive scales of the cosmos.
 
 
+<h4> June 2nd, 2016 </h4>
+
+An outdoor AV interactive experiment in wild Florida: the land the Voyager probes were launched from in 1977. The Voyager record emphasises the “homo musicus”. The Golden Record is laden with music and sonic material as a mode to communicate the quality of experience and emotional dimension of being human.  This performance experiment will invite you into a strange communication at a point when Spacex rockets are launching from Cape Canaveral and the tone, aesthetic and character of space investigation is shifting. 
+
+This showing of work is part of the Inside Out event, a group showing by artists, writers & musicians on Residency 161 - with input from Kate Genevieve, Ben Zucker, Shannon Novak and Farnaz Fatemi - [Of the Spheres] (http://ofthespheres.com/)
+
 
 <h4> December 2nd-12th, 2015 </h4>
  
