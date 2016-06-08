@@ -4,6 +4,7 @@ title: Now
 published: true
 ---
 
+upcoming:
 
 <h4> June 21st, 2016 </h4>
  
@@ -12,6 +13,19 @@ Of the Spheres @  [Crawick Multiverse](http://www.crawickmultiverse.co.uk/)
 Solstice ritual on the land with Google Cardboard. A 360 experience in honour of the sun - involving the inner planes and the great outdoors. See [Of the Spheres] (http://ofthespheres.com/): a project exploring how human beings attempt to understand the vast durations and massive scales of the cosmos.
 
 
+Media links
+
+<h4> [Arts Technologica](http://www.bbc.co.uk/programmes/b05r3ssp) </h4> 
+ 
+Aired on BBC radio 2015, interview with KG about Virtual Reality practice and with artists James Bridle, Ben Vickers, Thomson and Craighead and animation visionary David OReilly.
+
+<h4> [Crossing Borders at Siobhan Davies Dance](http://www.independentdance.co.uk/programmepage/media/audio) </h4> 
+
+KG speaker at Frank Bock's curated program of talks. Talk about Neuroscience, Embodiment and Sharing Interiority
+
+
+Archive:
+
 <h4> June 2nd, 2016 </h4>
 
  We too once lived in this house of stars, and we thought of you @  [Atlantic Center for the Arts](http://atlanticcenterforthearts.org/)
@@ -19,7 +33,6 @@ Solstice ritual on the land with Google Cardboard. A 360 experience in honour of
 An outdoor AV interactive experiment in wild Florida: the land the Voyager probes were launched from in 1977. The Voyager record emphasises the “homo musicus”. The Golden Record is laden with music and sonic material as a mode to communicate the quality of experience and emotional dimension of being human.  This performance experiment will invite you into a strange communication at a point when Spacex rockets are launching from Cape Canaveral and the tone, aesthetic and character of space investigation is shifting. 
 
 This showing of work is part of the Inside Out event, a group showing by artists, writers & musicians on Residency 161 - with input from Kate Genevieve, Ben Zucker, Shannon Novak and Farnaz Fatemi - [Of the Spheres] (http://ofthespheres.com/)
-
 
 <h4> December 2nd-12th, 2015 </h4>
  
@@ -65,6 +78,14 @@ You are invited to visit and explore work in progress, creatively input and imag
 
 KG talk about dream research & the creative unconscious. 
 
+
+Artist's Story 
+
+An illustrated talk as part of the Marcus Coates
+Dawn Chorus exhibition at Fabrica
+
+http://fabrica.org.uk/dawn-chorus-events/
+
 <h4>
 November 23rd, 2014
 </h4>
@@ -74,5 +95,15 @@ ONEIRIC ARCHIVES
 Experiments in recording dreams of groups of people. Under the mentorship of Apela Colorado: Kate Genevieve and Will Scobie combine to document the dreams of the [Cosmic Trigger Experience](http://www.coscmictriggerplay.com)
 
 *update* Some documentation > [Oneiric Archives](http://oneiricarchives.tumblr.com/) & a call out to Santa Cruz contacts - the Trigger is set for the US. Get in touch if you have any links in Santa Cruz to bring this celebration of Robert Anton Wilson stateside. 
+
+Feeling, Sensing, Perceiving
+Feeling Sensing Perceiving Workshop on
+sense-responsive technology and performance.
+Workshop led w Rachel Blackman at Phoenix Brighton
+2014 and a 6 week workshop in 2015.
+
+http://feelingsensing.tumblr.com/
+
+
 
 
