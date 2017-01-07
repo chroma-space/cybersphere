@@ -27,7 +27,7 @@ Inspired by divination and the poetry of Yeats, we have been making this project
 
 ![](/assets/images/015byzantium/oracle-entry.jpg)
 
-These "oracles" were to be voiced by the golden bird in the tree in front of FACT. Conceived by Kate Genevieve, designed by Will Scobie, with metal work by Piers Mason & Paul Hayes creating the bird's magical innards & installing it in the tree.
+These "oracles" were to be voiced by the golden bird in the tree in front of FACT. Conceived and recorded by Kate Genevieve, designed by Will Scobie, with metal work by Piers Mason & Paul Hayes creating the bird's magical innards & installing it in the tree.
 
 ![](/assets/images/015byzantium/installing-bird.jpg)
 
@@ -39,6 +39,14 @@ We started the project with a late night sigil drawn outside the gallery that he
 
 ![](/assets/images/015byzantium/kate.jpg)
 
-The project ran inside the FACT Lab, with burning sage and electronics. People entered into the ritual of casting oracles. [here: http://byzantium.chroma.space](http://byzantium.chroma.space) New possibilities emerge from the destruction: possibilities we could not have foreseen or thought up. 
+The project ran inside the FACT Lab with burning sage and electronics. People entered into the ritual of casting oracles. [here: http://byzantium.chroma.space](http://byzantium.chroma.space) New possibilities emerge from the destruction: possibilities we could not have foreseen or thought up. 
 
-We’re recalibrating, breathing deep and listening to the birds.
+This broken communication led on to C A S C A D E  http://cascade.network/: an experiment in creative activism & storytelling - created across many different media streams by many different people - imagining into alternative futures on earth at this time. C A S C A D E started by letting go of the plans we had and beginning again. Singing to the water in Hastings in mid-Winter 2015 we performed a digital ritual to open up a portal to alternative futures at a natural spring:  https://soundcloud.com/ofspheres/cascade
+
+This creative flow took us to the streets of Paris during the COP21 - the 2015 United Nations Climate Change Conference - story telling, chalking doors, planting seeds, sending messages.  A self-organised, collaborative experiment, that grew into a series of creative workshops on Buckminster Fuller & group synergetics, transmedia storytelling, cybernetics and hacking reality.   
+
+![]({{site.baseurl}}/assets/images/IMG_2095.jpg)
+
+![fire door.jpg]({{site.baseurl}}/assets/images/fire door.jpg)
+
+⸫ ⱡ ꒫ ⿴ ☼☽ A flaming door appears in the city - it's wide open and we don't know where it leads : ◌ ◎ ● ☉◗◖◯ ֯
