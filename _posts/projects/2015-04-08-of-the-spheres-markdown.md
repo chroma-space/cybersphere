@@ -3,42 +3,48 @@ categories: projects
 layout: post
 published: true
 title: Of the Spheres
-"panorama-longitude-speed": 0.01
-"panorama-user-control": false
-"invert-nav": true
-description: "360º projection, performance, space"
-date: "2015-01-01"
-video: heliosphere_projbanner
+panorama-longitude-speed: 0.01
+panorama-user-control: false
+invert-nav: true
+description: 'Acoustic ecology, participatory algorithms'
+date: '2015-07-08'
 poster: 008of_the_spheres/heliosphere_projbanner.jpg
-"splash-description": "<a href=\\\"http://vimeo.com/65454918\\\">Heliosphere trailer</a> from <a href=\\\"http://vimeo.com/chromaspace\\\">C H R Θ M A</a> on Vimeo."
-slug: of_the_spheres
+splash-description: >-
+  <a href=\"http://vimeo.com/65454918\">Heliosphere trailer</a> from <a
+  href=\"http://vimeo.com/chromaspace\">C H R Θ M A</a> on Vimeo.
+slug: byzantium
 video_pause: true
-video_mute: true
-thumbnail: "thumbnail-ofthespheres.jpg"
-index: 8
-jpg: ""
-png: ""
-"video-pause": false
-"play-once": false
-panorama: ""
-"panorama-poster": ""
-"index-image": ""
-"banner-align": top
+video_mute: false
+thumbnail: thumbnail-byzantium.jpg
+index: 15
+video-pause: false
+play-once: false
+banner-align: top
+jpg: 015byzantium/golden-bird-banner
 ---
+Byzantium is a sound experiment investigating visionary language, birdsong and participatory algorithms. The development of Byzantium during "Build Your Own: Tools for Sharing" invites the public into the [FACTLab](http://www.fact.co.uk/projects/factlab.aspx) to co-create oracles. This project is part of <span class="chroma">CHRΘMA</span>'s running experiment into technological circuits and symbolic, expressive language. Inspired by the historical concept of the "Language of the Birds" or the "green language", a natural and symbolic language of vital communication that exists within everyday words and spoken by birds.  This notion of a magical creative, language runs like a green seam through various cultures and myths. 
 
+In 2015 network technology is increasingly used by companies to crowd-source human beings as isolated working components of large automated systems, designed to produce commercial content and financial profit. We want to vision alternatives that are for ecology: can the living earth and animal populations be heard amidst the clamour of the city?
 
-> _“…there is no inner man, man is in the world, and only in the world does he know himself.” Maurice Merleau-Ponty, Phenomenology of Perception (Preface, 1945)_
+![](/assets/images/015byzantium/factlab.png)
 
-On the 12th September 2013 NASA announced that the Voyager 1 probe had crossed the heliosphere, the bubble-like boundary of charged particles marking the outer limits of our solar system, and is now the first manmade object in interstellar space. Whilst this historic transition is taking place at the very outer limits of our solar system, <b>Of the Spheres</b> looks at the reach of technological communication and the perspectives on the earth that the Voyager probes give us.
+Inspired by divination and the poetry of Yeats, we have been making this project at the FACTLab - exploring participatory algorithms and group utterance as we build. Open to all, people who came into the FACTLab could cast their own oracles using printed fragments of spoken word recordings of voices from Liverpool. 
 
-<b>Of the Spheres</b> is an art project that pays homage to NASA’s Voyager 1 probe: C H R Θ M A is exploring the relationship between the human and the cosmos through a series of outdoor immersive performances and a site for spherical panoramas  <a href="http://www.ofthespheres.com" target="_blank">www.ofthespheres.com</a>
+![](/assets/images/015byzantium/oracle-entry.jpg)
 
-Heliosphere, the first phase of the Of The Spheres project, is a 360º Sound & Vision performance for a projection dome that was staged as part of Brighton Fringe. To create the show we used data from Voyager's camera, electromagnetic and plasma wave instrumentation, and re-mixed this data with the contents of the Golden record from earth that is strapped to the space probe.
+These "oracles" were to be voiced by the golden bird in the tree in front of FACT. Conceived by Kate Genevieve, designed by Will Scobie, with metal work by Piers Mason & Paul Hayes creating the bird's magical innards & installing it in the tree.
 
-The second project is an Oculus Rift project - [Conjunction](http://chroma.space/projects/conjunction.html) - made for the UK’s solar eclipse of March 2015.
+![](/assets/images/015byzantium/installing-bird.jpg)
 
-Exploring using new technologies to record human life on this planet and drawing on the growing field of Acoustic Ecology we are interested in using 360º Photo Spheres and sound recordings to explore the relationship between human beings and their environment. We are collecting panoramas from around the world that record places people identify as “home”  >[http://ofthespheres.com/share-your-sphere/](http://ofthespheres.com/share-your-sphere/ "#cc1010")
+Sadly, the bird was vandalised in the night. The bird was pulled apart by someone wanting to break into the inner sphere, this sphere simply held some cheap electronics and speakers, the value was in the whole. We were pretty shaken by the news after all the work & care and it was especially sad for Paul who worked so many days refining this system &amp; this bird to sing of alternatives.
 
-Through looking beyond our bubbles of personal experience and listening beyond our own spheres of existence can immersive media put us in contact with the multitude of ways that the globe is experienced by different people?  Using techniques of re-mixing the the micro and the macro - life on earth and the sounds and visions NASA is collecting of the cosmos - we’re interested in making alternative perspectives of this earth more visible, audible and knowable.
+![](/assets/images/015byzantium/vandalism.jpg)
 
-> Listen to CHROMA talk about the project for a special episode of [http://www.bbc.co.uk/programmes/p01gdq15](BBC Click: Of The Spheres "sea-green")
+We started the project with a late night sigil drawn outside the gallery that held our hopes for creative technology. Sometimes it's a difficult journey to creatively work with technology in a way that holds values of sharing & ecology - much of the world runs to an altogether more commercial value system. But the tendency towards destruction has to be taken into any investigation of shared creativity, it is part of it and it is a tough lesson. 
+
+![](/assets/images/015byzantium/kate.jpg)
+
+The project ran inside the FACT Lab, with burning sage and electronics. People entered into the ritual of casting oracles. [here: http://byzantium.chroma.space](http://byzantium.chroma.space) New possibilities emerge from the destruction: possibilities we could not have foreseen or thought up. 
+
+We’re recalibrating, breathing deep and listening to the birds.
+
