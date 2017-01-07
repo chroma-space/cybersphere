@@ -49,4 +49,4 @@ This creative flow took us to the streets of Paris during the COP21 - the 2015 U
 
 ![fire door.jpg]({{site.baseurl}}/assets/images/fire door.jpg)
 
-⸫ ⱡ ꒫ ⿴ ☼☽ A flaming door appears in the city - it's wide open and we don't know where it leads : ◌ ◎ ● ☉◗◖◯ ֯
+⸫ ⱡ ꒫ ⿴ ☼☽ A flaming door appears in the city - it's wide open & we don't know where it leads : ◌ ◎ ● ☉◗◖◯ ֯
