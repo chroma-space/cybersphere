@@ -25,7 +25,7 @@ Inspired by Voyager 1's journey into intergalactic space, Of the Spheres explore
 
 **Trust **
 
-![Trust]({{site.baseurl}}/assets/images/3w.jpg)![3w.jpg]({{site.baseurl}}/assets/images/3w.jpg)
+![Trust]({{site.baseurl}}/assets/images/3w.jpg)
 
 AV installation experienced through hacked headphones, structures and screens as listening posts for life on earth and beyond. Showing during [Technology Not Neutral](http://technologyisnotneutral.com/) in London and Brighton 2016.
 
