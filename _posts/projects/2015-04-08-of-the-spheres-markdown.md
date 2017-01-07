@@ -47,4 +47,3 @@ We started the project with a late night sigil drawn outside the gallery that he
 The project ran inside the FACT Lab, with burning sage and electronics. People entered into the ritual of casting oracles. [here: http://byzantium.chroma.space](http://byzantium.chroma.space) New possibilities emerge from the destruction: possibilities we could not have foreseen or thought up. 
 
 We’re recalibrating, breathing deep and listening to the birds.
-
