@@ -7,6 +7,8 @@ private: "true"
 "splash-description": image created by Christian Krupa
 ---
 
+chroma.space
+Fusebox, New England House, The FuseBox, New England St, Brighton BN1 4GH
 
 
 > "14.03.2017
