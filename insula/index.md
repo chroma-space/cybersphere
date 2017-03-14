@@ -6,13 +6,12 @@ jpg: 016insula/insula_body
 private: "true"
 "splash-description": image created by Christian Krupa
 ---
-
+14.03.2017
 chroma.space
 Fusebox, New England House, The FuseBox, New England St, Brighton BN1 4GH
 
 
-> "14.03.2017
-The reason why heaven and earth are able to endure and continue this long is because they do not live of, or for, themselves." - Lao Tzu, Tao Te Ching
+> "The reason why heaven and earth are able to endure and continue this long is because they do not live of, or for, themselves." - Lao Tzu, Tao Te Ching
 
 > "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." 
 Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Press, 2000. 
