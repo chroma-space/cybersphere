@@ -6,11 +6,6 @@ jpg: 016insula/insula_body
 private: "true"
 "splash-description": image created by Christian Krupa
 ---
-14.03.2017
-chroma.space
-Fusebox, New England House, The FuseBox, New England St, Brighton BN1 4GH
-
-
 > "The reason why heaven and earth are able to endure and continue this long is because they do not live of, or for, themselves." - Lao Tzu, Tao Te Ching
 
 > "the unit of survival is the organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself." 
@@ -129,3 +124,8 @@ Touch will focus on neutral areas: shins / knees, shoulders, arms, hands, the to
 System for experiencing 
 
 I have worked with one-on-one performance culture in the UK for five years and gained lots of experience of working to schedule how participants book a place in the experience. From experience of exhibition, in general it works through invigilation: open to visitors who arrive to try, watching the experiences of others whilst they wait their turn. During special outdoor events in which lots of people attend it is best to pre-arrange bookable slots: this allows interested people to sign up and return at a set time.
+
+
+14.03.2017
+chroma.space
+Fusebox, New England House, The FuseBox, New England St, Brighton BN1 4GH
