@@ -14,7 +14,7 @@ Gregory Bateson, Steps to an Ecology of Mind. Chicago: University of Chicago Pre
 
 Insula forms part of Of the Spheres, a sequence of projects interacting with how humans find their place in the cosmos 
 
-http://ofthespheres.com
+[ofthespheres.com](http://ofthespheres.com)
 
 **Concept**
 
@@ -24,14 +24,14 @@ Insula is a virtual reality and mixed reality performance exploring emotional an
 
 Insula questions what role creative technology can play in transmitting our current world story to a global culture.
 
--360 Video 
+- **360 Video**
 
 The first 360 Dome experience - [Heliosphere](http://ofthespheres.com/heliosphere/)- focused on the journey of the Voyager 1 probe beyond the heliosphere to become the first object in intergalactic space. A space mission that showed large scale technological collaboration capable of achieving ambitious feats and also that creative technology can be used both to gather new data about the universe we are a part of AND to communicate what it is like to live on “spaceship earth”.
 
 The second 360 Dome experience focuses on earth now in 2017: threatened by the real effects of climate change and with a developing space programe. Extracting how the story of Lovelock’s Gaia theory was born at NASA when he was working to discover if there was life on earth and emphasising the star lore of the Pacific islands as we meet this fraught time in human history. 
 
 
--Ritual 
+- **Ritual**
 
 The project takes up a sense that technology and media can connect us to what is happening on earth now. development of a physical performance for outdoor locations that incorporates exploring, feeling and sensing nature.
 
